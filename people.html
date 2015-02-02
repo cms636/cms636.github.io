@@ -1,0 +1,17 @@
+---
+layout: page
+title: People
+permalink: /people/
+---
+
+<ul class="post-list">
+{% for post in {{ site.posts | where:"category","bio" }} %}
+  <li>
+	<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+	<h2>
+	  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	</h2>
+  </li>
+{% endfor %}
+</ul>
