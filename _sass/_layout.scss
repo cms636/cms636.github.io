@@ -175,6 +175,11 @@
 
     > li {
         margin-bottom: $spacing-unit;
+        border-bottom: 1px $grey-color-light solid;
+    }
+    
+    > li:last-child {
+    	border: none;
     }
 }
 
@@ -233,4 +238,10 @@
             font-size: 18px;
         }
     }
+}
+
+.bio-post {
+	img {
+		max-width: 240px;
+	}
 }
