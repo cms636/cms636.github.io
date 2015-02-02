@@ -1,14 +1,74 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Digital Humanities: Topics, Techniques, and Technologies
+#email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://cms633.github.io" # the base hostname & protocol for your site
+twitter_username: MIThyperstudio
+github_username:  cms633
 
 # Build settings
 markdown: kramdown
+
+prose:
+  rooturl: '_posts'
+  siteurl: "http://cms633.github.io/"
+  relativeLinks: 'http://cms633.github.io/links.jsonp'
+  media: 'assets'
+  metadata:
+    _posts:
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          placeholder: "your name, or your team's name"
+      - name: "category"
+        field:
+          element: "select"
+          label: "Category"
+          options:
+            - name: "Project Update"
+              value: "update"
+            - name: "Reading Commentary"
+              value: "commentary"
+            - name: "Bio"
+              value: "bio"
+            - name: "Outside Project"
+              value: "ext_project"
+            - name: "Dataset"
+              value: "dataset"
+            - name: "Course Info"
+              value: "course"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+            
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
+
