@@ -277,5 +277,11 @@ ul.home-links {
 .bio-post {
 	img {
 		max-width: 240px;
+		float: left;
+		margin-right: $spacing-unit / 2;
+		
+        @include media-query($on-palm) {
+			float: none;
+		}
 	}
 }
