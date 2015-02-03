@@ -156,6 +156,40 @@
     }
 }
 
+.home-image {
+	width: 68%;
+	float: left;
+	
+	@include media-query($on-laptop) {
+        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+        width:         calc(100% - (#{$spacing-unit} / 2));
+        float: none;
+    }
+}
+
+ul.home-links {
+	float: left;
+	list-style: none;
+	margin-left: $spacing-unit / 2;
+	
+	> li {
+		border-bottom: 1px solid $grey-color-light;
+	}
+	
+	> li:last-child {
+		border: none;
+	}
+	
+	@include media-query($on-laptop) {
+		float: none;
+		margin-left: 0px;
+	}
+}
+
+.caption {
+	font-size: $base-font-size * 0.8;
+	margin-bottom: 0px;
+}
 
 
 /**

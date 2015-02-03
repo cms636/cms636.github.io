@@ -4,20 +4,26 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <div class="home-image">
+  	<img src="/assets/talmud.jpg">
+  	<p class="caption">© David Small, Talmud Project</p>
+  </div>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
+  <ul class="home-links">
+  	  <li>
+  	  	<a href="">Course Syllabus</a>
+  	  </li>
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        <a href="{% post_url 2015-02-02-contributing-to-this-site %}">Contributing to This Site</a>
       </li>
-    {% endfor %}
+      <li>
+      	<a href="https://stellar.mit.edu/S/course/CMS/sp15/CMS.633/">Course Site on Stellar</a>
+      </li>
+      <li>
+      	<a href="">Materials on Annotation Studio</a>
+      </li>
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <!--<p class="rss-subscribe">see new posts <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 
 </div>

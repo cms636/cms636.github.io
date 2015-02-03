@@ -13,6 +13,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://cms633.github.io" # the base hostname & protocol for your site
 twitter_username: MIThyperstudio
 github_username:  cms633
+permalink: none
 
 # Build settings
 markdown: kramdown
@@ -44,9 +45,9 @@ prose:
               value: "commentary"
             - name: "Bio"
               value: "people"
-            - name: "Outside Project"
+            - name: "Example Project"
               value: "ext-projects"
-            - name: "Dataset"
+            - name: "Data Set"
               value: "datasets"
             - name: "Course Info"
               value: "course"
