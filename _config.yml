@@ -22,7 +22,7 @@ prose:
   rooturl: '_posts'
   siteurl: "http://cms633.github.io/"
   relativeLinks: 'http://cms633.github.io/links.jsonp'
-  media: '/assets'
+  media: 'assets'
   metadata:
     _posts:
       - name: "published"
