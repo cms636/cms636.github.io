@@ -4,6 +4,7 @@ published: true
 title: Kurt Fendt (Instructor)
 category: people
 author: Kurt Fendt
+display-rank: 1
 ---
 
 ![Kurt.jpg](/assets/Kurt.jpg)

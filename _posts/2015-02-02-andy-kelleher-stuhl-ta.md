@@ -4,6 +4,7 @@ published: true
 title: Andy Kelleher Stuhl (TA)
 category: people
 author: Andy
+display-rank: 2
 ---
 
 ![](/assets/andy.jpg)

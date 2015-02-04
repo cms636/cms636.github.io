@@ -6,7 +6,8 @@ nav-rank: 6
 ---
 
 <ul class="post-list">
-{% for post in site.categories.people %}
+{% assign people_sorted = site.categories.people | sort: 'display-rank', 'last' %} 
+{% for post in people_sorted %}
   <li class="bio-post">
 	<h2>
 	  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
