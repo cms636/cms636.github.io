@@ -215,6 +215,10 @@ ul.home-links {
     > li:last-child {
     	border: none;
     }
+    
+    a.post-link {
+    	color: $text-color;
+    }
 }
 
 .post-meta {
