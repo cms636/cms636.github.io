@@ -11,6 +11,6 @@ author: fendt
 ![M119_02_R117_019 - 1754.jpg](/assets/M119_02_R117_019 - 1754.jpg)
 ![M119_02_R155_005 - 1789.jpg](/assets/M119_02_R155_005 - 1789.jpg)
 
-Four pages (1680, 1714, 1754, 1789)from 113 years of daily records of detailed ticket sales at the Comédie-Française theater in Paris. For further instructions see Activity/Assignment 1.
+Four pages (1680, 1714, 1754, 1789) from 113 years of daily records of detailed ticket sales at the Comédie-Française theater in Paris. For further instructions see Activity/Assignment 1.
 
  
