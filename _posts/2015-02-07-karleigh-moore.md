@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: Karleigh Moore
-category: updates
+category: people
 ---
 
 ![kjmoore_profile633.jpg](/assets/kjmoore_profile633.jpg)
