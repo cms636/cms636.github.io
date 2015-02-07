@@ -4,7 +4,7 @@ published: true
 title: "The Challenge of Multi-Author Texts"
 category: commentary
 tags: 
-  - digital_humanities
+  - Digital_Humanities
 author: hariharsubramanyam
 ---
 

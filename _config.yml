@@ -58,7 +58,7 @@ prose:
           placeholder: "Choose Reading(s)"
           options:
             - name: "Digital_Humanities"
-              value: "digital_humanities"
+              value: "Digital_Humanities"
       - name: "title"
         field:
           element: "text"
