@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: "CFRP Protoype - Theater Tycoon"
-category: "ext-projects"
+category: updates
 author: hariharsubramanyam
 ---
 
