@@ -8,7 +8,7 @@ tags:
 author: hariharsubramanyam
 ---
 
-I think traditional techniques used in the humanities (as laid out in the SG to DH), especially the use of evidence, are not suitable to some enormous bodies of texts in the digital space. The challenge is not necessarily in the scale of the dataset, but in the number of authors.
+I think traditional techniques used in the humanities (as laid out in the SG to DH), especially the use of specific textual evidence (ex. quotes), are not suitable to some enormous bodies of texts in the digital space. The challenge is not necessarily in the scale of the dataset, but in the number of authors.
 
 Historically, humanists have studied works created by a single author, or a small number of authors. The author (or authors) has a plan for the work. He/she writes each line or paints each stroke with a purpose, and he/she knows the overall message. But, as the number of authors grows, as in some of the datasets mentioned in “Scale: the law of large numbers”, none of the above statements are true. 
 
