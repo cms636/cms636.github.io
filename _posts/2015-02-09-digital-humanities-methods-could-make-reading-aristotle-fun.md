@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Digital Humanities Methods Could Make Reading Aristotle Fun
+title: Digital Humanities Methods Could Actually Make Reading Aristotle Fun
 category: commentary
 author: Karleigh Moore
 tags: 
