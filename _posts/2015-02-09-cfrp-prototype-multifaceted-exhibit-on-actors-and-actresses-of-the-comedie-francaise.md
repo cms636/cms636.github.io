@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: "CFRP Prototype: Multifaceted Exhibit on Actors and Actresses of the Comedie-Francaise  "
 category: updates
+author: Karleigh Moore and Meghana Bhat
 ---
 
 ### By Meghana Bhat and Karleigh Moore
