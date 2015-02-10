@@ -43,4 +43,8 @@ Additionally, we would want to process our data sets so that we could represent 
 **Audience
 **
 
-This tool would be interesting and useful for academics and lay people alike. Such a tool could help a PhD student with thesis work in art history, theatre, or even economics and it could also be of use to a high school student working to complete an essay about theater. But this could also be an entertaining and enlightening interface to include at theatre locations with an interest in displaying a bit about their theatre’s history — sort of like a museum exhibit. In that line of thought, this interface would probably also be a welcome addition to art/theatre museums. 
+This tool would be interesting and useful for academics and lay people alike. Such a tool could help a PhD student with thesis work in art history, theatre, or even economics and it could also be of use to a high school student working to complete an essay about theater. But this could also be an entertaining and enlightening interface to include at theatre locations with an interest in displaying a bit about their theatre’s history — sort of like a museum exhibit. In that line of thought, this interface would probably also be a welcome addition to art/theatre museums.
+
+**Research Questions**
+
+For the students and historians, this tool could be used educationally to discover the successes and failures of certain actors or actresses or plays. For actors and actresses, this could give them more insight on what role or play to participate in for their specific acting style, under different circumstances, as well as the effects of certain play performances on acting careers. Additionally, managers in theatre could use it to determine which actors and actresses would be more optimal to offer roles to.
