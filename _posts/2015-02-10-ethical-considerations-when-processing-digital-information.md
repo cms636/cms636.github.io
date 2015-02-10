@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Ethical Considerations When Processing Digital Information
 category: commentary
 author: Yanni
