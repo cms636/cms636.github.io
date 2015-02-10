@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: Meridian Witt
 category: people
+author: "Meridian "
 ---
 
 <style>img {width:200; float:left; margin-right:10px; font-family:'Poiret One', cursive}</style>
