@@ -8,7 +8,8 @@ author: Karleigh Moore and Meghana Bhat
 
 ### By Meghana Bhat and Karleigh Moore
 
-**Thought Process**
+**Thought Process
+**
 
 In order to convert facsimile information into usable data, our group needed to decide what our end goal was to be and to identify an audience that would find our work useful. We decided that an interactive and visual project that allowed users to engage with and explore the history of particular actors would be a useful tool for students of theatre, present day actors and their managers, and owners of theatres. 
 
@@ -45,6 +46,7 @@ Additionally, we would want to process our data sets so that we could represent 
 
 This tool would be interesting and useful for academics and lay people alike. Such a tool could help a PhD student with thesis work in art history, theatre, or even economics and it could also be of use to a high school student working to complete an essay about theater. But this could also be an entertaining and enlightening interface to include at theatre locations with an interest in displaying a bit about their theatre’s history — sort of like a museum exhibit. In that line of thought, this interface would probably also be a welcome addition to art/theatre museums.
 
-**Research Questions**
+**Research Questions
+**
 
 For the students and historians, this tool could be used educationally to discover the successes and failures of certain actors or actresses or plays. For actors and actresses, this could give them more insight on what role or play to participate in for their specific acting style, under different circumstances, as well as the effects of certain play performances on acting careers. Additionally, managers in theatre could use it to determine which actors and actresses would be more optimal to offer roles to.
