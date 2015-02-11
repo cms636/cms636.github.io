@@ -1,0 +1,11 @@
+---
+layout: post
+published: false
+title: Corey Walsh
+category: people
+author: Corey Walsh
+---
+
+![me.jpg](/assets/me.jpg)
+
+[Corey](https://rayban.vision) is a sophomore in Computer Science at MIT concentrating in CMS. He is involved in web development and audio-phoolery. Fun fact: Corey won't fit into any of your boxes, not even one.
