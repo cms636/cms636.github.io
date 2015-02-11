@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 title: The Law of Large Numbers
-category: updates
+category: commentary
+author: Ben Reynolds
+tags: 
+  - Digital_Humanities
 ---
 
 _Commentary by Ben Reynolds_
