@@ -35,6 +35,7 @@ Our exact audiences can be two types: researchers and theater owners. The resear
 ### Questions To Answer
 
 Some questions our prototype can answer include:
+
 - How did the historical events influenced the development of a genre in a time period?
 - When did the theater make the most revenue from the ticket sales?
 - Why did the theater sell the least amount of tickets at that time?
@@ -43,8 +44,3 @@ Some questions our prototype can answer include:
 - Did the ticket sales rise when the show featured a famous actor/actress?
 - Which genre was loved by the French at all time periods?
 - How did the change in theater’s design contribute to the ticket sales?
-
-
-
-
-
