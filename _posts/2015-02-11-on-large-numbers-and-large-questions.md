@@ -23,7 +23,7 @@ There is no question in my mind that the natural text processing, machine learni
 
 While navigating the turmoil of ethical concerns may involve asking ourselves hard questions in uncharted territory, as a society we must face the music, and accept our newfound duty.
 
-[1] http://en.wikipedia.org/wiki/Pretty_Good_Privacy#Early_history
+[1] [http://en.wikipedia.org/wiki/Pretty_Good_Privacy#Early_history](http://en.wikipedia.org/wiki/Pretty_Good_Privacy#Early_history)
 
 [2] While somewhat irrelevant to this topic, an interesting side note is that Zimmermann combatted his charges by printing PGP source code in hardback through MIT Press, in which form it fell under First Amendment protection.
 
