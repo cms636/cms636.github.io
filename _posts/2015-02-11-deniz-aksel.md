@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Deniz Aksel
 category: people
 author: Deniz Aksel
