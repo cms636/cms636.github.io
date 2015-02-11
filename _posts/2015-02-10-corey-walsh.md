@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Corey Walsh
 category: people
 author: Corey Walsh
