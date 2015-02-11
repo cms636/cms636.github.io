@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "CFRP Prototype – CFTool: An Interactive Seat-Map"
 category: updates
 author: Deniz Aksel
