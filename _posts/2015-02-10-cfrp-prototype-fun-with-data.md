@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "CFRP Prototype - Fun With Data"
 category: updates
 author: "Yanni Coroneos, Corey Walsh"
@@ -38,9 +38,12 @@ For the first, the user could define the x and y axis, and the data that should 
 ## Audience
 Our end product targets a wide audience. We think that historians and students could really use our website to get a feel for the era and even pick up on some specific facts. Additionally, actors could even use our website if they want to incorporate old styles into their current work/layout. It could also be neat if the actual Comédie-Française used our product as a distraction during intermission. The audience could play around with it while the scene changes.
 
-Questions Addressed
+## Questions Addressed
 Our system allows for a large range of questions to be answered, limited primarily by the user’s imagination. Some example questions might include:
 
 1. Most sought after seat for a given play
 2. Most profitable wine selection
 3. How world events impacted theater attendance
+
+## Designs
+![IMG_2254.JPG](/assets/IMG_2254.JPG)
