@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Augmented Editions and Fluid Textuality "
 category: commentary
 author: Sherry Ren
