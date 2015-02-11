@@ -13,9 +13,12 @@ Data visualization is a very powerful tool that can allow an observer to compreh
 ## Data Extraction from Facimiles:
 As seen in the four sample facimiles, the structure of data storage has gone through many variations over the 113-year time span. As a result, simply processing the data via OCR will likely not be sufficient for data extraction. A good approach to digitizing the data might involve:
 
-**1)	A crude categorization of the documentation into different data storage formats:** Using feature recognition, the scanned image files for the facimiles can be separated into clusters that have an overall similar outline. 
+**1)	A crude categorization of the documentation into different data storage formats:** Using feature recognition, the scanned image files for the facimiles can be separated into clusters that have an overall similar outline.
+
 **2)	Labeling regions within the image with the relevant data:** With knowledge on the various different formats, we can now label each format with ROIs defining the nature of the information stored in that portion of the page.
+
 **3)	OCR:** the text can be digitized via various advanced character recognition algorithms.
+
 **4)	Guided Translation:** To make the resource accessible to an international audience of both scholars and laymen, it is important for the information to be translated into various languages. As context is critical for accurate translation, this can be done with a guided machine learning algorithm, which can intake manually translated sample pages as its training data.
 
 ## Presentation and Accessibility of Data:
