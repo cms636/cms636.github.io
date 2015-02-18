@@ -12,4 +12,4 @@ It is quite amazing how digital environments allow us to access text in differen
 
 Fluid textuality makes "writing" a completely different experience. When I write, I often find myself in need of switching the orders of the paragraphs or sentences. Digital media makes this process infinitely easier than before. Also, it is very easy to figure out if I'm over-using a certain word with the ability to search throught the text in digital format. 
 
-Digital environments are changing the way we making different editions of certain texts and also the way we create new writings. 
+Digital environments are changing the way we making different editions of certain texts and also the way we create new writings.
