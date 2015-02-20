@@ -6,4 +6,4 @@ category: datasets
 author: Andy
 ---
 
-Another data visualization tools, [Gephi](https://gephi.github.io) is a downloadable application focused on complex graphs of network data.
+Another data visualization tool, [Gephi](https://gephi.github.io) offers a downloadable application focused on complex graphs of network data.
