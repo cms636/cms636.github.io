@@ -6,8 +6,6 @@ category: updates
 author: hariharsubramanyam
 ---
 
-## Finding a Data Story with Tableau Public
-
 I decided to do some visualizations using a different software called [Tableau Public](http://www.tableau.com/products/public) (the free version of Tableau, a popular business intelligence and analytics tool).
 
 I’m using the `CFRP-1770s-cleaned.csv` file.
