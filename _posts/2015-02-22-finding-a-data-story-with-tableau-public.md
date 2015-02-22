@@ -14,9 +14,9 @@ To start our story, we need some characters, so let’s figure out who the most 
 
 ![circle packing diagram](/assets/harihar_tableau0.png)
 
-It looks like Molire was the most prolific playwright (biggest circle) and that Voltaire was close behind. However, Molire tended to write comedies (green) while Voltaire wrote tragedies (red). On top of that it seems that most of the playwrights at the time seemed to write comedies. There were also a few that wrote dramas. The purple circle represents Iconnu (perhaps a group, not an author) who made divertissement (which appears to be an interlude within a play).
+It looks like Molire was the most prolific playwright (biggest circle) and that Dancourt and Voltaire were close behind. However, Molire and Dancourt tended to write comedies (green) while Voltaire wrote tragedies (red). On top of that it seems that most of the playwrights at the time seemed to write comedies. There were also a few that wrote dramas. The purple circle represents Iconnu (perhaps a group, not an author) who made divertissement (which appears to be an interlude within a play).
 
-Now that we know the most prolific playwright, let’s try and get an idea of who was the most successful (in terms of number of tickets sold) playwright. To do this, we’ll make a side-by-side circle chart (which is effectively a bar chart where the bars are replaced with circles). On the x-axis, we have the names of the authors. On the y-axis, we have the total number of tickets they sold over all their plays. I’ve cropped out some of the graph so it fits, but you can see it below.
+Now that we know the most prolific playwrights, let’s try and get an idea of who was the most successful (in terms of number of tickets sold) playwright. To do this, we’ll make a side-by-side circle chart (which is effectively a bar chart where the bars are replaced with circles). On the x-axis, we have the names of the authors. On the y-axis, we have the total number of tickets they sold over all their plays. I’ve cropped out some of the graph so it fits, but you can see it below.
 
 ![side by side circles](/assets/harihar_tableau1.png)
 
@@ -26,7 +26,7 @@ I wonder if that has more to do with the theater than the playwright. If the the
 
 ![scatterplot](/assets/harihar_tableau2.png)
 
-It looks like not all performances hit capacity, so Molire and Voltaire appear to be popular, even for playwrights at this theater.
+It looks like not all performances hit capacity, so Molire, Dancourt, and Voltaire appear to be popular, even for playwrights at this theater.
 
 With that, let’s turn our attention to plays. Which play sold the most tickets? If we make a pie chart, we can’t really figure that out easily. 
 
@@ -34,6 +34,6 @@ With that, let’s turn our attention to plays. Which play sold the most tickets
 
 But what this does tell us is that there’s no play which was hugely more popular than the rest (the biggest slices are pretty close in size). That being said, it seems Avocat Pateline by Brueys had the most sales (almost 25k).
 
-We could go on, but even just tells us a lot. We learned that tragedy writer (rare, because most playwrights wrote comedies) Voltaire and comedy writer Molire were the most popular playwrights (even for such a popular theater). However, it was Brueys who made the most popular play.
+We could go on, but even just tells us a lot. We learned that tragedy writer (rare, because most playwrights wrote comedies) Voltaire and comedy writers Dancourt and Molire were the most popular playwrights (even for such a popular theater). However, it was Brueys who made the most popular play.
 
 This is my first time using Tableau Public, but I really liked it. While it does not offer a huge number of visualizations, it can work with the full dataset (Many Eyes slowed to a crawl when I tried it) easily and lets you interact with the visualization and query/filter the data.
