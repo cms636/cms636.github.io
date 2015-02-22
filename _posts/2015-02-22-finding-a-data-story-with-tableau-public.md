@@ -14,7 +14,7 @@ To start our story, we need some characters, so let’s figure out who the most 
 
 ![circle packing diagram](/assets/harihar_tableau0.png)
 
-It looks like Molire was the most prolific playwright (biggest circle) and that Dancourt and Voltaire were close behind. However, Molire and Dancourt tended to write comedies (green) while Voltaire wrote tragedies (red). On top of that it seems that most of the playwrights at the time seemed to write comedies. There were also a few that wrote dramas. The purple circle represents Iconnu (perhaps a group, not an author) who made divertissement (which appears to be an interlude within a play).
+It looks like Molire was the most prolific playwright (biggest circle) and that Dancourt and Voltaire were close behind. However, Molire and Dancourt tended to write comedies while Voltaire wrote tragedies. On top of that it seems that most of the playwrights at the time seemed to write comedies. There were also a few that wrote dramas. The purple circle represents Iconnu (perhaps a group, not an author) who made divertissement (which appears to be an interlude within a play).
 
 Now that we know the most prolific playwrights, let’s try and get an idea of who was the most successful (in terms of number of tickets sold) playwright. To do this, we’ll make a side-by-side circle chart (which is effectively a bar chart where the bars are replaced with circles). On the x-axis, we have the names of the authors. On the y-axis, we have the total number of tickets they sold over all their plays. I’ve cropped out some of the graph so it fits, but you can see it below.
 
