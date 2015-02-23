@@ -1,0 +1,11 @@
+---
+layout: post
+published: true
+title: "Big Data isn't Better, Limited Access and Digital Divides"
+category: commentary
+author: hariharsubramanyam
+---
+
+The discussion about Twitter “lurkers” and bots, private tweets, filtering of explicit content, and the potential underrepresentation in the “spritzer” and “gardenhose” APIs serve to illustrate that researchers don’t actually get a good view of the social network data and that big data is not always better data. In addition to that, I’d like to add that even if the mentioned issues were ignored (ex. no lurkers/bots, all tweets public, no filtering, full API), Twitter still has fundamental problems when used to study social networks because people do not represent themselves honestly. A user’s tweet is a precise statement that they compose at will, with forethought (perhaps several minutes or hours of it), and with the intent to reach a large audience. With this in mind, researchers need to remember users on social networks (ex. Facebook, Twitter) post a highly curated set of their opinions and view of their lives. Such things are more difficult for people to do when observed or interviewed in-person. Therefore, when researchers look to social networks for insight, they should take their results with a grain of salt.
+
+Boyd and Crawford’s comments on access inequality is something I had never considered, but upon reflection, it’s quite alarming. Since companies are able to selectively grant access to data (often to top universities) and since the data requires a computational background to utilize, only a select demographic has access to this data. While tools can be built to make these datasets more friendly to a non-technical audience, the former problem cannot be solved as long as companies are able to dictate who gets their data. This is unfortunate, because major social networks are almost all hosted by companies. An open source or open data social network is not very likely, because maintaining the technical infrastructure for large social networks like Facebook would be cost prohibitive and the network effect makes it unlikely that a new social network will be adopted by users. What steps could researchers take to give companies an incentive to make their data more open? I’m curious what people think.
