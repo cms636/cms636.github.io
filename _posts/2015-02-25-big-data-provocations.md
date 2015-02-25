@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: Big Data Provocations
-category: updates
+category: commentary
+author: Corey Walsh
 ---
 
 ### Ethics and Anonymization:
