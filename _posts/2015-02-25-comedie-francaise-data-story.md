@@ -12,7 +12,7 @@ With the current rise in technology comes an explosion of data and observations 
 Many tools, such as the Excel, RAW, Many Eyes, have been created to ease this process of data understanding, but each has its strengths, weaknesses, and impact. To understand the differences among tools, we take datasets from the Comedie Francaise Registers Projects and attempt to visualize the 3 fields: date, total tickets sold, and genre, in different graphs.
 
 We start off with a simple scatter plot.
-![judy-cfrp-2.png](/_posts/judy-cfrp-2.png)
+![judy-cfrp-2.png](/judy-cfrp-2.png)
 
 Here we can easily see that the dominant genre is comedy, with a brief period when tragedy is popular. We also note that we see a brief gap between April 1 to April 20, and we correspond that to be the Easter holidays in France, when the theater would be on break. We also note that there are no other genres than comedy after the holidays, and that the total number tickets sold increased after the break.
 
