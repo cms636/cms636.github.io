@@ -12,7 +12,7 @@ The first graph I decided to make after poking through the interface for a bit w
 ![Screenshot 2015-02-25 02.04.46.png](/assets/Screenshot 2015-02-25 02.04.46.png)
 <br>You can clearly see here that there are way more play in the "Comdie" genre than the others. This graph also allows us to see which author is more prolific. At first, I tried to add "total_sold" to the last layer, however, due to the size of the data set and the screensize, it was very hard to see everything. Therefore, my next goal was to create a graph that can show which title is more popular for each author. 
 
-Previous findings lead me to create a "Circle Packing" graph. I chose to color by genre, group them by author, and size by total number of tickets sold. It gives me an insight on who has the more popular shows. It's interesting that some of the more prolific authors have medium level of popularity and some authors who only has one show turned out to be a huge success. 
+Previous findings lead me to create a "Circle Packing" graph. I chose to color by genre, group them by author, and size by total number of tickets sold. It gives me an insight on who has the more popular shows. It's interesting that some of the more prolific authors have medium level of popularity and some authors who only has one show turned out to be a huge success. It is also interesting to see that some authors wrote multiple genres but some only focused on one.
 
 ![Screenshot 2015-02-25 02.39.11.png](/assets/Screenshot 2015-02-25 02.39.11.png)
 
