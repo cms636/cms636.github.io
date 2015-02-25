@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Big Data-The Enabler"
+title: "Big Data-Enabling and Engaging Humanities"
 category: commentary
 author: Eileen Rivera
 ---
