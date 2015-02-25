@@ -3,7 +3,7 @@ layout: post
 published: true
 title: "Meaningful Data Storytelling "
 category: updates
-author: EileenRivera
+author: Eileen Rivera
 ---
 
 I really enjoy learning about and working with data visualiztion tools. For this assignment I utilized IBM's online program ManyEyes. With my data I focused on analyzing the amount of tickets sold relative to the genre. I wanted to better understand which genres generated the most revenue and sold the most tickets. I believe this analysis would be more dynamic if I had a data set detailing revenue created from each of the genres on average. Then I could offer  a more in depth analysis for areas that are of particular interest to me. 
