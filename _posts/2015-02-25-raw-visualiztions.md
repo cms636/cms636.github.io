@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: RAW visualiztions
 category: updates
+author: "Eva Stern-Rodriguez"
 ---
 
 I focused on two data visualizations from RAW that I found to be particularly effective at relaying information.  I enjoyed the range of visualizations RAW had to offer, but the lack of numerical data made it difficult to create relevant visualizations that enhanced the views knowledge rather than confused them.  The first graph I focused on was the circular dendrogram with the play genre and total number of tickets sold as the dimensions of the graph.  The visualization is a circular, tree like structure, where each branch corresponds to a different parameter.
