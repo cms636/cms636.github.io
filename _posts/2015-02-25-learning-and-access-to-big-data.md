@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: Learning and Access to Big Data
-category: updates
+category: commentary
+author: "Eva Stern-Rodriguez"
 ---
 
 Automating Research Changes the Definition of Knowledge 
