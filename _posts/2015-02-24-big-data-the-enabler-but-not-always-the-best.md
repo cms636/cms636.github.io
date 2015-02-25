@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: "Big Data-The Enabler, but not always the best"
-category: updates
+category: commentary
+author: Eileen Rivera
 ---
 
 Provocation #3: Big Data is Not Always Better Data
