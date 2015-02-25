@@ -17,6 +17,7 @@ Next I wanted to be more specific in my explorations with genre and popularity. 
 
 ![Screen Shot 2015-02-24 at 9.42.45 PM.png](/assets/Screen Shot 2015-02-24 at 9.42.45 PM.png)
 
+
 The last thing I wanted to see with a bubble graph was what genres were most popular in each year, measured in total ticket sales. From this visualization, we can see what we expect given the previous visualizations: comedies always sold more than tragedies or any other genre. But we can see years in which ticket sales boomed (the larger circles indicate more ticket sales). This can show us which years theater was most popular and profitable. This also shows a fairly constant difference in the ticket sales between comedies and tragedies, all of the blue (comedy) circles are about the same size and all of the pink (tragedy) circles are about the same size. Here is that visualization.
 
 ![Screen Shot 2015-02-24 at 9.46.23 PM.png](/assets/Screen Shot 2015-02-24 at 9.46.23 PM.png)
