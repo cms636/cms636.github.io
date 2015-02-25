@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: Data Access Inequality and Data Quality
-category: updates
+category: commentary
+author: Zach Sherin
 ---
 
 I personally found the most interesting part of this article the interplay between data access inequality and the quality of that data.
