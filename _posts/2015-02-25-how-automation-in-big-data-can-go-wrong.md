@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: On Automation and Accessible Data
-category: updates
+category: commentary
+author: Deniz Aksel
 ---
 
 **The (Limiting) Effects of Automation on Human Knowledge**
