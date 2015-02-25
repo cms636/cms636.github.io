@@ -6,7 +6,7 @@ category: updates
 author: Karleigh Moore
 ---
 
-I found that using [the RAW app](http://app.raw.densitydesign.org/#%2F)made my computer overheat when trying to visualize the larger set of data, so I found a data visualization software service online, [Tableau](http://www.tableau.com/support/product). I'm not really a computer person and I thought that RAW had an easier interface, but Tableau did the trick any way. 
+I found that using [the RAW app](http://app.raw.densitydesign.org/#%2F) made my computer overheat when trying to visualize the larger set of data, so I found a data visualization software service online, [Tableau](http://www.tableau.com/support/product). I'm not really a computer person and I thought that RAW had an easier interface, but Tableau did the trick any way. 
 
 Here are a few visualizations that I put together.
 
