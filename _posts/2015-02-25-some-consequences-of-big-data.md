@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Some Consequences of Big Data
 category: commentary
 author: Yanni Coroneos
