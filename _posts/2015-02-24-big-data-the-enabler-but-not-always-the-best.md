@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Big Data-The Enabler, but not always the best"
+title: "Big Data-The Enabler"
 category: commentary
 author: Eileen Rivera
 ---
