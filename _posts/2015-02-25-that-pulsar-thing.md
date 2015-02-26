@@ -6,4 +6,4 @@ category: updates
 author: "Corey Walsh, Yanni Coroneos"
 ---
 
-http://mediabitch.mit.edu:8080/index.html
+[http://mediabitch.mit.edu:8080/index.html](http://mediabitch.mit.edu:8080/index.html)
