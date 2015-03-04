@@ -18,7 +18,7 @@ After clicking on a specific author, the CF API is queried and the web page disp
 
 ![author page](/assets/author_page_mockup.png)
 
-We implemented parts of the mockup in a website: https://infinite-tor-5541.herokuapp.com/. A screenshot of the website is shown below.
+We implemented parts of the mockup in a website: [https://infinite-tor-5541.herokuapp.com/](https://infinite-tor-5541.herokuapp.com/). A screenshot of the website is shown below.
 
 ![timeline screenshot](/assets/author_timeline_screnshot.png)
 
