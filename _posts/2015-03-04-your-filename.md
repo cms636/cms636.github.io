@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: ""
+title: Popularity and Success of Plays and Genres Over Time
 category: updates
 author: "Meghana Bhat, Judy Chang, Val Healy"
 ---
