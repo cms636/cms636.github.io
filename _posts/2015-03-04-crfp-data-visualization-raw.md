@@ -12,8 +12,10 @@ For my visualization, I decided to explore some of the lesser-used visualization
 
 ![voronoi_big.png](/_posts/voronoi_big.png)
 
+In this visualization, my goal was to show the popularity of genres in the period, using ticket sales as a metric. 
+
 As you can see, the image is a bit difficult to parse. I decided to try it again with the smaller dataset:
 
 ![voronoi_small.png](/_posts/voronoi_small.png)
 
-This one is much more readable, and 
+This one is much more readable, though it has no labels. 
