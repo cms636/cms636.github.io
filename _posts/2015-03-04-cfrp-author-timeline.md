@@ -7,7 +7,6 @@ author: "Harihar Subramanyam, Ariana Eisenstein, Sherry Ren"
 ---
 
 ### Research Question: Who were the authors of the Comédie-Française?
-**Harihar Subramanyam, Sherry Ren, Ariana Eisenstein**
 
 To answer our research question we have created a website mimicking the Internet Movie Database (IMDB), but instead of using actors, we used the playwrights of the CF. Each playwright and their work is catalogued to be searched and viewed quickly.
 
