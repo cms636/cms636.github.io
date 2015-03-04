@@ -6,7 +6,7 @@ category: updates
 author: "Ben, Deniz, and Karleigh"
 ---
 
-**What was the question we were addressing?**
+**What question are we addressing?**
 
 Joseph Chenier’s “Charles IX ou l'École des rois”  is considered a key catalyzer on the path leading to the French Revolution.
 
