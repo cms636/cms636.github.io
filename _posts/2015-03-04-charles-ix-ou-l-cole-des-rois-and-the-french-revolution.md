@@ -6,8 +6,7 @@ category: updates
 author: "Ben, Deniz, and Karleigh"
 ---
 
-**What was the question we were addressing?
-**
+**What was the question we were addressing?**
 
 Joseph Chenier’s “Charles IX ou l'École des rois”  is considered a key catalyzer on the path leading to the French Revolution.
 
@@ -19,8 +18,7 @@ What were ticket sales like for performances of this play over time. In particul
 
 This tool would be interesting for those studying the history of the French Revolution and particularly cultural contributions to tensions. This tool could be easily integrated with a museum exhibit regarding French history surrounding the Revolution or even the societal/political influences of art and theater.   
 
-**Our API Approach
-**
+**Our API Approach**
 
 We built the [website](https://rawgit.com/Benolds/CMS633-Comedie-Francaise-Visualization/master/index.html) using d3.js to power the visualization. First, we send an HTTP GET request to the CFRP API to retrieve data about the number of tickets sold for this play. We do so for the lodge tickets and the parterre tickets, and we visualize each in a simple bar chart powered by d3.js. The charts are side-by-side so you can easily compare the types of tickets sold on a given night. Below is a screen shot of our website, showing the bar graphs that compare theater attendance, according to ticket sales, of wealthier and poorer classes to this controversial play. 
 
