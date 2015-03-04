@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: That Pulsar Things
+title: That Pulsar Thing
 category: updates
 author: The Data Guzzlers
 ---
