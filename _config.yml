@@ -59,6 +59,8 @@ prose:
           options:
             - name: "Digital_Humanities"
               value: "Digital_Humanities"
+            - name: "The Database"
+              value: "The Database"
       - name: "title"
         field:
           element: "text"
