@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: CRFP Data Visualization (RAW)
 category: updates
 author: Val Healy
