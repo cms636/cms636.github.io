@@ -21,7 +21,8 @@ As you can see, the image is a bit difficult to parse. I decided to try it again
 ![voronoi_small.png](/_posts/voronoi_small.png)
 
 This one is much more readable, though it also has no labels.
-However, what does this data actually show? I confess, I did not know what a Voronoi Tessellation was- or how it was constructed- until after I made my graphs. While I initially thought that the size of each polygon would correlate with the number of tickets sold, but, when I looked into the matter, I realized that the polygons, in fact, represented every point that is closer to its point (seen) than any others.
+
+However, what does this data actually show? I confess, I did not know what a Voronoi Tessellation was- or how it was constructed- until after I made my graphs. While I initially thought that the size of each polygon would correlate with the number of tickets sold, but, when I looked into the matter, I realized that the polygons, in fact, represented every point that is closer to its point (seed) than any others.
 
 So, do the size and shapes of these polygons created with this data actually mean anything? From what I can tell... not much. 
 
