@@ -12,6 +12,8 @@ The map occupies the full page now and doesn't depend on a Fusion Table link (ma
 
 You can animate the points, search by quote, and filter down to the points within a given range of sequence numbers.
 
+It's still a bit slow, however.
+
 See the website [here](https://mobydick.firebaseapp.com/ "moby dick")
 
 ![moby dick map](/assets/moby_dick_map.png)
