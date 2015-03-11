@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Visualizing Comedie Francais "
+title: Visualizing Comedie Francaise
 category: updates
 author: "Eileen Rivera, Eva Stern-Rodriguez, Zach Sherin"
 ---
@@ -10,4 +10,3 @@ For our project we decided to explore the number of tickets sold by the type of 
 
 ![Home Page](/assets/HomePage.jpg)
 ![Data.jpg](/assets/Data.jpg)
-
