@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Narrative and Database
-category: updates
+category: commentary
 tags: 
   - The Database
 author: "Eva Stern-Rodriguez"
