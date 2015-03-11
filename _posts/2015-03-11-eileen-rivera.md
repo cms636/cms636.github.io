@@ -11,6 +11,6 @@ author: Eileen Rivera
 
 
 
-Eileen Rivera is a sophomore at Wellesley College. She is pursuing a pmajor in Media Arts and Science with a minor in Economics. Eileen is interested in UI/UX design, photography, and human computer interaciton.
+Eileen Rivera is a sophomore at Wellesley College. She is pursuing a pmajor in Media Arts and Science with a minor in Economics. Eileen is interested in UI/UX design, photography, and human computer interaction.
 
 
