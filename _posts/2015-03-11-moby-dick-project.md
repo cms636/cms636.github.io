@@ -14,7 +14,7 @@ Similar to former projects, my main concern for this project was to contextualiz
 
 **2. Assigning quotes to characters:** It would be iteresting to sort the locations by the characters that mention them in the text. Naturally, most of it will be assigned to Ishmael, but it would be interesting to see if the other characters and their conversations are closely linked with certain regions around the world.
 
-**3. Linking locations with Mellville's Personal Experiences:** It would also be extremely interesting to link additional data with each location that relates to  Herman Mellville's biography and experiences as a Whaler. This could be an interesting tool to identify the autobiographical elements of Moby Dick.
+**3. Linking locations with Melville's Personal Experiences:** It would also be extremely interesting to link additional data with each location that relates to  Herman Melville's biography and experiences as a whaler. This could be an interesting tool to identify the autobiographical elements of Moby Dick.
 
 I think that this tool has amazing potential when used within the right context. However all three of my ideas above either require (a) A manual filtering of the data through in-depth reading of Moby Dick, or (b) further research and data collection and analysis.
 
