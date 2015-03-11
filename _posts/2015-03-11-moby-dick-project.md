@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: Moby Dick Project
 category: updates
+author: Deniz Aksel
 ---
 
 Although I had big goals for this project, my lack of experience with HTML JavaScript was deffinitely a limiting factor in exectuing my ideas.
@@ -17,6 +18,6 @@ I think that this tool has amazing potential when used within the right context.
 
 As I lacked the time and expertise to complete any of these, I present to you what I accomplished within the 1 week time frame: a slider bar that adjusts the opacity of the overlaying map.
 
-![Screen Shot 2015-03-11 at 6.41.17 PM.png](/_posts/Screen Shot 2015-03-11 at 6.41.17 PM.png)
+![Screen Shot 2015-03-11 at 6.41.17 PM.png](/assests/Screen Shot 2015-03-11 at 6.41.17 PM.png)
 
 
