@@ -8,4 +8,4 @@ author: andy
 
 test - Zach's images
 
-
+![](/assets/map2.jpg)
