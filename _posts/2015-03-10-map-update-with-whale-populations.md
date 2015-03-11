@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: Map Update with Whale Populations
 category: updates
+author: Zach Sherin
 ---
 
 For my update, I found a map of sperm whale populations and tried to overlay it onto the map. I ran into a few problems with this. First, the map had the pacific ocean in the center, which meant that overlaying it with the Google Maps API was surprisingly difficult, and I had to fix it in GIMP.
