@@ -12,4 +12,4 @@ Has the digital age instilled a linear perspective into the way we tackle proble
 
 ![FutureofDatabase.jpeg](/assets/FutureofDatabase.jpeg)
 
-"Database Logic" is of great interest to me and the aesthetics that can be incorporated with it. Post to be continued soon
+"Database Logic" is of great interest to me and the aesthetics that can be incorporated with it. I have trouble acknowledging that database and narrative are natural enemies. In the culture that they both reside, I believe that they can play off each other, rather than compete for the same role. It isn't very one sided to me to group narratives and other interactive forms under the database. Composition of narratives cannot be synthesized to just a database, there is a great human and personal element to narratives. Manovich then offers the narrative and database as competing imaginations, which I regard to be true. There is not a clear line between both, and I believe elements of both can bleed into each other, blurring the line between both. Has this blurring occurred from societies changed expectations of narratives, wanting something more and interactive? 
