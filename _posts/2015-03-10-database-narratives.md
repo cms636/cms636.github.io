@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: "Database Narratives?"
-category: updates
+category: commentary
 author: Eileen Rivera
 tags: 
   - The Database
