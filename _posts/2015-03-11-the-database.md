@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 title: The Database
-category: updates
+category: commentary
+author: Zach Sherin
+tags: 
+  - The Database
 ---
 
 So I found this article kind of frustrating. On the one hand, Manovich seems to believe that artists using new media are capable of producing arresting, interesting works, and then on the other believes that just because their databases are explicit, they're worth less.
