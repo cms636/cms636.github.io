@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Adding SeaChart to Moby Dick Mapping
+title: Adding Sea Charts to Moby Dick Mapping
 category: updates
 author: Ariana Eisenstein
 ---
