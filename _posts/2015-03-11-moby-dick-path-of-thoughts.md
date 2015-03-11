@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: "Moby Dick: Path of Thoughts"
 category: updates
+author: Judy Chang
 ---
 
 ![Screen Shot 2015-03-11 at 6.24.50 PM.png](/assets/Screen Shot 2015-03-11 at 6.24.50 PM.png)
