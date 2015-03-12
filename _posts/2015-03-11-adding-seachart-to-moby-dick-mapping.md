@@ -23,7 +23,7 @@ This map helps me understand the visualization better as the routes connect the 
 
 ###Map of Atlantic #2 ###
 
-![Screen shot 2015-03-11 at 6.37.29 PM.png](/_posts/Screen shot 2015-03-11 at 6.37.29 PM.png)
+![Screen shot 2015-03-11 at 6.37.29 PM.png](/assets/Screen shot 2015-03-11 at 6.37.29 PM.png)
 
 Similar with the Map of the Pacific, I feel this map helps contextualize the data points it covers.
 
