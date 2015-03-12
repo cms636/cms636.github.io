@@ -11,4 +11,5 @@ This is more of a concept than an implementation since I'm not sure how to actua
 
 The outcome of this will allow people to get a feel of the important events of each time period as well as how it could affect the same kind of activities. This can be extrapolated to other activities and see how the change of the society can affect human interaction and experience. Below is a rough similated image of how I envision it to look
 
-![Screen Shot 2015-03-11 at 7.07.50 PM.jpg](/assets/Screen Shot 2015-03-11 at 7.07.50 PM.jpg)
+![maps.jpg](/assets/maps.jpg)
+
