@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Mapping Exploration
 category: updates
 author: Val Healy
