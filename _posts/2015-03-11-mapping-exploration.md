@@ -13,5 +13,3 @@ However, though I was able to position the world map on a map of the world, I ha
 However, as you can see from the map linked above, routes through the sea were still being established during that time. It seems incredible, then, that Melville would have even known of all of the places mentioned in the book, given the rather limited scope of the colonial and imperial project at that time. Looking at this map seems to visually historically situate both the novel and the author, which is one aspect of GIS technology I find inticing to explore.
 
 Unfortunately, the map itself is a bit blurry. I feel that the quality of the visualization would improve if I could find a higher-quality map. If this could not be accomplished, it would be neat to have another GIS overlay highlighting the ship routes to make them more clear to the viewer.
-
-
