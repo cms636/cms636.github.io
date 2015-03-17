@@ -61,6 +61,8 @@ prose:
               value: "Digital_Humanities"
             - name: "The Database"
               value: "The Database"
+            - name: "Museum"
+              value: "Museum"
       - name: "title"
         field:
           element: "text"
