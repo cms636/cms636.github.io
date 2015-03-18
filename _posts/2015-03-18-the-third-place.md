@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: The Third Place
 category: commentary
 author: Val Healy
