@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 title: The Future of Curation
-category: updates
+category: commentary
+author: Zach Sherin
+tags: 
+  - Museum
 ---
 
 This document was interesting for a couple of reasons. First, it was strange to me because it wasn't a manifesto or a set of suggestions for updating libraries. It was a collection of ideas about how libraries need to change, some relevant discussion and examples, and a set of questions for the library workers to discuss amongst themselves. 
