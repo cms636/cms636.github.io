@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 title: "Authority Shifts & The Visitor as a \"Personal Curator\""
-category: updates
+category: commentary
+tags: 
+  - Museum
+author: Deniz Aksel
 ---
 
 One of the most inetresting points made in _The Future of Museums and Libraries: A Discussion Guide_, is the shift in authority figures in charge of the organization and presentation of information at GLAMs. The idea of "crowdsourced curation" is implied in the second bulleetpoint of the text. This concept seems appealing at first, and it seems to have worked well in the Wing Luke Asian Museum and Lab of Art and Ideas at Belmar examples listed in the report. However its important to note that even these community-curated galeries/museums are limited to the local community. So even though the concept of an "expert curator" is overridden with ideas of collaboration and contribution by larger groups of people, the it still seems limited to local communities. So is it  possible to have a truly "open-source" presentation of knowledge at GLAMs , without having them turn into disorganized, chaotic Wikipedia-like venues?
