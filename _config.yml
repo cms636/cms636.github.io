@@ -49,7 +49,7 @@ prose:
               value: "ext-projects"
             - name: "Data Set"
               value: "datasets"
-            - name: "Course Info"
+            - name: "About"
               value: "course"
       - name: "tags"
         field:
