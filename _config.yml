@@ -63,6 +63,8 @@ prose:
               value: "The Database"
             - name: "Museum"
               value: "Museum"
+            - name: "Augmented Space"
+              value: "Augmented Space"
       - name: "title"
         field:
           element: "text"
