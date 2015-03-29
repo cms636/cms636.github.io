@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: "Augmented Galleries, Augmented Selves"
+title: "Augmented Galleries, Augmented Realities"
 category: commentary
 author: Val Healy
 tags: 
@@ -23,4 +23,4 @@ In the age of digital augmentation of space-- both public and private-- the pano
 
 As with any discussion of wireless communication, there is a danger that these technologies could be used for nefarious purposes. Manovich touches on this breifly, and, though I have many opinions on this topic, I will not further elaborate on them and will instead discuss one possible "safer" alternative context for these technologies and the application of digitally augmented space: museums.
 
-Some museums already employ technology to augment spaces. For example, the Institute for Contemporary Arts in Boston has a mobile guide that users can utilize to view videos and hear artists speak about their work. The museum also has 
+Some museums already employ technology to augment spaces. For example, the Institute for Contemporary Art in Boston has a mobile guide that users can utilize to view videos and hear artists speak about their work. The museum also has headphones and several iTouch devices available for museum-goers to borrow. These technologies augment the museum experience by giving visitors individual control of a personal device that feeds them media relevant to the exhibets. The ICA also has several audio and video pieces that visitors can view or listen to, but not control or further interact with.
