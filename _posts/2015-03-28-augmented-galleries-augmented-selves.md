@@ -23,4 +23,4 @@ In the age of digital augmentation of space-- both public and private-- the pano
 
 As with any discussion of wireless communication, there is a danger that these technologies could be used for nefarious purposes. Manovich touches on this breifly, and, though I have many opinions on this topic, I will not further elaborate on them and will instead discuss one possible "safer" alternative context for these technologies and the application of digitally augmented space: museums.
 
-museum as 'safer' space for augmentation
+Some museums already employ technology to augment spaces. For example, the Institute for Contemporary Arts in Boston has a mobile guide that users can utilize to view videos and hear artists speak about their work. The museum also has 
