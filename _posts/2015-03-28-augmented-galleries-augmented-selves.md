@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Augmented Galleries, Augmented Realities"
 category: commentary
 author: Val Healy
