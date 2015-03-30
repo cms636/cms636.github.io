@@ -12,10 +12,10 @@ __NOTE: I notice that Karleigh also went to the Museum of Science and discussed 
 Although the exterior of the museum building is not very distinctive and the lobby is quite typical (ticketing area and information booth), the museum distinguishes itself by featuring a large T-Rex outside the building and an elaborate Rube Goldberg Machine on the inside.
 
 ![T-rex](/assets/bmos_trex.jpg)
-A T-Rex is outside.
+A T-Rex is outside. (source: http://www.afterhood.com/wp-content/uploads/2011/07/Science-Museum-6-11-7-01.jpg)
 
 ![rube goldberg](/assets/bmos_rube_goldberg.jpg)
-A large Rube Goldberg machine in the lobby.
+A large Rube Goldberg machine in the lobby and a view of the river behind it.
 
 ## Unexpected Behavior
 Interestingly, attendees tended to flock to displays which were mechanical, or mechanical/digital hybrids, rather than the purely digital display.
@@ -24,7 +24,7 @@ Interestingly, attendees tended to flock to displays which were mechanical, or m
 This screen in the food exhibit was abandoned for a long time.
 
 ![magnetic canvas](/assets/bmos_magnetic.jpg)
-The magnetic canvas station had many children playing with it.
+The magnetic canvas station had many children playing with it. I had to wait several minutes before I could take a picture of this.
 
 
 ## Possible Frustration
@@ -36,20 +36,21 @@ The audio tour phones were rarely used, and the sheer number of displays caused 
 Children raced against each other in this sensor-equipped racetrack.
 
 ![audio tour](/assets/bmos_audio.jpg)
-Most exhibits have these phones which you can pick up for an audio tour.
+Most exhibits have these phones which you can pick up for an audio tour. I only saw two attendees use it in the two hours I was there.
 
 ![wind exhibit](/assets/bmos_wind.jpg)
 The wind exhibit combined text with an interactive display - children tended to play with the display for a bit, get bored, and run off before reading/listening to any content.
 
 ## More Technology
-### Mechanical
+
+###Mechanical
 ![dust storm](/assets/bmos_dust_storm.jpg)
 An artificial dust storm.
 
 ![smells](/assets/bmos_smells.jpg)
 A series of tubes each containing different smells.
 
-### Digital
+###Digital
 ![bee game](/assets/bmos_bee_game.jpg)
 Build a robotic bee.
 
