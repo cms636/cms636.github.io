@@ -6,42 +6,55 @@ category: updates
 author: hariharsubramanyam
 ---
 
-In the Boston Museum of Science, almost every single exhibit is both technological and interactive.
+__NOTE: I notice that Karleigh also went to the Museum of Science and discussed its demographic (children) and some of its technology (interactive exhibits). So, in order to avoid repeating information, I will discuss the interior/exterior of the museum, an unexpected behavior, one possible frustration with the museum, and provide more examples of technology__
 
-Why is the case? Well, the **primary demographic attending the museum is children** (they constituted over half the attendees I saw). Thus, to keep kids interested, tech-heavy interactive exhibits are ubiquitous.
+## Welcome and Interior/Exterior
+Although the exterior of the museum building is not very distinctive and the lobby is quite typical (ticketing area and information booth), the museum distinguishes itself by featuring a large T-Rex outside the building and an elaborate Rube Goldberg Machine on the inside.
 
-The Museum of Science many forms of digital media. There are **large screens, multiple screens, games, audio tours, and a huge number of interactive displays**.
+![T-rex](/assets/bmos_trex.jpg)
+A T-Rex is outside.
+
+![rube goldberg](/assets/bmos_rube_goldberg.jpg)
+A large Rube Goldberg machine in the lobby.
+
+## Unexpected Behavior
+Interestingly, attendees tended to flock to displays which were mechanical, or mechanical/digital hybrids, rather than the purely digital display.
 
 ![screen at museum](/assets/bmos_screen.jpg)
-A screen in the food exhibit.
+This screen in the food exhibit was abandoned for a long time.
 
-![bee game](/assets/bmos_bee_game.jpg)
-Build a robotic bee.
+![magnetic canvas](/assets/bmos_magnetic.jpg)
+The magnetic canvas station had many children playing with it.
+
+
+## Possible Frustration
+While the museum does a great job captivating attendees and encouraging social interaction (ex. children race against each other in the motion exhibit), many of the attendees, adults included, did not pay attention to the informational content.
+
+The audio tour phones were rarely used, and the sheer number of displays caused attendees to avoid reading informational boards, and instead move on to play with the next exhibit.
+
+![racetrack](/assets/bmos_race.jpg)
+Children raced against each other in this sensor-equipped racetrack.
 
 ![audio tour](/assets/bmos_audio.jpg)
 Most exhibits have these phones which you can pick up for an audio tour.
 
-![screens](/assets/bmos_screens.jpg)
-A multi-screen display of an aquarium.
+![wind exhibit](/assets/bmos_wind.jpg)
+The wind exhibit combined text with an interactive display - children tended to play with the display for a bit, get bored, and run off before reading/listening to any content.
 
-![interactive display](/assets/bmos_interactive.jpg)
-Many exhibits feature a computer with a set of buttons or levers to interact with it.
-
-Interestingly, even with so much digital technology, the most popular exhibits were the purely mechanical, or mechanical/digital hybrids. **These were almost always occupied by a group of attendees while the purely digital exhibits were often abandoned - an unexpected use of the space**. Some of the mechanical displays included a **Rube Goldberg machine, a set of mirrors, a footrace track with sensors to track runners, a series of tubes with different scents, a heating-cooling panel, an enclosed artificial dust storm, and a magnetic canvas**.
-
-![magnetic canvas](/assets/bmos_magnetic.jpg)
-A magnetic canvas.
-
+## More Technology
+### Mechanical
 ![dust storm](/assets/bmos_dust_storm.jpg)
 An artificial dust storm.
 
 ![smells](/assets/bmos_smells.jpg)
 A series of tubes each containing different smells.
 
-![racetrack](/assets/bmos_race.jpg)
-A racetrack with sensors equipped to measure the runner's speed.
+### Digital
+![bee game](/assets/bmos_bee_game.jpg)
+Build a robotic bee.
 
-![rube goldberg](/assets/bmos_rube_goldberg.jpg)
-A large Rube Goldberg machine.
+![screens](/assets/bmos_screens.jpg)
+A multi-screen display of an aquarium.
 
-The variety of technological exhibits in the museum was staggering. The Museum of Science is different in that almost every exhibit is interactive and tech-heavy. For a digital humanist, the Museum of Science shows the value in joining traditional museum technology (ex. apps, audio tours, screens) with creative, interactive displays which combine the digital and mechanical.
+![interactive display](/assets/bmos_interactive.jpg)
+Many exhibits feature a computer with a set of buttons or levers to interact with it.
