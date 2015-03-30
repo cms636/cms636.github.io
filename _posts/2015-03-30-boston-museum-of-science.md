@@ -11,20 +11,24 @@ __NOTE: I notice that Karleigh also went to the Museum of Science and discussed 
 ## Welcome and Interior/Exterior
 Although the exterior of the building and the lobby (ticketing area + information booth) are quite typical, the museum distinguishes itself with a large T-Rex outside and a Rube Goldberg Machine inside.
 
-![T-rex](/assets/bmos_trex.jpg)
+<img src="/assets/bmos_trex.jpg" height="300" />
+
 A T-Rex is outside. (source: http://www.afterhood.com/wp-content/uploads/2011/07/Science-Museum-6-11-7-01.jpg)
 
-![rube goldberg](/assets/bmos_rube_goldberg.jpg)
+<img src="/assets/bmos_rube_goldberg.jpg" height="300" />
+
 Rube Goldberg machine in lobby.
 
 ## Unexpected Behavior
 Interestingly, attendees tended to flock to displays which were mechanical, rather than purely digital. The novelty of the mechanical displays were the main attraction.
 
-![screen at museum](/assets/bmos_screen.jpg)
+<img src="/assets/bmos_screen.jpg" height="300" />
+
 This screen in the food exhibit was abandoned for a long time.
 
-![magnetic canvas](/assets/bmos_magnetic.jpg)
-I waited several minutes before photographing the magnetic canvases.
+<img src="/assets/bmos_magnetic.jpg" height="300" />
+
+I had to queue for several minutes before photographing the popular magnetic canvases.
 
 
 ## Possible Frustration
@@ -32,13 +36,16 @@ While the museum captivates attendees and encourages interaction (ex. footrace b
 
 The audio tour was rarely used, and the sheer number of displays caused attendees to avoid reading informational boards, and instead move on to play with the next exhibit.
 
-![racetrack](/assets/bmos_race.jpg)
+<img src="/assets/bmos_race.jpg" height="300" />
+
 Children ran along this in this sensor-filled racetrack, but few read the information.
 
-![audio tour](/assets/bmos_audio.jpg)
+<img src="/assets/bmos_audio.jpg" height="300" />
+
 Many exhibits have audio tours, but I only saw two attendees use them.
 
-![wind exhibit](/assets/bmos_wind.jpg)
+<img src="/assets/bmos_wind.jpg" height="300" />
+
 In the wind exhibit, childen would play with the interactive display and run off before listening/reading the science.
 
 ## Conclusion
@@ -47,18 +54,25 @@ The interior/exterior of the museum are typical, with a few distinguishing featu
 ## More Technology
 
 ###Mechanical
-![dust storm](/assets/bmos_dust_storm.jpg)
+
+<img src="/assets/bmos_dust_storm.jpg" height="300" />
+
 Artifical duststorm.
 
-![smells](/assets/bmos_smells.jpg)
+<img src="/assets/bmos_smells.jpg" height="300" />
+
 Tubes containing scents.
 
 ###Digital
-![bee game](/assets/bmos_bee_game.jpg)
+
+<img src="/assets/bmos_bee_game.jpg" height="300" />
+
 Robotic bee.
 
-![screens](/assets/bmos_screens.jpg)
+<img src="/assets/bmos_screens.jpg" height="300" />
+
 Multi-screen aquarium.
 
-![interactive display](/assets/bmos_interactive.jpg)
+<img src="/assets/bmos_interactive.jpg" height="300" />
+
 Many displays used a computer and a few buttons.
