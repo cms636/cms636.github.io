@@ -41,6 +41,9 @@ Many exhibits have audio tours, but I only saw two attendees use them.
 ![wind exhibit](/assets/bmos_wind.jpg)
 In the wind exhibit, childen would play with the interactive display and run off before listening/reading the science.
 
+## Conclusion
+The interior/exterior of the museum are typical, with a few distinguishing features. The exhibit halls themselves were highly unique and well decorated. The mechanical displays were very popular, but they were so widespread that attendees rarely read the science.
+
 ## More Technology
 
 ###Mechanical
