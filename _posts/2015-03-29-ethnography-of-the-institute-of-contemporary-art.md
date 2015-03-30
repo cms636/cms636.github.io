@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Ethnography of the Institute of Contemporary Art
 category: updates
 author: Val Healy
