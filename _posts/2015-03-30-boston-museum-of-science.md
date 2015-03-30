@@ -6,56 +6,56 @@ category: updates
 author: hariharsubramanyam
 ---
 
-__NOTE: I notice that Karleigh also went to the Museum of Science and discussed its demographic (children) and some of its technology (interactive exhibits). So, in order to avoid repeating information, I will discuss the interior/exterior of the museum, an unexpected behavior, one possible frustration with the museum, and provide more examples of technology__
+__NOTE: I notice that Karleigh also went to the Museum of Science and discussed its demographic (children) and some of its technology (interactive exhibits). So, in order to avoid repeating information, I will discuss the interior/exterior of the museum, an unexpected behavior, one possible frustration with the museum, and provide more examples of technology.__
 
 ## Welcome and Interior/Exterior
-Although the exterior of the museum building is not very distinctive and the lobby is quite typical (ticketing area and information booth), the museum distinguishes itself by featuring a large T-Rex outside the building and an elaborate Rube Goldberg Machine on the inside.
+Although the exterior of the building and the lobby (ticketing area + information booth) are quite typical, the museum distinguishes itself with a large T-Rex outside and a Rube Goldberg Machine inside.
 
 ![T-rex](/assets/bmos_trex.jpg)
 A T-Rex is outside. (source: http://www.afterhood.com/wp-content/uploads/2011/07/Science-Museum-6-11-7-01.jpg)
 
 ![rube goldberg](/assets/bmos_rube_goldberg.jpg)
-A large Rube Goldberg machine in the lobby and a view of the river behind it.
+Rube Goldberg machine in lobby.
 
 ## Unexpected Behavior
-Interestingly, attendees tended to flock to displays which were mechanical, or mechanical/digital hybrids, rather than the purely digital display.
+Interestingly, attendees tended to flock to displays which were mechanical, rather than purely digital. The novelty of the mechanical displays were the main attraction.
 
 ![screen at museum](/assets/bmos_screen.jpg)
 This screen in the food exhibit was abandoned for a long time.
 
 ![magnetic canvas](/assets/bmos_magnetic.jpg)
-The magnetic canvas station had many children playing with it. I had to wait several minutes before I could take a picture of this.
+I waited several minutes before photographing the magnetic canvases.
 
 
 ## Possible Frustration
-While the museum does a great job captivating attendees and encouraging social interaction (ex. children race against each other in the motion exhibit), many of the attendees, adults included, did not pay attention to the informational content.
+While the museum captivates attendees and encourages interaction (ex. footrace between children), many of the attendees, adults included, did not pay attention to the informational content.
 
-The audio tour phones were rarely used, and the sheer number of displays caused attendees to avoid reading informational boards, and instead move on to play with the next exhibit.
+The audio tour was rarely used, and the sheer number of displays caused attendees to avoid reading informational boards, and instead move on to play with the next exhibit.
 
 ![racetrack](/assets/bmos_race.jpg)
-Children raced against each other in this sensor-equipped racetrack. Very few of them read the accompanying information boards.
+Children ran along this in this sensor-filled racetrack, but few read the information.
 
 ![audio tour](/assets/bmos_audio.jpg)
-Most exhibits have these phones which you can pick up for an audio tour. I only saw two attendees use it in the time I was there.
+Many exhibits have audio tours, but I only saw two attendees use them.
 
 ![wind exhibit](/assets/bmos_wind.jpg)
-The wind exhibit combined text with an interactive display - children tended to play with the display for a bit, get bored, and run off before reading/listening to any content.
+In the wind exhibit, childen would play with the interactive display and run off before listening/reading the science.
 
 ## More Technology
 
 ###Mechanical
 ![dust storm](/assets/bmos_dust_storm.jpg)
-An artificial dust storm.
+Artifical duststorm.
 
 ![smells](/assets/bmos_smells.jpg)
-A series of tubes each containing different smells.
+Tubes containing scents.
 
 ###Digital
 ![bee game](/assets/bmos_bee_game.jpg)
-Build a robotic bee.
+Robotic bee.
 
 ![screens](/assets/bmos_screens.jpg)
-A multi-screen display of an aquarium.
+Multi-screen aquarium.
 
 ![interactive display](/assets/bmos_interactive.jpg)
-Many exhibits feature a computer with a set of buttons or levers to interact with it.
+Many displays used a computer and a few buttons.
