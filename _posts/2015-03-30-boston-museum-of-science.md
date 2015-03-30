@@ -8,11 +8,9 @@ author: hariharsubramanyam
 
 In the Boston Museum of Science, almost every single exhibit is both technological and interactive.
 
-Why is the case? Well, the **primary demographic attending the museum is children** (they constituted over half the attendees). Thus, to keep kids interested, tech-heavy interactive exhibits are ubiquitous.
+Why is the case? Well, the **primary demographic attending the museum is children** (they constituted over half the attendees I saw). Thus, to keep kids interested, tech-heavy interactive exhibits are ubiquitous.
 
-The Museum of Science uses nearly every form of digital media imaginable. There are **large screens, multiple screens, games, audio tours, and a huge number of interactive displays**.
-
-_I’m sorry if some of the angles in the photos below are strange. I tried not to photograph any of the attendees, which required me to take pictures at inconvenient angles._
+The Museum of Science many forms of digital media. There are **large screens, multiple screens, games, audio tours, and a huge number of interactive displays**.
 
 ![screen at museum](/assets/bmos_screen.jpg)
 A screen in the food exhibit.
@@ -46,4 +44,4 @@ A racetrack with sensors equipped to measure the runner's speed.
 ![rube goldberg](/assets/bmos_rube_goldberg.jpg)
 A large Rube Goldberg machine.
 
-The variety of technological exhibits in the museum was staggering. The Museum of Science is refreshingly different in that almost every exhibit is interactive and tech-heavy. For a digital humanist, the Museum of Science shows the value in leaving traditional museum technology (ex. apps, audio tours, screens) and embracing creative, interactive displays which combine the digital and mechanical.
+The variety of technological exhibits in the museum was staggering. The Museum of Science is different in that almost every exhibit is interactive and tech-heavy. For a digital humanist, the Museum of Science shows the value in joining traditional museum technology (ex. apps, audio tours, screens) with creative, interactive displays which combine the digital and mechanical.
