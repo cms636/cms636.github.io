@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-title: Boston Museum of Science
+published: true
+title: "Boston Museum of Science - Ethnography"
 category: updates
+author: hariharsubramanyam
 ---
 
 In the Boston Museum of Science, almost every single exhibit is both technological and interactive.
