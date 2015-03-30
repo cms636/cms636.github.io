@@ -33,10 +33,10 @@ While the museum does a great job captivating attendees and encouraging social i
 The audio tour phones were rarely used, and the sheer number of displays caused attendees to avoid reading informational boards, and instead move on to play with the next exhibit.
 
 ![racetrack](/assets/bmos_race.jpg)
-Children raced against each other in this sensor-equipped racetrack.
+Children raced against each other in this sensor-equipped racetrack. Very few of them read the accompanying information boards.
 
 ![audio tour](/assets/bmos_audio.jpg)
-Most exhibits have these phones which you can pick up for an audio tour. I only saw two attendees use it in the two hours I was there.
+Most exhibits have these phones which you can pick up for an audio tour. I only saw two attendees use it in the time I was there.
 
 ![wind exhibit](/assets/bmos_wind.jpg)
 The wind exhibit combined text with an interactive display - children tended to play with the display for a bit, get bored, and run off before reading/listening to any content.
