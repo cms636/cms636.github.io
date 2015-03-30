@@ -8,7 +8,7 @@ author: hariharsubramanyam
 
 __NOTE: I notice that Karleigh also went to the Museum of Science and discussed some topics (ex. demographic, types of technology) in her post. So, in order to avoid repeating information, I will discuss the interior/exterior of the museum, an unexpected behavior, one possible frustration with the museum, and provide more examples of technology.__
 
-## Welcome and Interior/Exterior
+## Interior/Exterior
 Although the exterior of the building and the lobby (ticketing area + information booth) are quite typical, the museum distinguishes itself with a large T-Rex outside and a Rube Goldberg Machine inside.
 
 <img src="/assets/bmos_trex.jpg" height="300" />
