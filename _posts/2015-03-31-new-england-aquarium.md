@@ -12,9 +12,9 @@ author: Sherry Ren
 The aquarium attracts many families especially family with young kids and K-12 school field trips. Though the aquarium also offers private event hosting - for example, MIT 2015 class council had two events there in the past. The aquarium offers a fun and relaxing experience while providing educational values at the same time. These qualities make it very attractive to parents and educators.
 
 ##Technology:
-The aquarium has a small board that introduces the species next to each tank. However, larger tanks might have multiple boards nearby. While the boards include small pictures of the animals, it is often hard to identify the small fish based on that. Visitors often skim the text and not actually read them because they are often long and not interesting to the kids. The lighting is also very dim in the aquarium to protect the fish which makes is hard to read things. Making these boards more visible and easier to read (maybe with more graphics) might encourage people to use it more. I think it would be helpful if the visitors can download an app for the visit and automatically show the information if the visitor scans a QR-code on a display next to the tank.
+The aquarium has small boards that introduce the species next to each tank. Visitors often skim the text and not actually read them because they are often long and not interesting to the kids. The lighting is also very dim so it is hard to read things. Making these boards more visible might encourage people to use it more. I think it would also be helpful if the visitors can download an app for the visit and automatically show the information if the visitor scans a QR-code on a display next to the tank.
 
-Most of the current boards are not interactive. However, there is a few interactive displays in the aquarium. One example is the sound examples at the penguin section. There are multiple interfaces that allow visitors to press buttons and play the sounds of the different penguins. I personally loved pressing them I was there but I didn't see very many people using it. I think one of the reasons why people don't use them is because they are not aware of them. Younger kids who might benefit more from this feature often can't see or understand this. Making it more intuitive to younger kids will make is more useful.
+One example of an interactive display is the sound examples at the penguin section that allows visitors to press buttons and play the sounds of the different penguins. I personally loved pressing them I was there but I didn't see very many people using it. Younger kids who might benefit more from this feature often can't see or understand this. Making it more intuitive to younger kids will make is more useful.
 
 ##Unexpected/Unintended Uses:
 There are very few misuses of technologies at the aquarium since there isn't anything complicated to use. 
@@ -31,8 +31,7 @@ The exterior of the aquarium is very modern and cool looking which can attract p
 It is also located near the harbor and is generally a very touristy area. 
 ![IMG_4936.JPG](/assets/IMG_4936.JPG)
 
-
-Visitors can see the seals through some glasses before they even enter the aquarium or when they are waiting outside for the rest of the party. This makes the aquarium more welcoming and intriguing before the visit. Unfortunately, sometimes the seals carry out activities that are not quite at PG-level and there is no way to tell them to go somewhere else. It might create awkward experience for the families or student groups. And yes, this did happen at one of my visits there and I don't think I should include the picture here. 
+Visitors can see the seals through some glasses before they even enter the aquarium or when they are waiting outside for the rest of the party. This makes the aquarium more welcoming and intriguing before the visit. 
 
 Although the aquarium doesn't have a lot of technology-based features, it does offer fun interactions for the visitors by having a "petting zone" and animal performances. These features allow the visitors to be more engaged during their visits. 
 ![IMG_1850.JPG](/assets/IMG_1850.JPG)
