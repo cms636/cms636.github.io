@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 title: An Ethnography of the Sakip Sabanci Museum
 category: updates
+tags: 
+  - Museum
+author: Deniz Aksel
 ---
 
 ![sabanci museum.jpg](/assets/sabanci museum.jpg)
