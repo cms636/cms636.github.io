@@ -11,4 +11,5 @@ author: Sherry Ren
 ##Demographics:
 The aquarium attracts many families especially family with young kids and K-12 school field trips. Though the aquarium also offers private event hosting - for example, MIT 2015 class council had two events there in the past. The aquarium offers a fun and relaxing experience while providing educational values at the same time. These qualities make it very attractive to parents and educators.
 
-##
+##Technology:
+The aquarium has a small display that introduces the species next to each tank. However, larger tanks might have multiple displays nearby. While the displaces include small pictures of the animals, it is often hard to identify the small fish. Visitors often skim the display and not actually read them because they are often long and the lighting is very dim in the aquarium to protect the fish. Most of the current displays are not interactive. 
