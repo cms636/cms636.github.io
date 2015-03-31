@@ -6,6 +6,4 @@ category: updates
 author: "Corey Walsh, Yanni Coroneos"
 ---
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+![IMG_0686.JPG](/assets/IMG_0686.JPG)
