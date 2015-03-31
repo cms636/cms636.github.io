@@ -17,5 +17,5 @@ The aquarium has a small board that introduces the species next to each tank. Ho
 Most of the current boards are not interactive. However, there is a few interactive displays in the aquarium. One example is the sound examples at the penguin section. There are multiple interfaces that allow visitors to press buttons and play the sounds of the different penguins. I personally loved pressing them I was there but I didn't see very many people using it. I think one of the reasons why people don't use them is because they are not aware of them. Younger kids who might benefit more from this feature often can't see or understand this. Making it more intuitive to younger kids will make is more useful.
 
 ##Unexpected/Unintended Uses:
-
+There are very few misuses of technologies at the aquarium since there isn't anything complicated to use. 
 
