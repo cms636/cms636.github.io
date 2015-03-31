@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: "Ethnographic Evaluation of The Metropolitan Museum of Art in New York "
 category: updates
+author: Eileen Rivera
 ---
 
 I was fortunate to have the opportunity to spend a few days in New York over break, where I visited The Met.
@@ -14,7 +15,9 @@ In regards to the technology in the space, I was very underwhelmed. Apart from t
 While I was looking at the various period rooms in the museum I envisioned a more exciting outlook on the space. The concept of preservation and museumification of spaces is odd to me. I like to think of the original functionality of a space and the individuals who interacted with the space on an everyday basis. Having furniture in a room, while it conveys interior architecture and design history to me, the purpose of the room isn't always clear. I dreamt of having moving holograms of the people who once resided, worked, and interacted in the spaces being displayed. The holograms would be digital representations and extensions of the space. While some might find it distracting, I would greatly enjoy experimenting with interactive elements.Below is an image of one of the period rooms in The Met. It is stunning visually, but the effect is not longlasting and the majority of museum goers do not interact with the space at a deep level. 
 ![periodroom.PNG](/assets/periodroom.PNG)
 
-On another note, I was taken back in the best way possible by the stunning interior and exterior architecture of the museum building. It is large, open, and clean, as a result very welcoming. The clean space made me feel very comfortable and safe. For the amount of people at the museum I did not feel compressed, I was thankful for the open space and high ceilings, I believe it is an incredibly important feature of the museum. Additionally, the works are not cramped, they are nicely space out, as can be seen from the images, this helps give indivdiuls some privacy and sense of being while observing the works. Individuals should never feel pressured to move quickly through a museum, and I believe large crowds can have such an effect and can create great discomfort.
+On another note, I was taken back in the best way possible by the stunning interior and exterior architecture of the museum building. It is large, open, and clean, as a result very welcoming. The clean space made me feel very comfortable and safe. For the amount of people at the museum I did not feel compressed, I was thankful for the open space and high ceilings, I believe it is an incredibly important feature of the museum. Additionally, the works are not cramped, they are nicely space out, as can be seen from the images, this helps give indivdiuls some privacy and sense of being while observing the works. Individuals should never feel pressured to move quickly through a museum, and I believe large crowds can have such an effect and can create great discomfort. While the interior and exterior are largely different, they both convey the grandness and importance of the building. The exterior has a large set of stairs that in conjuction with its locations draws attention to pedestraians and those transiting through the space. 
+![metouside.PNG](/assets/metouside.PNG)
+
 
 While I didn't have an opportunity to visit all of the exhibits in the museum, I felt as if I saw a large amount of the museum. Below are photos of my favorite works and gallerys from the museum, I hope from these images it is clear how there is no medium provided in the galleries to interact with the works apart from text. This is a large contrast to other museums I have visited, where museum goers can interact with the works, such as MoMA. 
 ![sculptures.PNG](/assets/sculptures.PNG)
