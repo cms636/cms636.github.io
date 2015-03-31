@@ -1,8 +1,9 @@
 ---
 layout: post
 published: false
-title: ""
+title: Museum of Science Ethonography
 category: updates
+author: "Corey Walsh, Yanni Coroneos"
 ---
 
 ## A New Post
