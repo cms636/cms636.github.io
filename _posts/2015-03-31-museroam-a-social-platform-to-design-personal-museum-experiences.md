@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: MuseRoam – A Social Platform to Design Personal Museum Experiences
 category: updates
 author: Deniz Aksel
