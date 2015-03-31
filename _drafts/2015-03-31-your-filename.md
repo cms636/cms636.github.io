@@ -14,7 +14,7 @@ author: "Corey Walsh, Yanni Coroneos"
 ![IMG_2548.JPG](/assets/IMG_2548.JPG)
 ![IMG_2547.JPG](/assets/IMG_2547.JPG)
 ![IMG_2549.JPG](/assets/IMG_2549.JPG)
-## A New Post
+
 
 ![IMG_0686.JPG](/assets/IMG_0686.JPG)
 Corey and I decided to go investigate the museum of science because we’re engineers and we thought it would be more appealing to us than the MFA. Given its name and prime location, we both thought it would be filled with modern interactive exhibits which really leverage the power of technology to convey ideas. We were wrong and the experience was actually quite disappointing. Throughout our entire survey we kept getting the impression that the museum was stuck 20 years in the past.
