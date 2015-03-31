@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: New England Aquarium
 category: updates
 author: Sherry Ren
@@ -35,6 +35,7 @@ It is also located near the harbor and is generally a very touristy area.
 Visitors can see the seals through some glasses before they even enter the aquarium or when they are waiting outside for the rest of the party. This makes the aquarium more welcoming and intriguing before the visit. Unfortunately, sometimes the seals carry out activities that are not quite at PG-level and there is no way to tell them to go somewhere else. It might create awkward experience for the families or student groups. And yes, this did happen at one of my visits there and I don't think I should include the picture here. 
 
 Although the aquarium doesn't have a lot of technology-based features, it does offer fun interactions for the visitors by having a "petting zone" and animal performances. These features allow the visitors to be more engaged during their visits. 
+![IMG_1850.JPG](/assets/IMG_1850.JPG)
 
 The stingray shallow tank is one of the most popular spot at the aquarium which gives the visitors an opportunity to feel the stingrays as they swim by. It is fun and unique for both the adults and the children.
 
@@ -47,6 +48,8 @@ The rotating hallway around the big tank not only conserved space but also allow
 At the top of the big tank, visitors can see the sea turtles and other animals close up without the glass interference. 
 ![IMG_1872.JPG](/assets/IMG_1872.JPG)
 
+Overall, the aquarium welcomes its visitors by having a very fun-infused environment that allows visitors to have a deep engagemnt with the environment. 
+![IMG_4997.JPG](/assets/IMG_4997.JPG)
 
 
 
