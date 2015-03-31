@@ -19,3 +19,12 @@ Most of the current boards are not interactive. However, there is a few interact
 ##Unexpected/Unintended Uses:
 There are very few misuses of technologies at the aquarium since there isn't anything complicated to use. 
 
+##Frustrations:
+One of the biggest issues I experienced during my visits is the visibility inside the aquarium. It is understandable that the lighting needs to be dim for the health of the animals. However, the dim lighting makes it very hard to locate friends or family members if the party is separated. Technology could definitely help here. If each visitor is given a bracelet with a tracker inside and is able to activate tracking of each desired tracker on their smart phones, it will be much easier for parents to find their children or for friends to find each other during the visit. 
+
+
+
+
+
+
+
