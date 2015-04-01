@@ -1,9 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: Wubify.me Captain
 category: updates
-author: ""
+author: "Corey Walsh, Yanni Coroneos"
 ---
 
 ## Problem Statement
