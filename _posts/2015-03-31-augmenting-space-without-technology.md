@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Augmenting Space Without Technology
 category: commentary
 author: Yanni Coroneos
