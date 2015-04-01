@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: "Final Project - Museum a Day"
 category: updates
+author: Zach Sherin
 ---
 
 I'm not great at outlining these so I'm just going to follow the sections outlined in the handout:
