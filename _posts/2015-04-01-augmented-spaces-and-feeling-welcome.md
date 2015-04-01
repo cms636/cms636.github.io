@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Augmented Spaces and Feeling Welcome
 category: commentary
 tags: 
