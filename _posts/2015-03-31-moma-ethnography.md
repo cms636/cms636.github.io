@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: MoMA Ethnography
 category: updates
 ---
