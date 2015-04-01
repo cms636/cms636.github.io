@@ -23,4 +23,6 @@ Skills Needed:
 	Web Scraping: I am not a web developer, and the methodology for automatically finding and acquiring artwork from the Internet is a task that frankly leaves me very scared. I'm sure it's not impossible, it's just outside of my realm of expertise
     Designing Museum Rooms: I would like the museum rooms to be hand-created, rather than automatically generated. This way I think they'll look nicer. I'm not a great designer, and someone with an eye towards architecture/user experience could perhaps have a better idea of how to build the museum rooms so that they fit together nicely.
     Building the game/museum generator: This I am good at. I have built many games and particularly am proficient with the Unity3d game engine, which supports Google Cardboard and browser interaction. 
-    Building a server to host the Museum a Day: I don't know much about servers and websites, so someone (perhaps the web scraping specialist as well?) who enjoys putting together something that could deliver the Museum
+    Building a server to host the Museum a Day: I don't know much about servers and websites, so someone (perhaps the web scraping specialist as well?) who enjoys putting together a website that could deliver the Museum a Day would be great. 
+
+That's the Museum a Day. I'd love to work on it, and I hope maybe others are interested as well.
