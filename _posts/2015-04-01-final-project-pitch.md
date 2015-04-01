@@ -6,7 +6,7 @@ category: updates
 author: Sherry Ren
 ---
 
-###Project Title: 
+<b>Project Title: </b>
 (Never) Lost in Museums
 
 <b>Problem Statement: </b>
