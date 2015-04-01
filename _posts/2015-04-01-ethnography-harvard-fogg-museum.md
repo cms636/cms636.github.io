@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 title: "Ethnography - Harvard Fogg Museum"
-category: updates
+category: commentary
+tags: 
+  - Museum
+author: Zach Sherin
 ---
 
 I'm going to start out describing the experience of this museum, and then perhaps ways that it could be improved. I don't really know much about how to do an ethnography, but I am pretty wordy, so there's a short version and a longer version. The really relevant thing here is feeling comfortable in the museum, which this musuem does very poorly.
