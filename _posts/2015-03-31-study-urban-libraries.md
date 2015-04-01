@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Study Urban Libraries
+title: Studying Urban Libraries
 category: updates
 author: Meridian Witt
 ---
