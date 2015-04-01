@@ -8,7 +8,7 @@ author: Zach Sherin
 
 I'm not great at outlining these so I'm just going to follow the sections outlined in the handout:
 
-Problem Statement:
+**Problem Statement:**
 	Museums can be difficult to approach, occaisionally pretentious, and often expensive or difficult to get to. Also, many museums feature only works that could be considered "fine art" or otherwise well-known pieces in an accepted, established style. I want to create a museum that is easy to access, open to all types of artistic works, and most importantly, free.
 
 Approach:
