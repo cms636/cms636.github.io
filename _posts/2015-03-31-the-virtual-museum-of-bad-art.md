@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: The Virtual Museum of Bad Art
 category: updates
 author: Val Healy
