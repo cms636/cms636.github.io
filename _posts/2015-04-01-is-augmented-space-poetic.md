@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Is Augmented Space Poetic?"
 category: commentary
 author: "Eva Stern-Rodriguez"
