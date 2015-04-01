@@ -3,6 +3,9 @@ layout: post
 published: true
 title: MoMA Ethnography
 category: updates
+tags: 
+  - Digital_Humanities
+author: "Eva Stern-Rodriguez"
 ---
 
 
