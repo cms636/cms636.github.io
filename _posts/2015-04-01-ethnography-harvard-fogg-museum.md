@@ -5,7 +5,7 @@ title: "Ethnography - Harvard Fogg Museum"
 category: updates
 ---
 
-I'm going to start out describing the experience of this museum, and then perhaps ways that it could be improved.
+I'm going to start out describing the experience of this museum, and then perhaps ways that it could be improved. I don't really know much about how to do an ethnography, but I am pretty wordy, so there's a short version and a longer version.
 
 The Fogg museum starts by presenting a very simple exterior. 
 
@@ -17,7 +17,11 @@ The museum then opens up to a very severe and modern open room.
 
 The short version is as follows:
 
-The museum was unwelcoming. It is almost entirely white, the rooms are very quiet, and the museum staff are dressed like CIA agents and stare after you the whole time like you're going to steal something. I felt noticeably more relaxed when I left the museum, that's how bad their system is. The admissions desk is hidden, and difficult to 
+The museum was unwelcoming. It is almost entirely white, the rooms are very quiet, and the museum staff are dressed like CIA agents and stare after you the whole time like you're going to steal something. I felt noticeably more relaxed when I left the museum, that's how bad their system is. The admissions desk is hidden, such that my group actually wandered through half the museum before being asked to buy admission tickets. 
+
+The museum uses very little technology. It could benefit, I think, from cutting down on hawklike observing staff, and perhaps using the cameras (which they have installed) or proximity sensors to deter patrons from damaging the art. It completely takes you out of the enjoyment of an extraordinairy collection of art when someone who was standing outside of the gallery walks in to stare at you and make sure you don't screw anything up.
+
+Also, the museum could use music. Anything ambient, low, something that makes it feel less like a crime to talk to your friend while in the museum. 
 
 The first thing that strikes you about the interior of the museum is that there is no obvious place to start. The admissions spot is tucked into an alcove on the far left wall, and there are galleries that are more easily accessed. I don't have any good photos of this for reasons that I will explain soon. My friend and I actually walked into two galleries before realizing we were supposed to have a visitor's pass, which one of the many museum workers asked us to show and then pointed us to admissions.
 
