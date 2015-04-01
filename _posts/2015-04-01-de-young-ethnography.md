@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: de Young Ethnography
 category: updates
+author: Meghana Bhat
 ---
 
 I visited the de Young Museum, an art museum in San Francisco. (I was in California during Spring Break.) This museum mostly seemed to have an older audience, though there was one group I saw around my age and some families with children. The outside of the museum is a beautiful park of trees and fountains, and the lobby is spacious. The museum has two floors and a basement where they keep a rotating exhibition you have to pay extra to visit. I didn’t end up visiting the basement.
@@ -30,10 +31,13 @@ Coming to this museum with a different perspective, I realized some things about
 ![20150328_104301.jpg](/assets/20150328_104301.jpg)
 
 The rooms with older artifacts and pottery were much darker and smaller rooms, probably a factor of trying to preserve the artifacts, but it also made the space feel a bit more confined, especially near the loud entrance.
+
 I didn’t like that they hid this one interesting exhibit room on a textile collection behind a souvenir shop. I didn’t even recognize it as an exhibit at first. The huge set of drawers contained random samples of textiles from the collection, like a surprise in each drawer. It’s a neat way to display the pieces, but I imagine it would not have worked so well had the room not been empty of other people. There was also a giant (but restricted access) textile library past the room.
-[room]
+
+![20150328_114031.jpg](/assets/20150328_114031.jpg)
+![20150328_114025.jpg](/assets/20150328_114025.jpg)
+
 One other criticism I have for the museum was that it wasn’t always clear where the artifacts were from in one exhibit upstairs on New Guinea. I missed the large plaque titling the exhibit (I took a slightly different path to enter) and reading the little descriptions of the pieces only mentioned the “northern coast” or “Asmat people” or some river or other unrecognizable and vague terms, and I looked for a while before I finally asked a passing tour guide where the artifacts were from. There wasn’t even any map of the region anywhere. That could be one place it might be useful to see technology—knowing where items are from in a historical exhibit.
+
 Overall, though, it was a fun experience to go through the museum. It wasn’t too loud or crowded that day (other than near the lobby), and the exhibits were fun.
 
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
