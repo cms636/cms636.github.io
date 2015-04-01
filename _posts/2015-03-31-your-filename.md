@@ -17,7 +17,7 @@ Almost every exhibit had a large amount of signage and descriptive written mater
 ![IMG_2547.JPG](/assets/IMG_2547.JPG)
 A relic from the 1989 Chernobyl disaster
 
-![IMG_0682.JPG](/_assets/IMG_0682.JPG)
+![IMG_0682.JPG](/assets/IMG_0682.JPG)
 
 This is a poorly done AR (augmented reality) tour of a recreated 19th century mansion. This room is real and you stand inside a control room where this image appears on a screen. From there you simply interact with the screen to explore whichever topic interests you. The problem with this is the very clear disconnect between reality and virtual reality. The program running on this computer is essentially a smartphone app and the actual, real room just serves as an enticing background. To make this better, the room needs to be the focus and not the screen. Maybe the museum could acquire some smart glasses and actually produce an AR tour where you can walk up to an object and some small description would appear in your view. Sure, smart glasses may be expensive and new, but this is the Museum of Science right? Show us cool new science.
 
