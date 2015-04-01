@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: The Museum of Science
 category: updates
 author: "Corey Walsh, Yanni Coroneos"
