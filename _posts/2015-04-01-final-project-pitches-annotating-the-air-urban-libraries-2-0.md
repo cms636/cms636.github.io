@@ -8,6 +8,8 @@ author: Meridian Witt
 
 My pitch is very much up to be changed. I would love to grab the attention and ideas of any students interested in moving beyond rectangles (display screens, computer screen, or piece of paper). Specifically, I am interested in concepts of the third place, augmented spaces, community involvement in urban libraries, and getting DH tools in the hands of communities (I consider myself a techno-constructivist so I want communities to use technology to use technology to learn about and construct their own experiences). With all that in mind, I have two project pitches. 
 
+### Pitch 1 
+
 **Project Title**: Annotating the Air – Community Histories, Diaries, and Catharsis
 
 **Problem Statement**: I feel that although there are multitudes of rich sources (typically academic content) for Digital Humanities, communities also have important stories to tell. I want to create a technology that puts DH tools in their hands and allows them to learn about each other, themselves, and the technology. 
@@ -20,6 +22,8 @@ In first iteration, the medium could be a mobile application but I would want fu
 Skills needed: For this project, I would love another person to brainstorm and design with but I really need 2 people skilled in mobile native application creation (preferably iOS). I am a programmer as well, but I am unfamiliar with mobile applications so I would need help getting started and knowing what is feasible for our timeline. 
 
 The foci would be: making the experience of content pulling and content creation as easy as possible for users, creating a backend where this wide variety of content is geotagged and accessible to users, and learning to use the phone’s geolocation system (would the app constantly run and constantly take the user’s location?).
+
+### Pitch 2
 
 **Project Title**: Urban Library 2.0
 
