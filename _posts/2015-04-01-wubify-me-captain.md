@@ -27,4 +27,4 @@ People on the internet who are interested in music generation and/or are bored.
 - UI/UX
 
 ### Presentation
-http://goo.gl/VyYMQD
+[http://goo.gl/VyYMQD](http://goo.gl/VyYMQD)
