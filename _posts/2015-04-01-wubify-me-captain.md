@@ -25,3 +25,6 @@ People on the internet who are interested in music generation and/or are bored.
 - Knowledge of Web/GUI technology
 - Javascript, Clojure, Object Orientation
 - UI/UX
+
+### Presentation
+http://goo.gl/VyYMQD
