@@ -12,11 +12,11 @@ I'm going to start out describing the experience of this museum, and then perhap
 
 The Fogg museum starts by presenting a very simple exterior. 
 
-![Not super welcoming, but not too intimidating](/http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Fogg_Art_Museum%2C_Harvard_University.jpg/1024px-Fogg_Art_Museum%2C_Harvard_University.jpg)
+![Not super welcoming, but not too intimidating](http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Fogg_Art_Museum%2C_Harvard_University.jpg/1024px-Fogg_Art_Museum%2C_Harvard_University.jpg)
 
 The museum then opens up to a very severe and modern open room.
 
-![The Apple Store modern look isn't my thing](/http://media.news.harvard.edu/gazette/wp-content/uploads/2013/09/090513_HAM_484_605.jpg)
+![The Apple Store modern look isn't my thing](http://media.news.harvard.edu/gazette/wp-content/uploads/2013/09/090513_HAM_484_605.jpg)
 
 The short version is as follows:
 
