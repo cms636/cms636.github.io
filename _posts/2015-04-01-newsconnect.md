@@ -7,6 +7,7 @@ author: Meghana Bhat
 ---
 
 (This project may need a better name.)
+
 **Problem statement**
 The newspaper has been around for so long that its categories and text-based format have become "the way things are." But in reality the categories aren't so intuitive for seeing the larger visual picture of what’s been happening to the world. Some issues, for example, are easily neglected when the next “in” topic comes by. This application is meant to bridge those gaps.
 
