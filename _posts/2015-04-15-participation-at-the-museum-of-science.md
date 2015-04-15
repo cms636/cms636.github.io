@@ -4,6 +4,8 @@ published: true
 title: Participation at the Museum of Science
 category: commentary
 author: hariharsubramanyam
+tags: 
+  - Museum
 ---
 
 Much like Zach, I couldn't find much that I disagreed with in Simon's text. The points made about participation are sound, especially the idea of using constraints as structure and the idea of encouraging social interaction by starting at the individual first.
