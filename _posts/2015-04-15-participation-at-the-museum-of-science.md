@@ -11,4 +11,4 @@ The paper reminded me of a participatory experience I saw at the Museum of Scien
 
 Childen would approach the booth and museum workers would encourage them to try their hand at building a contraption to achieve a particular goal. For instance, when I was there, I saw children building small windmills. The children would be guided for some time by the museum worker and before long, they were socializing with each other as they built their contraptions. WHen they were finished, their piece was put up on display in the booth.
 
-Looking back, this had all elements of a great participatory experience. Since the children could see the other contraptions
+Looking back, this had all elements of a great participatory experience. Since the children could see the other contraptions on display. It was clear w
