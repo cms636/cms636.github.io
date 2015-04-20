@@ -4,6 +4,8 @@ published: true
 title: Sonification to Convey Emotion of Text
 category: commentary
 author: hariharsubramanyam
+tags: 
+  - Sonification
 ---
 
 Sonification seems like a powerful tool for understanding data. We can use a specific sound to indicate an event or concept. In this way, it functions as an alert or audio icon. Alternatively, we can map data to sound attributes such as volume, pitch, etc. Both these approaches have analogs in the visual world (ex. icons, visual variables). 
