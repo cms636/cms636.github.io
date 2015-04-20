@@ -65,6 +65,8 @@ prose:
               value: "Museum"
             - name: "Augmented Space"
               value: "Augmented Space"
+            - name: "Sonification"
+              value: "Sonification"
       - name: "title"
         field:
           element: "text"
