@@ -7,3 +7,5 @@ author: Karleigh and Meghana
 ---
 
 [Link for presentation](https://docs.google.com/presentation/d/18eILNlmdDOPvI0omCVmEwuYtmfes7yGEqDfPriBXFak/edit?usp=sharing)
+
+[Link to app](http://connectthenews.herokuapp.com/)
