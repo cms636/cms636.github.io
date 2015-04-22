@@ -15,8 +15,8 @@ In summary, here are our updates:
 
 For our full writeup, see here:
 
-https://docs.google.com/document/d/1bbb01vIHIxEHEkSiOLgIfarJvd6RVrJncfkaPoKOr34/edit?usp=sharing
+[https://docs.google.com/document/d/1bbb01vIHIxEHEkSiOLgIfarJvd6RVrJncfkaPoKOr34/edit?usp=sharing](https://docs.google.com/document/d/1bbb01vIHIxEHEkSiOLgIfarJvd6RVrJncfkaPoKOr34/edit?usp=sharing)
 
 For our slides, see here:
 
-https://docs.google.com/presentation/d/1QLM2gJioOXIVYdjxbQJ9lhLzHqQrFOBXd2DYK1o4msY/edit?usp=sharing
+[https://docs.google.com/presentation/d/1QLM2gJioOXIVYdjxbQJ9lhLzHqQrFOBXd2DYK1o4msY/edit?usp=sharing](https://docs.google.com/presentation/d/1QLM2gJioOXIVYdjxbQJ9lhLzHqQrFOBXd2DYK1o4msY/edit?usp=sharing)
