@@ -8,7 +8,7 @@ tags:
   - Sonification
 ---
 
-This weekend, I had the privilege of attending Terry Riley's 80th birthday concert. For those who don't know, Riley is widely known as the man who revolutionized modern music composition. 
+This weekend, I had the privilege of attending Terry Riley's 80th birthday concert. For those who don't know, Riley is widely known as a composer who revolutionized modern music. 
 
 In my limited exposure to modern music compositions, it seems that much of the work done by contemporary composers involves the exploration of sonic technologies' capabilities. For example, during the concert, two musicians played a piece commissioned for Riley's birthdsy, "A Trilling Piece for Terry" by Pauline Oliveros, which involved tapping various parts of a grand piano, including- but not limited to- the keys. This is an example of an exploration of non-digital sonic technology.
 
@@ -16,6 +16,8 @@ However, as mentioned in this article, some artists experiment with digital reco
 
 Another example is Steve Reich's ["Pendulum Music"](https://www.youtube.com/watch?v=fU6qDeJPT-w). In this composition, microphones are hung as pendulums. They are pulled away from their resting point and released at the same time. When they pass close to each other, they produce a familiar interference, which varies in tone with the relative speed of the microphones. The piece lasts as long as the microphones continue moving in their pendulum motion. This piece involves no recording or playback, but instead explores the capabilities of pendulum motion and electronic interference. 
 
-As the article notes, these two examples, among many others, bring "natural and artificial systems to the fore by putting a process or phenomenon ahead of the artist's personal "vision"." 
+Additionally, there is a growing community of algorithmically-composed electronic music.
 
-In a way, I feel that our Virtual Museum is related at its core to this concept. While our scraper will scrape a specific site (DeviantArt) for pictures, the 
+As the article notes, these last three examples, among many others, bring "natural and artificial systems to the fore by putting a process or phenomenon ahead of the artist's personal "vision"." Instead of playing a pre-determined composition, these artists create conditions in which the machines can 'speak for themselves,' so to speak.
+
+In a way, I feel that our Virtual Museum is related at its core to this concept. While our scraper will scrape a specific site (DeviantArt) for pictures, the curation process is entirely algorithmic. Thus, in a rough sense, what these pieces are to traditional music composition, our project is to traditional museum curation.
