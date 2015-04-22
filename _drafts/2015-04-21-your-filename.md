@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Untitled
+title: Sonification is All Around Us
 category: updates
 ---
 
