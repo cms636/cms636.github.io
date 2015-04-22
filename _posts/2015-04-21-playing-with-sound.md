@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Playing with Sound
+title: Playing with Sound and Generating Composition
 category: commentary
 author: Val Healy
 tags: 
@@ -16,7 +16,7 @@ However, as mentioned in this article, some artists experiment with digital reco
 
 Another example is Steve Reich's ["Pendulum Music"](https://www.youtube.com/watch?v=fU6qDeJPT-w). In this composition, microphones are hung as pendulums. They are pulled away from their resting point and released at the same time. When they pass close to each other, they produce a familiar interference, which varies in tone with the relative speed of the microphones. The piece lasts as long as the microphones continue moving in their pendulum motion. This piece involves no recording or playback, but instead explores the capabilities of pendulum motion and electronic interference. 
 
-Additionally, there is a growing community of algorithmically-composed electronic music.
+Additionally, there is a growing body of [algorithmically-composed electronic music](http://en.wikipedia.org/wiki/Algorithmic_composition).
 
 As the article notes, these last three examples, among many others, bring "natural and artificial systems to the fore by putting a process or phenomenon ahead of the artist's personal "vision"." Instead of playing a pre-determined composition, these artists create conditions in which the machines can 'speak for themselves,' so to speak.
 
