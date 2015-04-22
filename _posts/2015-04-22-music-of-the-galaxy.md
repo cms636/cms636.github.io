@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Music of the Galaxy
-category: updates
+category: commentary
 tags: 
   - Sonification
 author: Karleigh Moore
