@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Playing with Sound and Generating Composition
 category: commentary
 author: Val Healy
