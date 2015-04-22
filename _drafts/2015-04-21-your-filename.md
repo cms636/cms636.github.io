@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: ""
+title: Untitled
 category: updates
 ---
 
