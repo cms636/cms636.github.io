@@ -3,7 +3,6 @@ layout: post
 published: false
 title: MuRoam Updates
 category: updates
-author: "Eva, Eileen and Deniz"
 ---
 
 Thanks to the help of the Artbot team (Desi Gonzalez and Liam Andrew) we were able to come across many resources and readings on location based apps designated specifically for museums.
@@ -15,7 +14,14 @@ However, other points in Tarr’s paper, along with [a project from the Metropol
 So to keep our approach realistic for the span of this class, we will go about the “draw-your-path-as-you-go” approach for MuRoam. Users will draw their paths as they walk around the museum, double tapping at location where they wish to drop pins. With the pins, we not only hope to encode a pausing point by the visitor, but also other important metadata, such as user orientation (which direction is the person facing), wait duration, and annotations. We realize that this is not the most ideal approach, but given our current restrictions and resources, it is feasible.  We want to design our app such that it is flexible for the potential implementation of IPS in the future.
 
 We have had the opportunity to experiment and create beta versions of our technology. We developed a mobile site that holds a lot of the functionality we envisioned our application having.
+![Screen Shot 2015-04-22 at 12.52.55 PM.png](/assets/Screen Shot 2015-04-22 at 12.52.55 PM.png)
 
-One of the pages contains the current exhibits with user ratings. Upon reading/visiting the description of the exhibit, the user has the ability to leave a rating, which we believe is a simple yet powerful form of user participation. Additionally, we have a section for drawing paths. On this page, users have the ability to upload paths they created and view other user created paths.
+One of the pages contains the current exhibits with user ratings. Upon reading/visiting the description of the exhibit, the user has the ability to leave a rating, which we believe is a simple yet powerful form of user participation.
+![Screen Shot 2015-04-22 at 12.53.23 PM.png](/assets/Screen Shot 2015-04-22 at 12.53.23 PM.png)
+![Screen Shot 2015-04-22 at 12.53.41 PM.png](/assets/Screen Shot 2015-04-22 at 12.53.41 PM.png)
+
+Additionally, we have a section for drawing paths. On this page, users have the ability to upload paths they created and view other user created paths.
+![Screen Shot 2015-04-22 at 12.53.08 PM.png](/assets/Screen Shot 2015-04-22 at 12.53.08 PM.png)
+
 
 Implementing our iOS application has proved to be a challenge, at this time we will work on developing polished mockups of our application, but keep the functionality in the website. We now hope to add the augmentations mentioned above (direction encoding by replacing node circles with arrows, encoding of wait durations via node size) to the path drawing page weithin the next couple of weeks. Finally, we will be thinking of ways to make our app a better participatory tool by thinking of ways to make the interface more user-friendly and intuitive.
