@@ -3,6 +3,7 @@ layout: post
 published: false
 title: MuRoam Updates
 category: updates
+author: "Eva, Eileen and Deniz"
 ---
 
 Thanks to the help of the Artbot team (Desi Gonzalez and Liam Andrew) we were able to come across many resources and readings on location based apps designated specifically for museums.
@@ -15,9 +16,6 @@ So to keep our approach realistic for the span of this class, we will go about t
 
 We have had the opportunity to experiment and create beta versions of our technology. We developed a mobile site that holds a lot of the functionality we envisioned our application having.
 
-
 One of the pages contains the current exhibits with user ratings. Upon reading/visiting the description of the exhibit, the user has the ability to leave a rating, which we believe is a simple yet powerful form of user participation. Additionally, we have a section for drawing paths. On this page, users have the ability to upload paths they created and view other user created paths.
 
 Implementing our iOS application has proved to be a challenge, at this time we will work on developing polished mockups of our application, but keep the functionality in the website. We now hope to add the augmentations mentioned above (direction encoding by replacing node circles with arrows, encoding of wait durations via node size) to the path drawing page weithin the next couple of weeks. Finally, we will be thinking of ways to make our app a better participatory tool by thinking of ways to make the interface more user-friendly and intuitive.
-
-
