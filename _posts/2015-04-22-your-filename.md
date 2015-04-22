@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 title: Writing Sound
-category: updates
+category: commentary
+author: Eileen Rivera
+tags: 
+  - Sonification
 ---
 
 In thinking about data sonification I analyzed how sound could produce more meaninful stories than that of traditional visual representations of data. Sound is layered, visual representations are limited by three dimensions, audio is much deeper, it can empower senses in a layered mannered. This brings into question the plasticity of sound, auditory materials reign over visual materials in this dimension. Narrative is incredibly powerful and with my past experiences sound produces a more stimulating, powerful, direct narrative. Living in a world that largely text based and growing increasingly grounded in visualizations it is important to not neglect the power of sound. Sound has the ability to empower the brain in ways that visual materials cannot. Sound can incite and alter consioucness by creating brain waves. Sonification can help individuals more easily  identify patterns in data. Our ears are acute and aware of changes in frequency. 
