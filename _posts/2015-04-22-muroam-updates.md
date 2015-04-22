@@ -5,6 +5,8 @@ title: MuRoam Updates
 category: updates
 ---
 
+powerpoint link: https://docs.google.com/presentation/d/1lfWwxOdCzc3zUUHZ-A7djCxrPDOFi8XlHHSuyg8EkiA/edit#slide=id.gae980478f_0_0
+
 Thanks to the help of the Artbot team (Desi Gonzalez and Liam Andrew) we were able to come across many resources and readings on location based apps designated specifically for museums.
 
 The [first paper](http://mw2015.museumsandtheweb.com/paper/location-location-location-the-proliferation-of-indoor-positioning-and-what-it-means-and-doesnt-mean-for-museums/) by Matthew Tarr from the American Museum of Natural History, was about indoor location tracking technologies and its implications for museums. Tarr made some very important points on the limitation of current indoor positioning systems (IPSs), which cannot be achieved via traditional GPS methods. Many large-scale companies (like Apple and Google) are now working on solving this problem, but as of yet, “there isn’t a standout winner”. We were personally restricted by this technological limitation when our most promising IPS IndoorAtlas failed to properly calibrate in the large rooms of the MFA.
