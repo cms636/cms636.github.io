@@ -67,6 +67,8 @@ prose:
               value: "Augmented Space"
             - name: "Sonification"
               value: "Sonification"
+            - name: "Participatory Culture"
+              value: "Participatory Culture"
       - name: "title"
         field:
           element: "text"
