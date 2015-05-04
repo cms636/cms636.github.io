@@ -4,7 +4,7 @@ published: true
 title: "Read a book, write a paper"
 category: commentary
 tags: 
-  - Digital_Humanities
+  - Participatory Culture
 author: hariharsubramanyam
 ---
 
