@@ -60,6 +60,7 @@ b. The user can change what he or she sees on the map by doing any combination o
 	- Adjusting the timeline range with the slider bars
 	- Selecting a specific news topic by checking a labeled radio button
 
+
 c. The user can get a list of the articles pertaining to a specific country by hovering over the pin in the country.
 
 ![Screen Shot 2015-05-06 at 12.45.40 PM.png](/assets/Screen Shot 2015-05-06 at 12.45.40 PM.png)
