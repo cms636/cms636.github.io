@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: MuRoam Final Presentation and Paper
 category: updates
+author: "Team MuRoam "
 ---
 
 Hi all,
