@@ -6,7 +6,7 @@ category: updates
 author: "Yanni Coroneos, Corey Walsh"
 ---
 
-Wubify.me
+### Wubify.me
 
 Yanni Coroneos
 Massachusetts Institute of Technology, Electrical Engineering and Computer Science
