@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: NewConnect Design Document Draft
+title: NewsConnect Design Document Draft
 category: updates
 author: Karleigh Moore and Meghana Bhat
 ---
