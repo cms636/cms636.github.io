@@ -6,10 +6,9 @@ category: updates
 author: Karleigh Moore and Meghana Bhat
 ---
 
-
 ## **I. Project name**
 
-NewsConnect
+[NewsConnect](https://docs.google.com/presentation/d/1aTa7jq9VqeMWC1wvPXu-jygGD5yVP_0_UecxVVlr3sA/edit?usp=sharing)
 
 ## **II. Team members**
 
@@ -86,4 +85,3 @@ With more time and access to more robust APIs, we would like to incorporate more
 https://civic.mit.edu/cliff-entity-extraction-and-geoparsing-for-news-articles
 
 https://gistory.co/
-
