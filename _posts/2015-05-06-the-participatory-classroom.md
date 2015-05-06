@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 title: The Participatory Classroom
-category: updates
+category: commentary
+author: Karleigh Moore
+tags: 
+  - Participatory Culture
 ---
 
 The beginning of this article reminded me of edx and "the flipped classroom". I have two very different opinions on the flipped classroom, depending on what type of subject the class has to deal with. I think that flipped classrooms, using for example, edx, in STEM classes, is great. I think that flipping a humanities classroom is a horrible mistake, at least with the platforms that we currently have. I think that the strengths of participation in STEM classes — answering generally close ended questions in chat rooms and forums, completing computer generated practice problems, and watching prerecorded lectures is very helpful for learning STEM concepts. However, liberal arts classes aren't as straight forward, and are better when they are discussion based. Perhaps there are times when students and professors have somewhat structured discussions in chat rooms and forums, but I've never experience this. 
