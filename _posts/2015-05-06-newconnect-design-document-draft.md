@@ -51,22 +51,22 @@ The second component of our project had to do with the user interface. We really
 
 ## **VII. Journey Map**
 
-1. The user will see a world map, populated with news
+a. The user will see a world map, populated with news
 
 ![Screen Shot 2015-05-05 at 9.46.31 PM.png](/assets/Screen Shot 2015-05-05 at 9.46.31 PM.png)
 
-2. The user can change what he or she sees on the map by doing any combination of the following:
+b. The user can change what he or she sees on the map by doing any combination of the following:
 	- Selecting a country to zoom in on by double clicking on a region
 	- Adjusting the timeline range with the slider bars
 	- Selecting a specific news topic by checking a labeled radio button
-3. The user can get a list of the articles pertaining to a specific country by hovering over the pin in the country.
+c. The user can get a list of the articles pertaining to a specific country by hovering over the pin in the country.
 
 ![Screen Shot 2015-05-06 at 12.45.40 PM.png](/assets/Screen Shot 2015-05-06 at 12.45.40 PM.png)
 
 
-4. The user can hover over an article in the the list of articles and see a preview of the article appear on the screen.
+d. The user can hover over an article in the the list of articles and see a preview of the article appear on the screen.
 
-5. A user can click on the link to the article they see (before or after seeing the preview) and the article will open in a new tab. Or if a user decides that the article is not one they want to read, they can close the preview, and zoom back out to the world view.
+e. A user can click on the link to the article they see (before or after seeing the preview) and the article will open in a new tab. Or if a user decides that the article is not one they want to read, they can close the preview, and zoom back out to the world view.
 
 ![Screen Shot 2015-05-06 at 12.47.05 PM.png](/assets/Screen Shot 2015-05-06 at 12.47.05 PM.png)
 
