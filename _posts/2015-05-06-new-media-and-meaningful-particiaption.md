@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 title: New Media and Meaningful Particiaption
-category: updates
+category: commentary
+author: "Eva Stern-Rodriguez"
+tags: 
+  - Participatory Culture
 ---
 
 I enjoyed reading this article, and found myself agreeing with much of its content.  For sometime, I have believed that the current educational system is outdated, and that the integration of new media could drastically enhance and improve how people absorb knowledge.  I particularly liked Henry Jenskin’s comment that, “The institutional and industrialized practices of mass media allow for the mass production and circulation of culture but often at the expense of our abilities to meaningfully participate in those processes at a grassroots level.” I found this interesting, as while media and the web have allowed for the circulation of knowledge and scholarly material, there is often a barrier between those who are producing material and those who are simply consuming.  
