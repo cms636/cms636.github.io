@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Limitations of the "
+title: Limitations of the TSG
 category: commentary
 author: Yanni Coroneos
 tags: 
