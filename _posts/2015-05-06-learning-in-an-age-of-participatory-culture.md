@@ -18,7 +18,7 @@ If our goal is to produce productive members of society, teachers should teach s
 
 Of course, there is a big tradeoff here; if you have no idea what you're searching for, it will be much harder to find it. A high level view of what is out there is very important, but differentiating useful knowledge from unnecessary specifics is difficult without a deep level of familiarity with the subject matter. This is where I believe the educator can provide significant value: they are presumably knowledgable about the subject they are teaching, and are therefore in a much better position to determine what can be glossed over.
 
-I was fortunate enough to learn early on that what I really wanted to know was out there, but it wasn’t going to be handed to me in fifth period Algebra. By teaching myself to program, and solving problems as they arose, I became a Google guru. Today, those skills help me in all areas of my life - I know that I can apply for just about any job, or approach just about any problem, because any knowledge that I lack is at my fingertips.
+I was fortunate enough to learn early on that what I really wanted to know was out there, but it wasn’t going to be handed to me in fifth period Algebra. By teaching myself to program, and solving problems as they arose, I became a Google guru. Today, those skills help me in all areas of my life - I know that I can apply for new jobs or approach new problems without fear, because any knowledge that I lack is at my fingertips.
 
 Now, it’s time for a metaphor. 
 
