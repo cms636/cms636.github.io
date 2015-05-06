@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Multi-Media Literacy"
 category: commentary
 author: Val Healy
