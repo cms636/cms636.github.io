@@ -15,4 +15,3 @@ You get a lot out of reading a book like a classic, but you definitely get so mu
 It's also interesting to see old books with a modern context, as the Moby Dick play mentioned in the reading took a look at. Even if it is not context it was originally intended for--or even because it is not so--you can get a lot of meaning out of a book. It's no longer "the author intends this," but rather, "we see this." Interpretations can have wide applicability.
 
 I sorta see a parallel, actually, to STEM here. STEM can feel kind of distant and inaccessible to most. But here at MIT, we have such a participatory culture for STEM that encourages even dropping references to math/physics/etc concepts into casual conversation. The approachbility of STEM is also a gap we're trying to bridge, and we are trying to make use of technology to encourage STEM. Use of technology is not perfect for everything, but it can definitely be an aid.
-
