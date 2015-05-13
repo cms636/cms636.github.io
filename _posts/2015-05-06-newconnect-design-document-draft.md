@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: NewsConnect Design Document Draft
+title: NewsConnect Design Document Final Draft
 category: updates
 author: Karleigh Moore and Meghana Bhat
 ---
@@ -12,15 +12,25 @@ author: Karleigh Moore and Meghana Bhat
 
 ## **II. Team members**
 
-Meghana Bhat is a sophomore in Course 6 at MIT. For the NewsConnect project, Meghana created the code that made the app a reality. She worked to incorporate news data with our map, and transferred UI ideas into code. 
+Meghana Bhat is a sophomore in Course 6 at MIT. For the NewsConnect project, Meghana created the code that made the app a reality. She worked to incorporate news data with our map, and transferred UI ideas into code.
 
 Karleigh Moore is a junior in CMS at MIT. For the NewsConnect project, Karleigh initially worked on the news data scraper, but then focused on deciding what sorts of news data (keywords, sources, places) we would look for with a different scraper. She worked to brainstorm UI features, create mockups, and was in charge of creating the documentation and presentations regarding the project. 
 
 ## **III. Concept overview/abstract**
 
-It’s very easy to find news articles to read on the internet, but it can be overwhelming to sift through so much text, and to find what you’re looking for beyond basic categories of “politics” and “economics”. With world news in particular, a user might have an interest in West African nations and articles relating to politics of the region. It would take a lot of effort to find news about the region if you wanted to narrow down to one topic, and especially if you wanted news from many sources. Furthermore, a student might be doing a research project on international relations between China and India, we wanted to make an app that would explicitly show articles that linked the two nations. 
+NewsConnect is a web application that allows users to see global connections in news, and makes it easy to find only the news you want to read.
 
-To address these problems, we wanted to make NewsConnect, a visual and engaging news webapp. We wanted to avoid walls of text, and make the interface informative, but not intimidating. What better way to do this than by putting news articles on a world map, associating the articles with the countries discussed in the text, and visually showing links between countries mentioned. With our interface, a user can search for a news topic (within a category and/or with keywords), specify a nation/nations of interest, and only those news articles will appear. NewsConnect gives users a preview of the contents of an article so they can decide if they’d like to open the link in a new tab which could be a useful time saving feature. A user will have access to the news they are looking for without having to skim through many articles, disrupting their workflow as they are taken to new pages with every click. 
+Key features of NewsConnect include:
+
+- Lines connecting points within nations (that represent an article). So if an article has to do with China and India, the two countries will have a connection line. 
+- Users can filter articles by category. This would make it easy, for example, to narrow down articles to only economics articles. 
+- Users can get a preview of an article by hovering over a map point.
+- NewConnect will eventually include a timeline filter so that users can see articles in a particular time range, in addition to a specific category and/or country. 
+
+It’s very easy to find news articles to read on the internet, but it can be overwhelming to sift through so much text, and to find what you’re looking for beyond basic categories of “politics” and “economics”. In particular, with world news, it can be hard to track patterns of news across nations. A student might be doing a research project on international relations between, for example, China and European countries. He or she can look up news about China, or news about Europe, or news about the world, but seeing news connecting both locations, and seeing the development of that news over time, is significantly harder.  A user might also, for example, have an interest in West African nations and articles relating to politics of the region. It would take a lot of effort to track news about the particular region related to one specific topic, especially if you want news from many sources.
+
+To address these problems, we want to make NewsConnect, a visual and engaging news webapp. We want to avoid walls of text, and make the interface informative, but not intimidating. We did this by putting news articles on a world map, associating the articles with the countries discussed in the text, and visually showing links between countries mentioned. A user will have access to the news they are looking for (with the help of our features) without having to skim through many articles, disrupting their workflow as they are taken to new pages with every click. Better, they can investigate a particular news issue over time in a geographic context. NewsConnect is also a way to discover trends in world news including coverage, source bias, and more. 
+ 
 
 ## **IV. Background research**
 
