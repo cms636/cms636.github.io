@@ -1,12 +1,12 @@
 ---
 layout: post
 published: true
-title: "Last Year's Student Projects"
+title: "2014's Student Projects"
 category: "ext-projects"
 author: Andy
 ---
 
-These three DH projects were completed by student teams for last year's iteration of CMS.633.
+These three DH projects were completed by student teams for 2014's iteration of CMS.633.
 
 **Around the World**
 
