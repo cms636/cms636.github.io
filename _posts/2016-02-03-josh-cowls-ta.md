@@ -3,7 +3,8 @@ layout: post
 published: true
 author: ""
 category: people
-tags: null
+tags: 
+  - "null"
 title: Josh Cowls (TA)
 ---
 
