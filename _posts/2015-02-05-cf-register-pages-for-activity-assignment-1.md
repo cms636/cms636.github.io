@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: CF Register pages for Activity/Assignment 1
 category: updates
 author: fendt
