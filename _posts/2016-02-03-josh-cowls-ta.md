@@ -6,6 +6,7 @@ category: people
 tags: 
   - "null"
 title: Josh Cowls (TA)
+display-rank: 2
 ---
 
 ![]({{site.baseurl}}/assets/dsc_0059-e1443813023533%20(1).jpg)
