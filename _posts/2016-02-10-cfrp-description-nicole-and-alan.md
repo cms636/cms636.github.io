@@ -8,11 +8,11 @@ tags:
 title: "CFRP Description - Nicole Seo and Alan Casallas"
 ---
 
-##Our approach to go from facsimile to data##
+## Our approach to go from facsimile to data ##
 
 We plan to use human data entry to extract the data from the theatre records and store it electronically. Because the information is presented in a mostly handwritten, highly irregular form, we ruled out the possibility of using machine vision to extract the data. However, the sheer quantity of the register pages made us wary of taking a purely human-driven approach (i.e. hand-coding the data). Our strategy to make the process easier for human encoders is to group together records with similar formats and to create an electronic form with an intuitive user interface to facilitate the data entry process (see Slide #1).
  
-##The process by which we will store and present the data##
+## The process by which we will store and present the data##
 We will store the data using a SQL server such as MySQL, which scales well with large amounts of data. We will store play information using database fields such as ‘Play ID’, ‘Play Name’, ‘Revenue’, ‘Expenses’, and ‘Total Attendance’. Other data, such as seats sold by section area, will contain fields such as ‘Play ID’, ‘Seat Type’, ‘Number of Seats Sold’, and ‘Revenue’.
 In presenting our data, we wanted to process it in a meaningful way rather than just presenting it in a table or graph. Thus, we will create a website reminiscent of modern movie sites such as IMDB or Rotten Tomatoes that will allow the user to explore the plays as if they were modern-day productions.
 
