@@ -5,8 +5,9 @@ author: Nicole Seo and Alan Casallas
 category: updates
 tags: 
   - "null"
-title: "CFRP Description - Nicole Seo and Alan Casallas"
+title: "CFRP Description - Nicole and Alan"
 ---
+
 
 #### Our approach to go from facsimile to data ##
 We plan to use human data entry to extract the data from the theatre records and store it electronically. Because the information is presented in a mostly handwritten, highly irregular form, we ruled out the possibility of using machine vision to extract the data. However, the sheer quantity of the register pages made us wary of taking a purely human-driven approach (i.e. hand-coding the data). Our strategy to make the process easier for human encoders is to group together records with similar formats and to create an electronic form with an intuitive user interface to facilitate the data entry process (see Slide #1).
