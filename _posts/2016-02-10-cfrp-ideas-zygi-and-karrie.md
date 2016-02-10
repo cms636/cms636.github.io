@@ -1,11 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 author: "Zygimantas Straznickas, Karrie Peterson"
 category: updates
-tags: null
+tags: 
+  - "null"
 title: "CFRP Ideas - Zygi and Karrie"
 ---
+
 
 _Link to the presentation [here](https://docs.google.com/presentation/d/1wXAaZxRBsnJwrJUA6EllR2zYS2oXMSR_UwVdZAmpvkI/edit?usp=sharing)_
 
@@ -19,4 +21,3 @@ The main advantage of storing the data in a relational database format is that t
 
 ## Data use
 By itself, the CFRP data would probably only be useful to other researchers, as a data source to use in other projects. While the records could be used to explore some economics questions - how did the price of tickets or  the difference between quantities and prices of different seat types change - it lacks a lot of context for many interesting insights. The primary use of this project would be combining it with other datasets. Specifically, having more data about the plays, their playwrights, lengths and genres would let us answer questions about which genres were popular or if there were any extraordinarily popular playwrights and how much their popularity helped sell their plays. Similarly, combining the CFRP records with data about the actors in each performance could be used in research about the “superstar” status throughout history by supporting written sources with statistical data. All in all, this project would digitize and make accessible a lot of interesting data that, when combined with other sources, could then be used for exciting research.
-
