@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: Zygimantas Straznickas
-category: updates
+category: commentary
 tags: 
   - Digital_Humanities
 title: "I Must First Apologize - Interpretations"
