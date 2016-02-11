@@ -1,12 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 author: ""
 category: updates
 tags: 
   - "null"
 title: cfrp ideas Ava Chen
 ---
+
 
 
 
