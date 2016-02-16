@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 author: Karrie Peterson
 category: commentary
 tags: null
