@@ -3,9 +3,11 @@ layout: post
 published: true
 author: Karrie Peterson
 category: commentary
-tags: null
+tags: 
+  - "null"
 title: "KarriePeterson-3Questions"
 ---
+
 
 
 
