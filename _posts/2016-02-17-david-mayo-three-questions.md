@@ -1,9 +1,10 @@
 ---
 layout: post
-published: false
+published: true
 author: ""
-category: updates
-tags: null
+category: commentary
+tags: 
+  - Digital_Humanities
 title: "David Mayo - Three Questions"
 ---
 
