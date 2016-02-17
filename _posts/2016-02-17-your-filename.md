@@ -2,10 +2,12 @@
 layout: post
 published: true
 author: Alan Casallas
-category: updates
-tags: null
+category: commentary
+tags: 
+  - "null"
 title: "Three Questions - Alan"
 ---
+
 
 1)   Where do the authors of scam emails draw their inspiration from? Could it be from personal experiences, from their creative imagination, or do they simply copy other well-known scam messages?
 
