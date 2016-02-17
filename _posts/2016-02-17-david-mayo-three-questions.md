@@ -1,11 +1,11 @@
 ---
 layout: post
 published: true
-author: ""
+author: David Mayo
 category: commentary
 tags: 
   - Digital_Humanities
-title: "David Mayo - Three Questions"
+title: "Three Questions - David"
 ---
 
 1. Are there good records of scam messages over time and if so where do these records come from? It seem like since scam messages are viewed as undesirable or even dangerous and are often automatically deleted it would be difficult to curate them.
