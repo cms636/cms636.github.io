@@ -17,7 +17,6 @@ Zygimantas Straznickas, Nicole Seo, Karrie Peterson
 
 ###Research Question: How can we enable non-experts to expore general interest trends within this data – e.g., popularity of plays, of authors, of actors? 
 Today’s audiences often think in terms of awards, box office profits, top-billed celebrity performers.  To provide entree to this historical data, we are attempting to enable exploration in those kinds of categories.
-
 ###Functionality of the web-based interface
 
 We aimed at giving users the ability to discover year-by-year information using an Accolade Generator:
