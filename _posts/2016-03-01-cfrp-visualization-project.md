@@ -23,15 +23,15 @@ Today’s audiences often think in terms of awards, box office profits, top-bill
 
 We aimed at giving users the ability to discover year-by-year information using an Accolade Generator:
 
-Best play – Highest grossing play
-Nominees – Top ten highest grossing plays
-Best in class – highest grossing in each genre  (comedy, tragedy)
-Most popular playwright – authors of the top grossing play
-Nominees for playwrights - authors of the runners up
-Top box office attraction - actors/actresses whose appearances total up to top grossing numbers
-Hardest working actor in show biz - actor participating in the most plays in a given year
-Turkey – least grossing play
-Favorite of the cheapskates – play for which the most number of the cheapest seats sold for that year
+- Best play – Highest grossing play
+- Nominees – Top ten highest grossing plays
+- Best in class – highest grossing in each genre  (comedy, tragedy)
+- Most popular playwright – authors of the top grossing play
+- Nominees for playwrights - authors of the runners up
+- Top box office attraction - actors/actresses whose appearances total up to top grossing numbers
+- Hardest working actor in show biz - actor participating in the most plays in a given year
+- Turkey – least grossing play
+- Favorite of the cheapskates – play for which the most number of the cheapest seats sold for that year
  
 More complex data extractions could permit:	
 Mood of the season - showing the proportion of comedies vs. tragedies for each season of a given year 
