@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-author: ""
+published: true
+author: David Mayo and Alan Casallas
 category: updates
 tags: null
 title: CFRP Prototype Presentation
