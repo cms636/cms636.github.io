@@ -34,8 +34,8 @@ We aimed at giving users the ability to discover year-by-year information using 
 - Favorite of the cheapskates – play for which the most number of the cheapest seats sold for that year
  
 More complex data extractions could permit:	
-Mood of the season - showing the proportion of comedies vs. tragedies for each season of a given year 
-Longitudinal summaries of individual plays, actors, playwrights over a period of time, showing their frequencies.
+- Mood of the season - showing the proportion of comedies vs. tragedies for each season of a given year 
+- Longitudinal summaries of individual plays, actors, playwrights over a period of time, showing their frequencies.
 
 Longitudinal playwright popularity:  Allow users to view the relative popularity of playwrights in a designated time period.  Users can choose any time period, and get a visualization that shows each playwright whose plays were performed in that time period as a circle, with the size of each circle increasing based on total gross.  If the time periods are very small, it might not be so important to correct for the change in the value of currency over time, but if the time periods were large, that correction would be needed.
 Design considerations for the user interface
