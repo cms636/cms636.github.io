@@ -37,8 +37,7 @@ Mood of the season - showing the proportion of comedies vs. tragedies for each s
 Longitudinal summaries of individual plays, actors, playwrights over a period of time, showing their frequencies.
 
 Longitudinal playwright popularity:  Allow users to view the relative popularity of playwrights in a designated time period.  Users can choose any time period, and get a visualization that shows each playwright whose plays were performed in that time period as a circle, with the size of each circle increasing based on total gross.  If the time periods are very small, it might not be so important to correct for the change in the value of currency over time, but if the time periods were large, that correction would be needed.
-
-Part Two:   Design considerations for the user interface
+Design considerations for the user interface
 
 Accolade Generator - The uncomplicated accolade generator allows users to explore the best and the worst by year.   Obstacles for doing this easily involve linking to additional data for identifying actors by gender (female/male), and singling out the leading roles for each play, so that minor characters are not tied with actors playing major roles.  Additionally, there needs to be some documentation that explains to users that the top grossing plays will be affected by play-going in many of the years, where for certain performances there were restrictions on who could attend. 
 Trendline Generator - Data visualizations for longitudinal trends could be bar charts where we’re just showing absolute frequencies (number of times a play was performed, for exmple), or to show relative popularity could be unordered bubble charts or stream graphs.  
