@@ -9,8 +9,7 @@ title: CFRP Visualization Project
 
 Live demo: http://zygi.gitlab.io/cfrp-viz/
 
-###Project Title
-What was in vogue at the Comedie-Francaise?
+##What was in vogue at the Comedie-Francaise?
 
 ###Project Team
 Zygimantas Straznickas, Nicole Seo, Karrie Peterson
@@ -45,7 +44,6 @@ Accolade Generator - The uncomplicated accolade generator allows users to explor
 Trendline Generator - Data visualizations for longitudinal trends could be bar charts where we’re just showing absolute frequencies (number of times a play was performed, for exmple), or to show relative popularity could be unordered bubble charts or stream graphs.  
 
 ###Use of the API to capture data
-
 For best play and nominees:  The “top grossing play” needs to be defined and documented.  Since there were two plays on each night, attached to one gross sales amount, and we cannot determine if one was the “opening act” for a more renowned play, we chose to divide the take in half and give each play for the night 50% of the take.  Since plays were often repeated in the same year, our assumption was that a more popular play would be repeated more often, and thereby get a higher gross.  The Turkey (least grossing) would just be the same process but lowest number.
 
 Best in class:  Similar process, first identifying the highest grossing, and then retrieving its genre.  There would be one winner for tragedies, and one winner for comedies, in any given year. 
@@ -53,5 +51,6 @@ Best in class:  Similar process, first identifying the highest grossing, and the
 Top box office attraction and hardest working actor in show biz: it would be difficult to implement this using just the API provided - even though there are API endpoints for actors and their performances, in order to correlate them with performance profits it would require getting information about all the different combinations of performance and actor data. This can only be achieved by first using the API to download all the actor data in the project and all the performance data for each year (assuming that's not against the terms of use) and then processing the whole dataset. 
 
 ###Structure of data and technologies for query and display
+For display, we would use a simple jQuery based script to display the top 10 lists and control the website. Graphs would be drawn using the d3 library. The data retrieval question is more complicated. In our demo, we only implemented the worst/best plays functionality, the data for which could be retrieved using a single API call to the CFRP server. For this, we just used an AJAX call from the user's browser - the website does not need any functionality from a separate backend server as everything is done clientside, by the browser. When implementing other views, specifically the "hardest working actor" category, a different approach would be needed. As Described above, this data cannot be acquired by a single API call. The project would need a backend server that would collect all the data needed by doing many API calls to CFRP, processing them, deriving the statistical data and then serving it to the website visitors.
 
  
