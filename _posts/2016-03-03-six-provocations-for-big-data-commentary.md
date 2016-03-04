@@ -3,9 +3,11 @@ layout: post
 published: false
 author: Keeley Erhardt
 category: commentary
-tags: null
+tags: 
+  - "null"
 title: Six Provocations for Big Data commentary
 ---
+
 
 ## Do numbers speak for themselves?
 Boyd and Crawford criticize the idea that numbers speak for themselves, but that's a pretty over-arching statement. The question of whether or not numbers speak for themself doesn't have a binary answer. Boyd and Crawford are correct in identifying that numbers do need interpretation, but even without human-driven data-wrangling, machine learning techniques have provided some incredible insights into the details and predicitions that can be made given enough data. The canonical Target example (http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html) reveals how computers processing "Big Data" can reveal trends without human training or intrepretation. The Target example is interesting because it also ties into the question of "just because it's accessible, doesn't make it ethical." Our shopping habits and behaviors are public to the stores we shop at, and people in general appreciate relevant advertisements, but where is the line?
