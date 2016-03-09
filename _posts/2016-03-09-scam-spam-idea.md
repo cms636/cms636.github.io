@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-author: ""
+published: true
+author: Zygimantas Straznickas
 category: updates
 tags: null
 title: Scam/Spam Idea
