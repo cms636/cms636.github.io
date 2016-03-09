@@ -3,9 +3,11 @@ layout: post
 published: false
 author: ""
 category: updates
-tags: null
-title: Alan Casallas
+tags: 
+  - "null"
+title: Alan Casallas (Student)
 ---
+
 
 ![alan.jpg]({{site.baseurl}}/assets/alan.jpg)
 
