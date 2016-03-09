@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
-author: ""
-category: updates
+published: true
+author: Karrie
+category: commentary
 tags: null
 title: "D. Boyd's Provocations - Karrie"
 ---
