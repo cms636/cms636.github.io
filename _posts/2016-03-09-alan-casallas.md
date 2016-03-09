@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
-author: ""
-category: updates
+published: true
+author: Alan Casallas
+category: people
 tags: 
   - "null"
 title: Alan Casallas (Student)
