@@ -3,11 +3,13 @@ layout: post
 published: true
 author: Alan Casallas
 category: updates
-tags: null
+tags: 
+  - "null"
 title: Additional Email Scam Representation Ideas
 ---
 
-After reviewing the scam emails and using the Stanford Name Recognizer, I noticed that a lot of the emails attempt to associate themselves with a location, whether it is a nation such as Russia or an organization, such as Russia.
+
+After reviewing the scam emails and using the Stanford Name Recognizer, I noticed that a lot of the emails attempt to associate themselves with a location, whether it is a nation such as Russia or an organization, such as the United Nations.
 
 Therefore, I think a good representation would be to show a map of the world with dots representing countries, such as Nigeria, and organizations, such as the United Nations. When a user clicks on this dot, it can take them to a floor with animated characters that tell their story when clicked on.
 
