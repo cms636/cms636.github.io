@@ -1,9 +1,10 @@
 ---
 layout: post
-published: false
+published: true
 author: Keeley
 category: updates
-tags: null
+tags: 
+  - "null"
 title: Microsoft Research on Nigerian Prince Scam
 ---
 
