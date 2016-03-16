@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
-author: ""
-category: updates
+published: true
+author: Ali Finkelstein
+category: commentary
 tags: null
 title: TimeWimey
 ---
