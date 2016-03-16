@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-author: ""
+published: true
+author: Keeley
 category: updates
 tags: null
 title: "Keeley - Final Project Pitch"
