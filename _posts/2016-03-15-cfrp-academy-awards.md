@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-author: ""
+published: true
+author: Nicole Seo
 category: updates
 tags: null
 title: CFRP Academy Awards
