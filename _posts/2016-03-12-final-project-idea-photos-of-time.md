@@ -3,15 +3,18 @@ layout: post
 published: true
 author: Alan Casallas
 category: updates
-tags: null
+tags: 
+  - "null"
 title: "Final Project Idea: Photos of Time"
 ---
 
-## Project Title ##
-Photos of Time
+
+## Problem Statement ##
+The flow of time can cause us to forget what used to exist but no longer does. One way we deal with this is by keeping photos and pictures, a large quantity of which have been amassed over the course of human history.
+The problem that this project would address is that we sometimes neglect how landscapes have changed over time. Residents of modern-day Manhattan may not realize how radically different their zone is today from how it was in the days of the Native Americans. To tackle this problem, this project aims to give users an easy-to-use interface to explore how different regions have changed in appearence over time.
 
 ## Approach ##
-In this project, we would create a website where the user sees a map of the Earth and has a slider to set the date to a different point in time. They can then click on the map of Earth, and a drawing or photograph will pop up of the point in time and space they selected.
+In this project, we would create a website where the user sees a map of the Earth and has a slider to set the date to a different point in time. When the user clicks on a point in the map, it will bring up a photo from a database that most closely matches the point in time and space that the user has selected.
 
 ## Audience ##
 Our audience would be general, since the website would be easy to use and I believe everyone will be interested in playing with the tool. Perhaps historians would be most interested to learn how landscapes change over centuries of human inhabitance.
