@@ -17,7 +17,7 @@ The problem that this project would address is that we sometimes neglect how lan
 In this project, we would create a website where the user sees a map of the Earth and has a slider to set the date to a different point in time. When the user clicks on a point in the map, it will bring up a photo from a database that most closely matches the point in time and space that the user has selected.
 
 ## Audience ##
-Our audience would be general, since the website would be easy to use and I believe everyone will be interested in playing with the tool. Perhaps historians would be most interested to learn how landscapes change over centuries of human inhabitance.
+Our audience would be people interested in understanding how landscapes change over time. This could include historians, environmentalists, and students. Research questions that this project can help answer are: What effects did the colonial expansion of the 17th Century have on the Americas? How is deforestation affecting the appearance of woodlands? How has industrialization impacted the appearance of different regions?
 
 ## Skills Needed ##
 This approach would require gathering thousands of images and labeling them with spatial and temporal information. It would thus require back-end programming skills and database technology knowledge.
