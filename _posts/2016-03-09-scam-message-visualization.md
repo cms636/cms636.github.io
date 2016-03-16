@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-author: ""
+author: "David Mayo"
 category: updates
 tags: null
 title: Scam message visualization
