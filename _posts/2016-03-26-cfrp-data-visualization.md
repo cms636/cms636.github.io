@@ -3,9 +3,11 @@ layout: post
 published: true
 author: Keeley Erhardt  + Julia Guo
 category: updates
-tags: null
+tags: 
+  - "null"
 title: CFRP Data Visualization
 ---
+
 
 ## Draft 2 Update
 
