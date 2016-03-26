@@ -9,11 +9,12 @@ title: CFRP Data Visualization
 ---
 
 
+
 ## Draft 2 Update
 
 a. **Title**
 
-CFRP in Time
+CFRP in Time (viewable [here](https://github.com/keelerh/CFRP-timeline))
 
 b. **Goal**
  
