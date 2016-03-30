@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 author: Nicole Seo
 category: updates
 tags: null
