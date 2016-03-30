@@ -1,12 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 author: ""
 category: updates
 tags: 
   - "null"
 title: 6 Provocations of Big Data
 ---
+
 
 
 The two provocations I read were “Bigger Data are Not Always Better Data’ and “Just Because it is Accessible Doesn’t Make It Ethical”. In “Bigger Data are Not Always Better Data”, the authors discuss taking into account and acknowledging the group which researcher’s data sets represent. Specifically, there was a large focus on researchers using twitter as a part of research. The authors stated that “Twitter does not represent all people although…researchers refer to “people” and Twitter users as synonymous”. Following this, there is a large discussion as to why Twitter is not representative (due to the fact that what people actually see from the API is a very limited subset), and as to why it is important that the acknowledgement of the lack of a complete data set is important (meaning such that, in the example of Twitter, when researchers use Twitter as a part of their research, they need to acknowledge and keep in mind that the metadata that is found is not necessarily complete and correct). In  “Just Because it is Accessible Doesn’t Make It Ethical,” the discussion of use of public content is brought up. The authors  discuss questions researchers are faced when considering using online content in their work and some of the regulation of the use of humans as research subjects . In addition, there is a paragraph on the accountability of researchers when in these situations, however the authors never make a clear definition of what the researchers must be accountable.
