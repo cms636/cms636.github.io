@@ -4,7 +4,7 @@ published: false
 author: Ali Finkelstein
 category: commentary
 tags: null
-title: Response to the internet
+title: " internet"
 ---
 
 
