@@ -8,6 +8,7 @@ title: "Project Pitch: Eating Around the World in NYC "
 ---
 
 ### Presentation
+[Here](https://docs.google.com/presentation/d/1SE4MslwQc72gqZDzKQIwA1oxxIt1tgh7lkEQLhOz-uA/edit?usp=sharing/)
 
 ### Problem Statement
 How have different ethnic cuisines mixed in NYC, in terms of neighborhood, price, and reputation?
