@@ -4,10 +4,8 @@ published: true
 author: Keeley Erhardt
 category: commentary
 tags: null
-title: Archiving the Internet
+title: "Do We Want to Remember Everything?"
 ---
-
-## The Internet Never Forgets?
 
 Jill Lepore's piece, _The Cobweb_, is extremely interesting because it contradicts many of my assumptions about the internet. In the Age of the Internet we're reminded over and over again to be extremely cautious of what we post online, because anything what goes into the ether is there for good. Lepore points out how in many cases this widespread assumption is simply false. Fascinatingly, the average life of a web page is only about 100 days. This short existence is not constrained to memes, short blog posts, or social media posts, but scientific paper and online evidence presented in court cases also disappears quickly. 
 
