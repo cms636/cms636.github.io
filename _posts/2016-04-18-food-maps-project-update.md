@@ -1,13 +1,11 @@
 ---
 layout: post
 published: true
-author: Nicole Seo
+author: "Zygimantas Straznickas, Nicole Seo"
 category: updates
 tags: null
 title: "Food Maps: Project Update"
 ---
-### Group Members: Zygimantas Straznickas & Nicole Seo
-
 This week, we explored the food tour app concept in more detail and decided to rework our concept so that it focuses more on the cultural aspect of food in New York City.
 
 ## Old Concept
