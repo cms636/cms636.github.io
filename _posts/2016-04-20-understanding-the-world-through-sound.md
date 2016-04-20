@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: Alan Casasllas
-category: updates
+category: commentary
 tags: 
   - Sonification
 title: Understanding the world through sound
