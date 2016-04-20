@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 author: "Karrie & Ali"
 category: updates
 tags: null
@@ -8,7 +8,7 @@ title: "Karrie & Ali - HATHITrust"
 ---
 
 
-We changed the focus of our project -- we're exploring the limitations of HATHITrust, a well-known content repository, as a basis for DH projects (rather than our earlier goal of using a HATHITrust colleciton to create a dataset that others could explore).
+We changed the focus of our project -- we're exploring the limitations of HATHITrust, a well-known content repository, as a basis for DH projects (rather than our earlier goal of using a HATHITrust collection to create a dataset that others could explore).
 
 **Problems encountered**: There are unexpected restrictions on the data (licensing, that trumps copyright and takes large swaths of data out of reach for public scholarship), which means we will have even less than we originally imagined. The documentation for creating worksets is so poor, we had a hard time recreating work we already did. The interface is not helpful for knowing what you are putting into your workset, which makes for tedious and brittle workflows.
 
