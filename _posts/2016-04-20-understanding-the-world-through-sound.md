@@ -1,9 +1,10 @@
 ---
 layout: post
-published: false
-author: ""
+published: true
+author: Alan Casasllas
 category: updates
-tags: null
+tags: 
+  - Sonification
 title: Understanding the world through sound
 ---
 The article on sonification explored how sound has become an integral part of our technology. From OS sounds when clicking buttons to alerts when receiving new notifications, sounds have made their way into all aspect of computer software.
