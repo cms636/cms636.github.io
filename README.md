@@ -37,3 +37,4 @@ This is the collaborative Jekyll site for CMS.633, a digital humanities course a
 ### Adding students as collaborators
 1. Each student must first create their own GitHub account (if they don’t already have one) and email their username to you.
 1. At https://github.com/cms633/cms633.github.io/settings/collaboration, enter the student’s username and click “Add collaborator"
+1. Direct students to the [Contributing to This Site](https://cms633.github.io/about/) for instructions on using prose.io to add content

@@ -8,7 +8,7 @@ author: Andy
 
 This site is collaboratively managed using [GitHub](https://github.com), [Jekyll](http://jekyllrb.com/), and [Prose](http://prose.io/). To get started adding material to this site, just follow these steps:
 
-- First, [email Andy](mailto:akstuhl@mit.edu) with your GitHub username (set up a free [GitHub](https://github.com) account if you don't already have one). You'll get an email from GitHub telling you you've been added as a collaborator to the [cms633.github.io repository](https://github.com/cms633/cms633.github.io).
+- First, [email Kurt](mailto:fendt@mit.edu) with your GitHub username (set up a free [GitHub](https://github.com) account if you don't already have one). You'll get an email from GitHub telling you you've been added as a collaborator to the [cms633.github.io repository](https://github.com/cms633/cms633.github.io).
 
 - To add something to the site once you've become a collaborator, go to [prose.io](http://prose.io/) and click "Authorize on GitHub." Click on the cms633.github.io project and you'll see the full list of posts on the site. Hit "New File" and you'll enter the text editor.
 
