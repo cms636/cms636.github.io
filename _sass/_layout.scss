@@ -159,7 +159,7 @@
 .home-image {
 	width: 74%;
 	float: left;
-	
+
 	@include media-query($on-laptop) {
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
@@ -171,15 +171,15 @@ ul.home-links {
 	float: left;
 	list-style: none;
 	margin-left: $spacing-unit / 2;
-	
+
 	> li {
 		border-bottom: 1px solid $grey-color-light;
 	}
-	
+
 	> li:last-child {
 		border: none;
 	}
-	
+
 	@include media-query($on-laptop) {
 		float: none;
 		margin-left: 0px;
@@ -211,11 +211,11 @@ ul.home-links {
         margin-bottom: $spacing-unit;
         border-bottom: 1px $grey-color-light solid;
     }
-    
+
     > li:last-child {
     	border: none;
     }
-    
+
     a.post-link {
     	color: $text-color;
     }
@@ -280,16 +280,31 @@ ul.home-links {
 
 .bio-post {
 	@extend %clearfix;
-	
+
 	img {
 		max-width: 200px;
 		float: left;
 		margin-right: $spacing-unit / 2;
 		margin-bottom: $spacing-unit;
-		
+
         @include media-query($on-palm) {
 			float: none;
 			margin-bottom: 0px;
 		}
+	}
+}
+
+.archive-notice {
+	background-color: $grey-color-dark;
+	color: white;
+	padding: 7px;
+
+	a:link {
+		color: white;
+		text-decoration: underline;
+	}
+
+	a:visited {
+		color: white;
 	}
 }
