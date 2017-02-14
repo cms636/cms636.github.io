@@ -93,4 +93,7 @@ For instance, some specific questions that we think could be answered:
 The tool to do this would be an online graphing tool, as shown below. We would also allow people to download the raw dataset – this would be most useful to the academic/professional researchers, although our tool is designed to answer the questions that we think they'd be most interested in.
 
 ## Prototype
-
+![cfrp-fig-1.png]({{site.baseurl}}/assets/cfrp-fig-1.png)
+![cfrp-fig-2.png]({{site.baseurl}}/assets/cfrp-fig-2.png)
+![cfrp-fig-3.png]({{site.baseurl}}/assets/cfrp-fig-3.png)
+![cfrp-fig-4.png]({{site.baseurl}}/assets/cfrp-fig-4.png)
