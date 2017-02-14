@@ -2,7 +2,7 @@
 layout: post
 published: false
 category: updates
-title: ''
+title: 'Assignment 1: CFRP'
 author: 'Chaoran Wu, Pojiang Nie, Xinwen Liu, Peter Downs'
 tags: ''
 ---
@@ -20,7 +20,7 @@ Despite the rough structure described above, the ticket sales records are still 
 	- Date
 	- Names of the plays performed
     - Income
-    	- # tickets sold at each price point
+    	- number of tickets sold at each price point
         	- name/description of that price point (e.g., Ampitheatre)
             - price of that ticket
             - total income from this type of ticket
