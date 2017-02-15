@@ -9,8 +9,11 @@ tags: ''
 The CFRP dataset is seemingly well-structured (all ticket sales were recorded using a template), extensive (100s of years), and interesting (the breakdown of sales by seat type and the accounting system used should allow for many different questions to be answered.) We think that that professional/academic researchers and history lovers would be interested in digging in further. Below is a deatiled analysis of how we would prepare this dataset for visualization such that this audience would be able to better understand this data.
 
 ## Slides
-TODO: insert slides here
+[Click here to view as a presentation.](https://docs.google.com/presentation/d/1u2hjK1wt-kcXBNjmROUk_t88vgsQpdj3mtKJ34L2J14/pub?start=false&loop=false&delayms=3000)
 
+![CFRP 3 Slides 1.jpg]({{site.baseurl}}/assets/CFRP 3 Slides 1.jpg)
+![CFRP 3 Slides 2.jpg]({{site.baseurl}}/assets/CFRP 3 Slides 2.jpg)
+![CFRP 3 Slides 3.jpg]({{site.baseurl}}/assets/CFRP 3 Slides 3.jpg)
 
 ## Data acquisition and storage
 Despite the rough structure described above, the ticket sales records are still difficult to convert to a meaningful digital form. We would scan each page with a high-resolution camera, and store them as digital images, and extract the following information from each page:
@@ -32,27 +35,26 @@ Despite the rough structure described above, the ticket sales records are still 
         - By category
         	- By subcategory (if available)
 
-
 We would also extract the following information from each book:
 
 - Name of the theater whose sales are recorded in the book
 - Any known GIS data about that theater
 - The font or typeface of the template
 
-#### Acquisition
+### Acquisition
 How to do this? Despite being templated, each book has a different template, so we've designed the schema to reflect the superset of all the data made available in the books. But because of the data format in each page (handwriting, in cursive, from multiple different authors, as well as punctuation, numerals, and written numbers) it is unlikely that existing Optical Character Recognition programs will be able to extract usable data. There is some structure, so it's feasible to use that to write a little form that can be filled in for each page in each book. But how to get someone to fill in this data?
 
 One option is to build out a system similar to CAPTCHA and get website owners to install it. We can make humans transcribe our data as part of verifying that they are real people to other sites on the internet. But this would be difficult because it's hard to build out that kind of system, and orthogonal to the research goals.
 
 A more feasible option is to use a service like Crowdflower or Mechanical Turk and pay people a small amount of money to transcribe the data. Or, we could hire undergraduate researchers, and even better, pay them in credit hours!
 
-#### Storage
+### Storage
 We would store the data in a relational database like Postgres or Sqlite because they're reliable and it's easy to implement a reliable schema in them. Additionally, it would be easy to convert this representation into other representations if the need were to arise. The image files themselves would be stored in a large directory tree, with files named according to `{bookNumber}/{bookNumber}-{pageNumber}.jpg`. The reason to create a separate folder for each book is that computers can have trouble listing large numbers of files. The reason to still include the `bookNumber` in each file name is to ensure that each name is unique, making it easier to reference a specific file.
 
 ## Target audience
 We envision academic and professional researchers as our primary interested audience, although we think that maybe history lovers could also be interested. We think it's unlikely that the general public will have a particular interest in this data set. Here are two example profiles:
 
-##### Social Custom Researcher
+### Social Custom Researcher
 Holli is 34 years old and works as a researcher studying social customs in France. 
  
 Key Characteristics:
@@ -63,7 +65,7 @@ Goals:
 - Getting the information faster and more conveniently than having to read through the pages herself
 - Getting help in terms of data processing and data visualization
 
-##### History Lover
+### History Lover
 Stan is a 22 year undergraduate student who loves history.
  
 Key Characteristics:
