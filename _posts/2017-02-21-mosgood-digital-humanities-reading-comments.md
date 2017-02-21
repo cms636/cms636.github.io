@@ -1,8 +1,11 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: MOsgood Digital_Humanities Reading Comments
+author: Miles Osgood
+tags:
+  - Digital_Humanities
 ---
 #digital_humanities
 
