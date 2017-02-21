@@ -1,11 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: MOsgood Digital_Humanities Reading Comments
-author: ''
-tags: ''
 ---
+#digital_humanities
+
 Augmented Editions and Fluid Textuality
 
 As I mentioned in discussion last week, one of the concepts in the Digital_Humanities reading from p. 29-42 already somewhat familiar to me from other literary research methods is the idea of the fluid text, which resembles some of the theory behind "genetic criticism," an approach to manuscripts and other "avant textes" ("before-texts") developed in [France](http://www.item.ens.fr/). One of the central tenets of genetic criticism is that the study of genesis, evolution, and revision through primary documents should not treat published works as the culmination of a teleological process that contains the meaning of all previous versions, but rather another instance in a series of independently meaningful versions. On p. 35-6, the authors of Digital_Humanities make a strong case for the usefulness of DH techniques and platforms for genetic projects that track versioning, and they also theorize an equivalent genetic practice for scholarship, in which evolving digital research-results would retain version-history: "what appears at first to be a single page of a text or object extends through a multiplicity of embedded layers, each displaying a different facet of an argument or history of a work’s production" (36). But whereas genetic criticism almost invariably takes an interest in the work of a central author, DH fluid textuality allows for the arrival or disappearance of many authors.
