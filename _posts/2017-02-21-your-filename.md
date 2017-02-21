@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: people
-title: ''
+title: Miles Bio
 author: Miles Osgood
 ---
 ## Miles Osgood
