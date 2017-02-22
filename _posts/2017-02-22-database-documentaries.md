@@ -6,7 +6,6 @@ title: Database Documentaries
 author: Kurt Fendt
 tags: ''
 ---
-Database Documentaries
 
 Here are a few examples of database documentaries (in reference to the same topic in section 2 of Digital_Humanities, pp. 54-55):
 
