@@ -1,8 +1,10 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: ext-projects
 title: Database Documentaries
+author: Kurt Fendt
+tags: ''
 ---
 Database Documentaries
 
