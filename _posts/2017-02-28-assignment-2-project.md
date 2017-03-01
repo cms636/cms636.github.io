@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: updates
-title: 'Kelsey Banos_Assignment 2 Project '
+title: 'Assignment 2 Project '
 author: 'Kelsey Banos '
 ---
 
