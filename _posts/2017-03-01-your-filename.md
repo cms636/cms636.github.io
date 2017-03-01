@@ -2,7 +2,7 @@
 layout: post
 published: false
 category: ext-projects
-title: ''
+title: Chamberlin Mini-Project
 author: Thatcher Chamberlin
 ---
 (not sure if this is the right place to put this, but here it is)
