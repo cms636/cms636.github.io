@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: updates
-title: 'Assignment 2 Project '
+title: 'Kelsey Banos_Assignment 2 Project '
 author: 'Kelsey Banos '
 ---
 
@@ -19,4 +19,4 @@ The next visualization tool used was Breve. Breve is a great tool as it allows o
 
 ![Screen Shot 2017-02-22 at 8.59.23 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-02-22 at 8.59.23 PM.png)
 
-As you can see in the image, most of the information within this data set is fairly consistent and fully given. However, there are also missing information such as first and last names which were not recorded. I don't really know why that is to be honest nor do I have any suggestions for it. However, it does raise certain questions like How come only some of the names were recorded? Did it have something to do with how famous they were in the theatre? Maybe those with names were "regulars" at the theatre and performed many shows. Although Breve does not give much a creative visual representation of the data, I think it's a great tool to just simply plug data sets into and analyze the results to see what questions can be answered or what questions arise. With Raw Graphs, I went in knowing what it is I wanted to see from the data set but with Breve, I did not have a specific question in mind or I was not looking for anything specific. I simply just put in the data and looked at the results to find patterns or discrepencies. 
+As you can see in the image, most of the information within this data set is fairly consistent and fully given. However, there are also missing information such as first and last names which were not recorded. I don't really know why that is to be honest nor do I have any suggestions for it. However, it does raise certain questions like How come only some of the names were recorded? Did it have something to do with how famous they were in the theatre? Maybe those with names were "regulars" at the theatre and performed many shows. Although Breve does not give much a creative visual representation of the data, I think it's a great tool to just simply plug data sets into and analyze the results to see what questions can be answered or what questions arise. With Raw Graphs, I went in knowing what it is I wanted to see from the data set but with Breve, I did not have a specific question in mind or I was not looking for anything specific. I simply just put in the data and looked at the results to find patterns or discrepencies.
