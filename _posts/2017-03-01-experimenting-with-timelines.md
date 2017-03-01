@@ -1,0 +1,8 @@
+---
+layout: post
+published: false
+category: updates
+title: Experimenting with Timelines
+author: Peter Downs
+---
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1bY7Li_o-F941cOMFdAhjtUSKLXghncUtVApPLqbwT5E&font=Default&lang=en&timenav_position=top&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
