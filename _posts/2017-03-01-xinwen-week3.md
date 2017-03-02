@@ -5,6 +5,10 @@ category: updates
 title: Xinwen-Week3
 author: xinwen
 ---
+I started with basic timeline as the link below shown. And I found too much information is involved. When the information flooded, it is very hard to get anything. 
+https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1jdQdzzFF4t8GHf9iyN6PLlbUMqn_zpaSudmlmba0SjA&font=Default&lang=en&initial_zoom=2&height=650
+
+Then my focus lied into the bottom sector of this graph. The density of event really draw my attention. I started to thinking about what could possibly be the reason of the difference in density. 
 
 ![2.24.png]({{site.baseurl}}/assets/2.24.png)
 
