@@ -13,7 +13,8 @@ Then my focus lied into the bottom sector of this graph. The density of event re
 
 ![2.24.png]({{site.baseurl}}/assets/2.24.png)
 
-comments on the timeline tool
+
+Comments on the timeline tool
 
 The user interface of this java tool is simple and clean. The time line mapping is clear as well.  However, there are still few things that I would change if I’m responsible to redesign it. 
 
