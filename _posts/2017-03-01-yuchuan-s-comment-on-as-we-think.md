@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Yuchuan's comment on AS WE THINK
-author: ''
-tags: ''
+author: Yuchuan
 ---
 >Visualization is a way to bridge communication. It is great progress in humanity that cultural analysis may be visualized commonly.
 
