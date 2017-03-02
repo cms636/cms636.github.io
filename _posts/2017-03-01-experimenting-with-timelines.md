@@ -16,4 +16,6 @@ And that's it. Done! Very few other options are given. Prose won't allow me to e
 
 The biggest shortcoming I encountered is the lack of control over the display. If you look at the result, the events are crammed together and nearly unreadable. No events are given more visual weight than any other, so it's hard as an observer to understand what's worth reading and what isn't.
 
-Moreover, this is a complicated timeline involving many different entities. It would be nice to be able to filter hte timeline by events involving specific characters in the action (George Bush, Ahmedinejad, etc.), as well as specific places or types of event (meeting, declaration, etc.) 
+Moreover, this is a complicated timeline involving many different entities. It would be nice to be able to filter hte timeline by events involving specific characters in the action (George Bush, Ahmedinejad, etc.), as well as specific places or types of event (meeting, declaration, etc.)
+
+It would also be useful to be able to group events into specific sub-narratives, and have the main timeline show these narratives at first instead of every little sub-event. Then, as the user explores deeper, can dig in and expand these narratives to get at the particular events.
