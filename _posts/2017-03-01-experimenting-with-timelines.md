@@ -4,7 +4,6 @@ published: false
 category: updates
 title: Experimenting with Timelines
 author: Peter Downs
-tags: ''
 ---
 For this project, I wanted to try out the the Knight Lab's [TimelineJS](https://timeline.knightlab.com/) tool for building interactive timelines. I'm normally more attracted to programming-heavy tools, but the point of htis class is partly to explore building tools for non-programmers: perfect.
 
