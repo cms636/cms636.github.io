@@ -22,4 +22,4 @@ It would also be useful to be able to group events into specific sub-narratives,
 
 Most importantly, I think the timeline should work vertically, rather than horizontally. The web is designed for documents that scroll vertically, and then the browser itself can be used to scroll around. Plus, this would easier allow for parallel timelines to be displayed.
 
-Thinking back to Drucker's work, it might be nice to have multiple timelines overlayed; different commentary for the same events, from different perspectives. 
+Thinking back to Drucker's work, it might be nice to have multiple timelines overlayed; different commentary for the same events, from different perspectives. It would emphasize the humanity behind these events, and the fact that the descriptions are not just "facts" but interpretations.
