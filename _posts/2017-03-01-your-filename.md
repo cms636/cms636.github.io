@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-category: ext-projects
+published: true
+category: updates
 title: Chamberlin Mini-Project
 author: Thatcher Chamberlin
 ---
