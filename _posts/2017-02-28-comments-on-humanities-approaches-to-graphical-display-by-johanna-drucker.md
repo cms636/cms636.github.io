@@ -2,7 +2,7 @@
 layout: post
 published: false
 category: commentary
-title: Comments on “Humanities Approaches to Graphical Display” by Johanna Drucker
+title: Untitled
 author: Thatcher Chamberlin
 ---
 Johanna Drucker's essay presents an interesting view of information visualization as it applies to the humanities. Rather than use the rigid charts, graphs, and coordinatized maps of statistics and natural science, she advocates the use of more fluid and warped methods to show the more subjective information found in humanities that necessarily involves interpretation and the viewer's own point of view. 
