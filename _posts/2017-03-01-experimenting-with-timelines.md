@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Experimenting with Timelines
 author: Peter Downs
