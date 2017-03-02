@@ -19,3 +19,5 @@ The biggest shortcoming I encountered is the lack of control over the display. I
 Moreover, this is a complicated timeline involving many different entities. It would be nice to be able to filter hte timeline by events involving specific characters in the action (George Bush, Ahmedinejad, etc.), as well as specific places or types of event (meeting, declaration, etc.)
 
 It would also be useful to be able to group events into specific sub-narratives, and have the main timeline show these narratives at first instead of every little sub-event. Then, as the user explores deeper, can dig in and expand these narratives to get at the particular events.
+
+Most importantly, I think the timeline should work vertically, rather than horizontally. The web is designed for documents that scroll vertically, and then the browser itself can be used to scroll around.
