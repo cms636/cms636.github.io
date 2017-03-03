@@ -8,9 +8,11 @@ author: Miles Osgood
 ## Miles's previous assignments, uploaded without embedded images
 
 http://i.imgur.com/1KY8pRz.png
+
 http://i.imgur.com/xXy3mnP.png
 
 http://imgur.com/a/SCIqm
+
 http://imgur.com/a/5QJw2
 
 _Time Mapper_
