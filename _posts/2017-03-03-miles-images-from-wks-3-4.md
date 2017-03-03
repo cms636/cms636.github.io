@@ -5,7 +5,7 @@ category: updates
 title: Miles Images from Wks 3-4
 author: Miles Osgood
 ---
-## Miles's previous assignments, uploaded in plain text
+## Miles's previous assignments, uploaded without embedded images
 
 http://i.imgur.com/1KY8pRz.png
 http://i.imgur.com/xXy3mnP.png
