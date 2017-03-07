@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
-title: peter-bodenhamer-commentary
+title: 'Augé and Bodenhamer: Futures and Spaces'
 author: Peter Downs
 ---
 Bodenhamer neatly summarizes the shortcomings, advantages, and history of the use of Geographic Information Systems (GIS) in humanities work. In doing so, he touches on the work of Foucault, Certau, and Said, and the interaction between physical space and cultural space. These same ideas are eloquently analyzed by Marc Augé in his works [*Non-places*](http://gen.lib.rus.ec/book/index.php?md5=76F9B4858AD297C7A3C63701BD6F7BBF) and [*The Future*](http://gen.lib.rus.ec/book/index.php?md5=2AE6E36AF518DFDE0B2F0C2C2BB37787).
