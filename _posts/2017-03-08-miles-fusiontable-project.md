@@ -4,7 +4,8 @@ published: true
 category: updates
 title: Miles' FusionTable project
 author: Miles
+tags: ''
 ---
-![alt](http://imgur.com/a/IHFFn)
+![](http://i.imgur.com/XsObtfW.png)
 
-More at https://fusiontables.google.com/data?docid=1budQ75uz-nST46nnyqcLrCuUPrEn71FJ7vThABwm#map:id=3
+More [here](https://fusiontables.google.com/data?docid=1budQ75uz-nST46nnyqcLrCuUPrEn71FJ7vThABwm#map:id=3)
