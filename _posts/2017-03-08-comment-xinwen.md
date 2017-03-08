@@ -4,8 +4,6 @@ published: true
 category: commentary
 title: Comment Xinwen
 author: Xinwen
-tags:
-  - Participatory Culture
 ---
 ### Reading 1 comments: Form follows function
 
