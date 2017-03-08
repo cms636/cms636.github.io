@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Thatcher's Commentary on "Time in Print"
 author: Thatcher
