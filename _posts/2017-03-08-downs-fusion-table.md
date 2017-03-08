@@ -13,4 +13,4 @@ You can download [the raw HTML of this page](http://peterdowns.com/projects/cms6
 
 Fusion Table was pretty good for a web-based spreadsheet viewer in that it handled many rows without crashing. With the guidelines I was able to complete all of the required tasks but without them I would have been lost entirely.
 
-Having worked with Google Maps in the past for custom data visualization, it's pretty much the default game in town – the other major competitor being Mapbox, which doesn't provide as many features. So it's sort of like an abusive relationship in that I don't like it very much but I'll definitely be coming back next time I need to map something out.
+Having worked with Google Maps in the past for custom data visualization, it's pretty much the default game in town – the other major competitor being Mapbox, which doesn't provide as many features. So although it's not as good as an experience as I'd like, it's the one to which I'll return in the future.
