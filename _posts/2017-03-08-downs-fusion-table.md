@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Playing with Fusion Table
 author: Peter Downs
-tags: ''
 ---
 My work isn't embeddable or linkable, because Google Maps ~~is trash and~~ won't let you use it on a real website without an API key. But it looks really pretty!
 
