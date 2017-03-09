@@ -3,6 +3,7 @@ layout: post
 published: true
 category: updates
 title: Potential of Spatial Humanities Commentary
+author: Thatcher
 ---
 This essay seems to be somewhat misguided. Most of the essay is spent lamenting the fact that modern GIS software cannot adequately capture the intricacies of the information of value to humanists and that its Western, Euclidean reliance upon the gridded map is at odds with less geometric ideas of space, like those of Native Americans. This is not surprising. GIS is a tool developed, as the paper states, for climate, hydrology, and topology - all fields which are chiefly concerned with numbers.
 
