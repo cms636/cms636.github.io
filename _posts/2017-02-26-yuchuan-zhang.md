@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: people
 title: Yuchuan Zhang
 author: Yuchuan Zhang
 ---
