@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: Potential of Spatial Humanities Commentary
 author: Thatcher
 ---
