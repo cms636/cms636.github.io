@@ -5,7 +5,6 @@ category: updates
 title: Miles+Thatcher+Yuchuan+Xinwen
 author: Miles+Thatcher+Yuchuan+Xinwen
 ---
-
 ## Mapping Melville
 
 We started by converting the csv data into material suited for TimeMapper in Google Sheets. As we knew from the US-Iran assignment, TimeMapper has some basic limitations (e.g. inability to differentiate different kinds of events), but for this assignment it posed different problems. TimeMapper zooms out pretty wide in space and time by default, so it doesn't suit urban mapping too well; all points are marked in uniform fashion, so it's impossible to differentiate different walking routes at a glance; and events happening on the same day cannot be distinguished according to a more precise chronological sequence, so events end up stacked on top of one another in the timeline.
