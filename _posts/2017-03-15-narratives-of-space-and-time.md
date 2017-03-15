@@ -5,7 +5,7 @@ category: commentary
 title: 'Narratives of Space and Time '
 author: 'Kelsey Banos '
 ---
-## A New Post
+
 
 I thought the Narratives of Space and Time was an interesting read. I especially liked how it included a lot of chart as references of the variety of ways space and time can be portrayed. 
 
@@ -25,4 +25,4 @@ In this chapter, the author is trying to show how others in history have gone fr
  
  ![Screen Shot 2017-03-15 at 12.26.00 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-03-15 at 12.26.00 PM.png)
 
-There are so many ideas and designs which you can do and I think what the author is also trying to get at here by putting all of these different examples is that it also matters what it is you're trying to portray. 
+There are so many ideas and designs which you can do and I think what the author is also trying to get at here by putting all of these different examples is that it also matters what it is you're trying to portray.
