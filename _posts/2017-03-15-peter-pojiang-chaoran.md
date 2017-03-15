@@ -31,7 +31,7 @@ After exploring the two datasets (of Ibn Jubayr's travels in the Middle East, an
 ![possible visualization]({{site.baseurl}}/assets/3-15.jpg)
 ![chaoran-images-001.jpg]({{site.baseurl}}/assets/chaoran-images-001.jpg)
 
-* The relationship between the present major raod, waterway, and travel spots, to their location in antiquity. Maybe limited to those near current major roads.
+* The relationship between the present major road, waterway, and travel spots, to their location in antiquity. Maybe limited to those near current major roads.
 * The relationship between thhe present-day village locations and the travel spot. Maybe Ibn Jubayr stayed nearby the town, or in a particular neighborhood in the town. Although we're not sure the coordinate data is that precise, and may just code to the center of each town.
 
 ![chaoran-images-002.jpg]({{site.baseurl}}/assets/chaoran-images-002.jpg)
