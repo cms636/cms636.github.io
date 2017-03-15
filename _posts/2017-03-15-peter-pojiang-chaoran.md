@@ -1,10 +1,18 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: 'Assignment 5: Visualizing Time, Space, and Narrative'
 author: 'Peter Downs, Wu Chaoran, Nie Pojiang'
+tags: ''
 ---
+## Proposal
+Based on the mockups, data, and our own interests, we propose to visualize Melville's travels in London. We'd like to show his routes through the city in a way that allows the viewer to understand where Melville travelled: which neighborhoods, which roads, which landmarks. The viewer should be able to pick out which days they'd like displayed on the map at once.
+
+As a potential augmentation of this idea, although subject to time and technical constraints, we'd like to also dynamically show a histogram of how frequently each location was visited. This would be updated based on the days selected.
+
+## Process
+
 After exploring the two datasets (of Ibn Jubayr's travels in the Middle East, and Melville's travels in London) we brainstormed a few different ideas. Based on the nature of the data, we're certain we want to incorporate a map as the main visualization element. The way the map functions will be different for different goals.
 
 ### Some raw ideas based on the data:
@@ -39,7 +47,3 @@ After exploring the two datasets (of Ibn Jubayr's travels in the Middle East, an
 * For filtering and search of points, we will use custom javascript.
 	* Potentially, we will use one of the timeline tools we've discussed in class to allow a user to select ranges of dates or events, if necessary.
 
-### Proposal
-Based on the mockups, data, and our own interests, we propose to visualize Melville's travels in London. We'd like to show his routes through the city in a way that allows the viewer to understand where Melville travelled: which neighborhoods, which roads, which landmarks. The viewer should be able to pick out which days they'd like displayed on the map at once.
-
-As a potential augmentation of this idea, although subject to time and technical constraints, we'd like to also dynamically show a histogram of how frequently each location was visited. This would be updated based on the days selected.
