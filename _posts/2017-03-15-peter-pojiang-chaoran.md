@@ -2,11 +2,9 @@
 layout: post
 published: false
 category: updates
-title: peter-pojiang-chaoran
+title: 'Assignment 5: Visualizing Time, Space, and Narrative'
 author: 'Peter Downs, Wu Chaoran, Nie Pojiang'
 ---
-## Assignment 5: Visualizing Time, Space, and Narrative
-
 After exploring the two datasets (of Ibn Jubayr's travels in the Middle East, and Melville's travels in London) we brainstormed a few different ideas. Based on the nature of the data, we're certain we want to incorporate a map as the main visualization element. The way the map functions will be different for different goals.
 
 ### Some raw ideas based on the data:
@@ -39,4 +37,6 @@ After exploring the two datasets (of Ibn Jubayr's travels in the Middle East, an
 * For maps, we will use some combination of [Google Maps](https://developers.google.com/maps/documentation/directions/), [Mapzen](https://mapzen.com/products/turn-by-turn/), and/or [Leaflet](http://leafletjs.com/reference-1.0.3.html#polyline) for displaying points and routes. Both Mapzen and Google Maps have APIs for calculating routes between places using modern-day roads.
 * For filtering and search of points, we will use custom javascript.
 	* Potentially, we will use one of the timeline tools we've discussed in class to allow a user to select ranges of dates or events, if necessary.
-    
+
+### Proposal
+TODO
