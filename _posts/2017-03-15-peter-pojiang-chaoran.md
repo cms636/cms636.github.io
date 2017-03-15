@@ -1,10 +1,9 @@
 ---
 layout: post
-published: true
+published: false
 category: updates
 title: 'Assignment 5: Visualizing Time, Space, and Narrative'
 author: 'Peter Downs, Wu Chaoran, Nie Pojiang'
-tags: ''
 ---
 ## Proposal
 Based on the mockups, data, and our own interests, we propose to visualize Melville's travels in London. We'd like to show his routes through the city in a way that allows the viewer to understand where Melville travelled: which neighborhoods, which roads, which landmarks. The viewer should be able to pick out which days they'd like displayed on the map at once.
@@ -27,8 +26,9 @@ After exploring the two datasets (of Ibn Jubayr's travels in the Middle East, an
     - Explore which days were similar in terms of destinations and order thereof, to try to see if Melville kept to any sort of routine or routines.
 
 
-### Some ideas with mockups:
 
+### Some ideas with mockups:
+![possible visualization]({{site.baseurl}}/assets/3-15.jpg)
 ![chaoran-images-001.jpg]({{site.baseurl}}/assets/chaoran-images-001.jpg)
 
 * The relationship between the present major raod, waterway, and travel spots, to their location in antiquity. Maybe limited to those near current major roads.
@@ -46,4 +46,3 @@ After exploring the two datasets (of Ibn Jubayr's travels in the Middle East, an
 * For maps, we will use some combination of [Google Maps](https://developers.google.com/maps/documentation/directions/), [Mapzen](https://mapzen.com/products/turn-by-turn/), and/or [Leaflet](http://leafletjs.com/reference-1.0.3.html#polyline) for displaying points and routes. Both Mapzen and Google Maps have APIs for calculating routes between places using modern-day roads.
 * For filtering and search of points, we will use custom javascript.
 	* Potentially, we will use one of the timeline tools we've discussed in class to allow a user to select ranges of dates or events, if necessary.
-
