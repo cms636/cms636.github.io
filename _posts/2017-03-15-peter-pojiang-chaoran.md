@@ -43,6 +43,3 @@ After exploring the two datasets (of Ibn Jubayr's travels in the Middle East, an
 Based on the mockups, data, and our own interests, we propose to visualize Melville's travels in London. We'd like to show his routes through the city in a way that allows the viewer to understand where Melville travelled: which neighborhoods, which roads, which landmarks. The viewer should be able to pick out which days they'd like displayed on the map at once.
 
 As a potential augmentation of this idea, although subject to time and technical constraints, we'd like to also dynamically show a histogram of how frequently each location was visited. This would be updated based on the days selected.
-
-
-How do you feel about us working on a way to visualize his routes for a given period of time -- day, week, month, etc -- where the user can pick the period? I'm pretty sure I can do the programming part and draw nice route lines dynamically based on what days are selected. But there would have to be some work done to figure out how to present the days and let the user pick them. Does that sound interesting enough for you and Pojiang to work on? We can work together to figure out the design and programming (you guys handling more of the design, me handling the programming.)
