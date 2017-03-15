@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: 'Assignment 5: Visualizing Time, Space, and Narrative'
 author: 'Peter Downs, Wu Chaoran, Nie Pojiang'
