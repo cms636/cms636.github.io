@@ -16,6 +16,7 @@ After exploring the two datasets (of Ibn Jubayr's travels in the Middle East, an
 	- Use a heatmap to show which places, roads might have been visited most frequently
 	- Create a "cast" of the people Melville met with, and show where they interacted, filterable by character
 	- Visualize how far Melville traveled each day based on modern-day walking routes between these places
+    - Explore which days were similar in terms of destinations and order thereof, to try to see if Melville kept to any sort of routine or routines.
 
 
 ### Some ideas with mockups:
@@ -39,4 +40,9 @@ After exploring the two datasets (of Ibn Jubayr's travels in the Middle East, an
 	* Potentially, we will use one of the timeline tools we've discussed in class to allow a user to select ranges of dates or events, if necessary.
 
 ### Proposal
-TODO
+Based on the mockups, data, and our own interests, we propose to visualize Melville's travels in London. We'd like to show his routes through the city in a way that allows the viewer to understand where Melville travelled: which neighborhoods, which roads, which landmarks. The viewer should be able to pick out which days they'd like displayed on the map at once.
+
+As a potential augmentation of this idea, although subject to time and technical constraints, we'd like to also dynamically show a histogram of how frequently each location was visited. This would be updated based on the days selected.
+
+
+How do you feel about us working on a way to visualize his routes for a given period of time -- day, week, month, etc -- where the user can pick the period? I'm pretty sure I can do the programming part and draw nice route lines dynamically based on what days are selected. But there would have to be some work done to figure out how to present the days and let the user pick them. Does that sound interesting enough for you and Pojiang to work on? We can work together to figure out the design and programming (you guys handling more of the design, me handling the programming.)
