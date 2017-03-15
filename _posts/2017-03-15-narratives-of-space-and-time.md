@@ -6,7 +6,6 @@ title: 'Narratives of Space and Time '
 author: 'Kelsey Banos '
 ---
 
-
 I thought the Narratives of Space and Time was an interesting read. I especially liked how it included a lot of chart as references of the variety of ways space and time can be portrayed. 
 
 In this chapter, the author is trying to show how others in history have gone from "four-variable narrations of space and time onto flatland" (pg. 97). In order to do so two familiar designs are combined which are map and time-series. In order to introduce the topic, the author starts out with the Galileo's "Starry Messenger" record observations of Jupiter's moons then from there builds its way up into more complex designs like the road plans from London to Dover:
