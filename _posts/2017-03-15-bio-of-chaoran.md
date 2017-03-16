@@ -2,11 +2,25 @@
 layout: post
 published: true
 category: people
-title: Bio of Chaoran
+title: ' Chaoran'
 author: Chaoran
 ---
-## A New Post
 ![24640425.jpg]({{site.baseurl}}/assets/24640425.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
