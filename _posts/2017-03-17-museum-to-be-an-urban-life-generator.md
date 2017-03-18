@@ -14,8 +14,7 @@ The route of the exhibitions could be more free like wandering in city. MFA once
 
 The other thing is that today’s museums all have gathering space like the Harvard Art Museum. It is truly a good social space for idea exchange and meeting people just like the city square. Also, 3D auditorium is another choice based on the fact that virtual reality is hard to overall realized. 
 
-The space itself could be a part of the exhibition is the trend that we are pursuing. The Tate museum once displayed the weather project of Olafur Eliasson. The participants, like actors, are moving and talking, just like daily life in London, talking about the weather once meeting someone. He is exploring ideas of  experience, mediation and representation.
-![]({{site.baseurl}}/http://images.tate.org.uk/sites/default/files/images/olafur%20eliasson%20the%20weather%20project_04.jpg)
-[http://images.tate.org.uk/sites/default/files/images/olafur%20eliasson%20the%20weather%20project_04.jpg](http://images.tate.org.uk/sites/default/files/images/olafur%20eliasson%20the%20weather%20project_04.jpg)
+The space itself could be a part of the exhibition is the trend that we are pursuing.The Tate museum once displayed the weather project of Olafur Eliasson. The participants, like actors, are moving and talking, just like daily life in London, talking about the weather once meeting someone. He is exploring ideas of  experience, mediation and representation.
+![]({{site.baseurl}}/assets/409315305_e652c9e495_z.jpg)
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
