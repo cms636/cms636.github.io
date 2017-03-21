@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Curation is Necessarily Discursive
 author: Peter Downs
@@ -16,4 +16,3 @@ As Kreps sums up, "curating is situated in particular cultural contexts and is t
 I do understand and appreciate the recommendation that museums allow visitors to make use of the exhibits ffor purposes of their own. This speaks towards less rigid storytelling, and more a process of assembling the bricks of narrative from which visitors can build their own houses. And the curatoriatorial field's increased focus on awareness of audience, tone, and culture is certainly laudable. But I fail to believe in the world where curators did not recognize the power of their roles. Both of these analyses seem to be responses to a mythical world where curators, well, curated, without thinking at all of the message being sent to the audience.
 
 I don't like to go to museums much, so I'm not the right person to comment on the changed role of the curator based on personal experience. But I can't imagine feeling restricted by a particular narrative given the companionship of my smartphone.
-
