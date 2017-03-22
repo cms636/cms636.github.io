@@ -12,7 +12,6 @@ This reminds me of different perspective in the historical conservation of the h
 
 So how to preserve hte objects through the time should be an culturally issue. Should the pieces be shown as an objects which have faded its color over time or should they be repaired similar to what it is in the historical moment?
 
-> We loved with a love that was more than love
 
 #	The	Museum as Discursive Space #
 
