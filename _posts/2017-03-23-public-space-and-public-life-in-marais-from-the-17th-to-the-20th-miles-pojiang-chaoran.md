@@ -10,7 +10,7 @@ Le Marais is a historic district in Paris, France. From mid-13th century to the 
 
 1 We create the collections in a chronological way and put the photos which reflect the history, function, form and activities in that period in each one.we are not only presenting the form of public space but also citizens' activities and behaviors took place inside it. These collections can give visitors the knowledge of how the urban space and the related urban activities transformed over time. 
 
-For instance, from these photos, we can see the Place des Vosges in 17th century is a A true square which embodied the first European program of royal city planning. In 18th century, the green lands were designed and it was often the place for the nobility to meet and chat. After the French Revolution, the Place des Vosges became a place more civilian.
+For instance, from these photos, we can see the Place des Vosges in 17th century is a true square which embodied the first European program of royal city planning. In 18th century, the green lands were designed and it was often the place for the nobility to meet and chat. After the French Revolution, the Place des Vosges became a place more civilian.
 
 
 ![001.png]({{site.baseurl}}/assets/001.png)
