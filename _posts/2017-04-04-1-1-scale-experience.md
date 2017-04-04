@@ -5,6 +5,7 @@ category: commentary
 title: '1 : 1 scale experience'
 tags:
   - Augmented Space
+author: Yuchuan
 ---
 **Reading: The poetics of augmented space**
 
