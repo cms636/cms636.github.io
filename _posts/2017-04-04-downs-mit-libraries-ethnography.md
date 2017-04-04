@@ -2,7 +2,7 @@
 layout: post
 published: false
 category: updates
-title: downs-mit-libraries-ethnography
+title: An Ethnography of the MIT Libraries
 author: Peter Downs
 ---
 ## An Ethnography of the MIT Libraries
