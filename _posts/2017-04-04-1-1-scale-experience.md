@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: '1 : 1 scale experience'
+title: '1 : 1 scale experience-Yuchuan'
 tags:
   - Augmented Space
 author: Yuchuan
