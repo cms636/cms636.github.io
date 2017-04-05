@@ -1,9 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: 'Whistle: A Modular Textual Analysis Tool'
-author: ''
+author: Peter Downs
 tags: ''
 ---
 ### Problem Statement
