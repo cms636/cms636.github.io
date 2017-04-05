@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: An Ethnography of the MIT Libraries
 author: Peter Downs
-tags: ''
 ---
 ## An Ethnography of the MIT Libraries
 
@@ -47,15 +46,17 @@ Lewis has a entrances to a courtyard and hallway inside an MIT Building. The ext
 
 ![2017-04-04 16.49.45 large.jpg]({{site.baseurl}}/assets/2017-04-04 16.49.45 large.jpg)
 
-Hayden has an entrance from the same MIT building that holds Lewis, as well as a publically accessible entrance from the river drive. But this is not an easy entrance to use for members of the public in general, as there is little parking to be found, and it is not a common area. In addition, although the library name is visible, it's hard to read and it's not clear that the building is open to the public. 
+Hayden has an entrance from the same MIT building that holds Lewis, as well as a publically accessible entrance from the river drive. But this is not an easy entrance to use for members of the public in general, as there is little parking to be found, and it is not a common area. In addition, although the library name is visible, it's hard to read and so it's not clear that it's open.
 
-![2017-04-04 17.00.28 large.jpg]({{site.baseurl}}/assets/2017-04-04 17.00.28 large.jpg)
+
+![2017-04-04 17.04.16 large.jpg]({{site.baseurl}}/assets/2017-04-04 17.04.16 large.jpg)
 
 ![2017-04-04 17.01.21 large.jpg]({{site.baseurl}}/assets/2017-04-04 17.01.21 large.jpg)
 
 Indeed, the main doors discourage "trespassing", although MIT does allow anyone to walk in to its buildings during the day.
 
-![2017-04-04 17.04.16 large.jpg]({{site.baseurl}}/assets/2017-04-04 17.04.16 large.jpg)
+![2017-04-04 17.00.28 large.jpg]({{site.baseurl}}/assets/2017-04-04 17.00.28 large.jpg)
+
 
 
 
