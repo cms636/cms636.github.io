@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Personal Lenses
 author: Peter Downs
