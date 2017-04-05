@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: updates
-title: peter-xinwen-marais-curation
+title: The Perils of Omeka
 author: 'Xinwen Liu, Peter Downs'
 ---
 ## The Perils of Omeka
