@@ -8,6 +8,8 @@ author: Pojiang Nie
 ### Problem
 
 Famous architects design buildings that are treasures to humans. But only a few of us can have a chance to fully get to know them. What is more, even the most famous noted architect just use text and images (even video is rare) to show their works online. The value and knowledge behind one famous architect like I. M. Pei is enormous. What if we could figure a way to better integrate architects career and works to offer a new perspective for the world to better understand the power of architecture?
+![Jietu20170405-205803.png]({{site.baseurl}}/assets/Jietu20170405-205803.png)
+
 
 ### Approach
 
