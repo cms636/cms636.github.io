@@ -10,7 +10,6 @@ The place I visited during this week is Harvard art museum. Most of the visitors
 ![Jietu20170405-170159.jpg]({{site.baseurl}}/assets/Jietu20170405-170159.jpg)
 ![102415_D0511-960x488.jpg]({{site.baseurl}}/assets/102415_D0511-960x488.jpg)
 ![event-rentals-courtyard-1240.jpg]({{site.baseurl}}/assets/event-rentals-courtyard-1240.jpg)
-
 ![111514_huam_ks_347_605_2.jpg]({{site.baseurl}}/assets/111514_huam_ks_347_605_2.jpg)
 
 
