@@ -14,6 +14,10 @@ Famous architects design buildings that are treasures to humans. But only a few 
 ### Approach
 
 This project tries to design an interactive online system that can clearly exhibit architect’s work or research and provide a platform where reader could freely choose different data categories to make comparative study. There will be 2 dimensions of the project: time and location. The previous studies including US-Iran Project and Melville Project, they all dealt with 4 elements: time, location, text and image. But for an architect’s career mapping, it is more challenging because 2 reasons: the first will be the difficulty of representing 3D projects in a way that is other than 2D pictures. The other one is within every project, there would be also a timeline showing how and when architect got involved in the design. 
+![11111.png]({{site.baseurl}}/assets/11111.png)
+![222.png]({{site.baseurl}}/assets/222.png)
+![333.png]({{site.baseurl}}/assets/333.png)
+
 
 ### Audience
 
