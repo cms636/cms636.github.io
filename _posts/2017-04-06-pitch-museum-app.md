@@ -20,4 +20,3 @@ title: Pitch-Museum-App
 ![14.JPG]({{site.baseurl}}/assets/14.JPG)
 
 
-
