@@ -5,8 +5,6 @@ category: updates
 title: olympic-map-preliminary-plan
 author: 'Miles, Kelsey, Yuchuan, Ice, Thatcher'
 ---
-## A New Post
-
 ## Olympic Map Team Preliminary Plan
 
 We've decided to combine aspects of the Olympic Art Competitions project, the Warpmap, and some curated images. Our plan is to create an interactive world map that represents the span of the Olympic contests, using metadata in spreadsheets that we already have and some new metadata that we'll need to input. For now, our concept is that we'll use the Warpmap to visualize the tiers of success for certain Olympic entries (gold, silver, bronze, honorable mention, nothing, "hors concours" [i.e. for display only, not in contest]). When a user selects a certain city or submission, she'd be able to see an image or a text passage from that submission. So, while we're not doing a gallery curation system like the other class group, we'll still make use of some of the visuals and literature that Miles has stored up.
@@ -17,4 +15,3 @@ We've decided to combine aspects of the Olympic Art Competitions project, the Wa
 
 **Intended audience**: Insofar as this prototype is Olympics-focused, we expect our audience to be twofold: first, academics interested in modern art and literature, who will recognize certain names and styles and stories while finding new, interesting inquiries on the twentieth century's globalized art world; second, a public that is generally interested in the Olympics and may not know that they used to have art contests, for whom this will be an introduction.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
