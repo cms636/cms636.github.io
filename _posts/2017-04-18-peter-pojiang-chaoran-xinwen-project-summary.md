@@ -2,7 +2,7 @@
 layout: post
 published: false
 category: updates
-title: peter-pojiang-chaoran-xinwen-project-summary
+title: CRTR-social-curation-tool
 author: 'Peter Downs, Pojian Ne, Chaoran Wu, Xinwen Liu'
 ---
 
