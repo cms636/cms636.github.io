@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: CRTR-social-curation-tool
 author: 'Peter Downs, Pojian Ne, Chaoran Wu, Xinwen Liu'
