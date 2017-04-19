@@ -11,4 +11,4 @@ CRTR is a curation tool with a strong focus on just that: curating. Existing too
 
 We have two target audiences. One is museums, specifically their public outreach department: CRTR is a tool for them to better understand the public. The second is the public: CRTR is a tool for them to better understand the power and beauty of the art in their museums.
 
-You may view our [full presentation here.](https://docs.google.com/presentation/d/1wWvpqP6dSeBvNMm7WaiMWmtBhbYzLvmRgVz0mUMSl9A/edit?usp=sharing)
+You may view [our full presentation here.](https://docs.google.com/presentation/d/1wWvpqP6dSeBvNMm7WaiMWmtBhbYzLvmRgVz0mUMSl9A/edit?usp=sharing)
