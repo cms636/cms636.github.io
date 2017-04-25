@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: Reading Commentary
+title: 'Reading Commentary: How We Read '
 author: 'Kelsey Banos '
 ---
 
