@@ -14,3 +14,5 @@ hyper reading: reader-directed, screen-based, computer-assisted reading
     "In digital environments, hyperreading has become a necessity. It enables a reader quickly to construct landscapes of associated research fields and subfields; it shows ranges of posibilities; it identifies texts and passages most relevant to a given query; and it easily juxtaposes many different texts and passages."
     
     "May involved with changes in brain architecture that makes close reading more difficult to achieve."
+    
+    Hyperlinks tend to degrade comprehension rather ahn enhance it -- but how is this defined?
