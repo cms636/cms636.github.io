@@ -3,6 +3,8 @@ layout: post
 published: false
 category: updates
 title: olympicmap-update-4-26
+author: 'Miles, Yuchuan, Ece, Thatcher, Kelsey'
+tags: ''
 ---
 ## Olympic ArtMap Project Update, 4/26/17
 
