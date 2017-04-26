@@ -16,3 +16,5 @@ hyper reading: reader-directed, screen-based, computer-assisted reading
     "May involved with changes in brain architecture that makes close reading more difficult to achieve."
     
     Hyperlinks tend to degrade comprehension rather ahn enhance it -- but how is this defined?
+    	writing a summary and completing a multiplee chocie test
+        Doesn't mean that readers aren't elarning, just that they aren't focusing on that particular passage
