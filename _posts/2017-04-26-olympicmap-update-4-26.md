@@ -30,3 +30,5 @@ _Possible landing page elements below_
 **Coding**
 
 - Kelsey used MySQL and PHP to import the three database files needed for the website
+
+- Thatcher: I made a simple version of the web page we talked about last week. Right now it displays a map and draws arrows based on art and artist data. I formatted a small amount of test data by hand because we haven't integrated the database yet, but my hand-entered data is close to the same structure as the entries in the database, so integration should be very approachable. 
