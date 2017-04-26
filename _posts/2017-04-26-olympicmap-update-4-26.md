@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: olympicmap-update-4-26
 author: 'Miles, Yuchuan, Ece, Thatcher, Kelsey'
@@ -21,7 +21,7 @@ _Possible landing page elements below_
 
 ![LandingPage-2.jpg]({{site.baseurl}}/assets/LandingPage-2.jpg)
 
-- Yuchuan has designed a prototype version of the filter categories and buttons for the main ArtMap app.(Yeah, for the landing page, I tried to combine text with images to provide attractions for people to read, just a very short intro for the art competition. And when they click the "to go" button, they will see the mapping page. We tried to use five colors, same as Olympic, since it is an odd number, I tried to layout them more in a free way, and the lines shows some links between each category and indicate there maybe some overlapped information.)
+- Yuchuan has designed a prototype version of the filter categories and buttons for the main ArtMap app. (Yuchuan: Yeah, for the landing page, I tried to combine text with images to provide attractions for people to read, just a very short intro for the art competition. And when they click the "to go" button, they will see the mapping page. We tried to use five colors, same as Olympic, since it is an odd number, I tried to layout them more in a free way, and the lines shows some links between each category and indicate there maybe some overlapped information.)
 
 - Thatcher created the frames for the site layout.
 
