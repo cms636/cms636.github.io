@@ -15,7 +15,7 @@ Hayles also acknowledges that skimming, filtering, searching, "pecking", fragmen
 
 Hayles also mischaracterizes machine reading as having the least context available -- "limited to a few words or eliminated altogether, as in a word-frequency list." But a computer doesn't read a word-frequency list, it creates it. A human reads it. During the reading process, the human-created algorithms that Hayles calls a computer have every single work it analyzes available as a context: much larger than a single work or a few hyperlinked works.
 
-Hayle and I arrived at the same conclusion, through different methods. When she suggests that "literary studies teaches literacies across a range of media forms, including print and digital, and focuses on interpretation and analysis of patterns, meaning, and context through close, hyper-, and machien reading practices" I'm right there with her. But when she suggests that engaging in hyper-reading negatively influences one's ability to engage in close reading, I cannot agree.
+Hayle and I arrived at the same conclusion, through different methods. When she suggests that "literary studies teaches literacies across a range of media forms, including print and digital, and focuses on interpretation and analysis of patterns, meaning, and context through close, hyper-, and machien reading practices" I'm right there with her. But when she suggests that engaging in hyper-reading negatively influences one's ability to engage in close reading, I cannot agree. We engage in these practices for different purposes, and it's misrepresentative to analyze them on the goals of each other. They're best used together, as a suite of tools, to give scholars the best available understanding of the work they aim to analyze.
 
 ---
 
