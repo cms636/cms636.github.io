@@ -23,6 +23,8 @@ _Possible landing page elements below_
 
 - Yuchuan has designed a prototype version of the filter categories and buttons for the main ArtMap app.
 
+- Thatcher created the frames for the site layout.
+
 ![ArtMap-Prototype-1.jpg]({{site.baseurl}}/assets/ArtMap-Prototype-1.jpg)
 
 **Coding**
