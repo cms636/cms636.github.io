@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: downs-voyant-antconc-review
 author: Peter Downs
