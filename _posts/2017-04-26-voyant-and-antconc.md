@@ -12,7 +12,6 @@ When I load the full text of "Pride and Prejudice", the interface of Voyant seem
 ![]({{site.baseurl}}/assets/Jietu20170425-225730%402x.jpg)
 
 It draws my attention that the frequency of the word "mr" and "mrs" drops down rapidly when it comes to end of the book. However, the use of lead's name "Elizabeth" and "Darcy" is not rising that much. Then I add more names into the charts. It seems like teh prefix is taken place by names when readers "get to know" charaters.
-![2.jpg]({{site.baseurl}}/assets/2.jpg)
 
 ![2.jpg]({{site.baseurl}}/assets/2.jpg)
 ![3.jpg]({{site.baseurl}}/assets/3.jpg)
