@@ -21,7 +21,7 @@ _Possible landing page elements below_
 
 ![LandingPage-2.jpg]({{site.baseurl}}/assets/LandingPage-2.jpg)
 
-- Yuchuan has designed a prototype version of the filter categories and buttons for the main ArtMap app.
+- Yuchuan has designed a prototype version of the filter categories and buttons for the main ArtMap app.(Yeah, for the landing page, I tried to combine text with images to provide attractions for people to read, just a very short intro for the art competition. And when they click the "to go" button, they will see the mapping page. We tried to use five colors, same as Olympic, since it is an odd number, I tried to layout them more in a free way, and the lines shows some links between each category and indicate there maybe some overlapped information.)
 
 - Thatcher created the frames for the site layout.
 
@@ -31,4 +31,4 @@ _Possible landing page elements below_
 
 - Kelsey used MySQL and PHP to import the three database files needed for the website
 
-- Thatcher: I made a simple version of the web page we talked about last week. Right now it displays a map and draws arrows based on art and artist data. I formatted a small amount of test data by hand because we haven't integrated the database yet, but my hand-entered data is close to the same structure as the entries in the database, so integration should be very approachable. 
+- Thatcher: I made a simple version of the web page we talked about last week. Right now it displays a map and draws arrows based on art and artist data. I formatted a small amount of test data by hand because we haven't integrated the database yet, but my hand-entered data is close to the same structure as the entries in the database, so integration should be very approachable.
