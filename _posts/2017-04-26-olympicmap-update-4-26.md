@@ -4,7 +4,6 @@ published: false
 category: updates
 title: olympicmap-update-4-26
 author: 'Miles, Yuchuan, Ece, Thatcher, Kelsey'
-tags: ''
 ---
 ## Olympic ArtMap Project Update, 4/26/17
 
@@ -28,4 +27,4 @@ _Possible landing page elements below_
 
 **Coding**
 
-[To be completed]
+- Kelsey used MySQL and PHP to import the three database files needed for the website
