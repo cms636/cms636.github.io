@@ -18,3 +18,4 @@ hyper reading: reader-directed, screen-based, computer-assisted reading
     Hyperlinks tend to degrade comprehension rather ahn enhance it -- but how is this defined?
     	writing a summary and completing a multiplee chocie test
         Doesn't mean that readers aren't elarning, just that they aren't focusing on that particular passage
+        hyperreading useful to determine what to read closely. When given hyperlinks, implicit direction to explore what they link to, which are implicitly relevant to the current material.
