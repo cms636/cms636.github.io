@@ -17,7 +17,7 @@ In spite of the fact that Joyce uses dashes instead of quotation marks for his d
 
 In the chart depicting frequency over document segments, the most interesting spike is the rise in **"Bloom"** in segments 7-8. The reader follows Bloom through most of the novel, but we begin to see him more from other characters' perspectives in the cluster of episodes "Sirens," "Cyclops," "Nausicaa," "Oxen of the Sun"... I expect most of the spike is due to "Circe," in which the word "Bloom" precedes each of his lines--as the chapter is in the style of a play.
 
-Noting the prominence of **"yes"**--maybe the most famous word in _Ulysses_, I focused on that term in AntConc.
+Noting the prominence of **"yes"**--maybe the most famous word in _Ulysses_--I focused on that term in AntConc.
 
 ![Ulysses-AntConc - YesConcordance.png]({{site.baseurl}}/assets/Ulysses-AntConc - YesConcordance.png)
 
