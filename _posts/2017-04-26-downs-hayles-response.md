@@ -9,6 +9,8 @@ close reading:
 	"heterogeneous and largely unorganized set of practices and assumptions" (Peter Middleton)
     "symptomatic reading": "wrench a text's ideology into the light" by analyzing the context, the overt, as well as the omitted.
     (Reference how to deconstruct almost anything)
+
+
 hyper reading: reader-directed, screen-based, computer-assisted reading
 	but this existed in the past, as she mentions of researchers (John Guillory)
     "In digital environments, hyperreading has become a necessity. It enables a reader quickly to construct landscapes of associated research fields and subfields; it shows ranges of posibilities; it identifies texts and passages most relevant to a given query; and it easily juxtaposes many different texts and passages."
@@ -21,3 +23,9 @@ hyper reading: reader-directed, screen-based, computer-assisted reading
         hyperreading useful to determine what to read closely. When given hyperlinks, implicit direction to explore what they link to, which are implicitly relevant to the current material.
         
        	No test that says: those who hyperread often are worse at close reading
+        
+ machine reading:
+ 	"human-assisted computer reading"
+    As she describes, best used to guide human close reading
+    
+ "hyperreading overlaps with machine reading in identifying patterns." "close and hyperreading operate syngeristically when hyperreading is used to idenitfy passages or to home in on a few texts of interest, whereupon close reading takes over."
