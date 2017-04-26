@@ -29,3 +29,7 @@ hyper reading: reader-directed, screen-based, computer-assisted reading
     As she describes, best used to guide human close reading
     
  "hyperreading overlaps with machine reading in identifying patterns." "close and hyperreading operate syngeristically when hyperreading is used to idenitfy passages or to home in on a few texts of interest, whereupon close reading takes over."
+ 
+close reading: monolocal context (single text)
+hyperreading: multilocal context ("context is truncated, often consisting of a single phrase or sentece, as in a *Google* search.") WRONG presumes only reading search results and not exploring through.
+machine reading: context may be limited to a few words or eliminated altogether, as in a word-frequency list. WRONG this is the close reading of particular results displayed by the mchine, not the context available to the machine as it "reads" (all of the text.)
