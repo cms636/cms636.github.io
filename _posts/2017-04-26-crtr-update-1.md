@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: 'CRTR Update: 4/26'
 author: 'Peter Downs, Pojian Ne, Chaoran Wu, Xinwen Liu'
