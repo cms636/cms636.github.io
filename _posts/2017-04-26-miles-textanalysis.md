@@ -31,5 +31,7 @@ One last "yes" observation:
 
 ![Ulysses-AntConc - YesFrequencyChart.png]({{site.baseurl}}/assets/Ulysses-AntConc - YesFrequencyChart.png)
 
-I was really surprised to see the blank space preceding episode 18, toward the end of this chart. After all, episode 17, "Ithaca," is written in question-and-answer format. One would expect, then, to see a few more yes-es. But when I checked the concordance tab again, there were only three. 
+I was really surprised to see the blank space preceding episode 18, toward the end of this chart. After all, episode 17, "Ithaca," is written in question-and-answer format. One would expect, then, to see a few more yes-es. But when I checked the concordance tab again, there were only three.
+
+In general, I found AntConc more fine-grained in its analysis and more generative of interpretive ideas. But I may not have played around enough with Voyant to see all of its potential. AntConc, perhaps, could use more engaging graphics, but given the gimmicky nature of some of Voyant's visualizations, maybe a simple presentation mode is actually more effective.
 
