@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Reading in $CURRENT_YEAR
 author: Peter Downs
