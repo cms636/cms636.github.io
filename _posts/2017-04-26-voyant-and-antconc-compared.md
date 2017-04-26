@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Voyant and AntConc Compared
 author: Thatcher
-tags: ''
 ---
 Voyant and AntConc both analyze text in mostly the same way but display their results very differently. Voyant uses for an colorful, interactive, and flexible model of panels which allows for the display of a great amount of information about the text all on one screen. AntConc opts to use a system of tabs, so the user can only see one type of analysis of the text at a time.
 
