@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 category: updates
 title: olympic-update-may3
 author: >-
