@@ -1,11 +1,12 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: olympic-update-may3
 author: >-
   Thatcher Chamberlin, Kelsey DeJesus-Banos, Miles Osgood, Ece Turnator, Yuchuan
   Zhang
+tags: ''
 ---
 ## Olympic ArtMap Project Update: May 3
 
@@ -41,6 +42,9 @@ author: >-
 
 We've been playing with how to combine these features. Originally, the design was going to mimic the ArtMap design, but we might free ourselves from that model to be able to bring out the content text and image.
 
+![DemoPageSample.jpg]({{site.baseurl}}/assets/DemoPageSample.jpg)
+
+
 
 **Possible Design for Famous Cases Page** (Yuchuan): Last week, we tested out the idea of having a filter for particularly famous artists. It became clear in the class discussion that this label "fame" is hard to defend/justify, so for now we've removed the filter, but we're still thinking about ways we might incorporate this element of the metadata for interested users. Here's a possible side-page concept for looking at famous artists and entries.
 
@@ -49,6 +53,13 @@ We've been playing with how to combine these features. Originally, the design wa
 
 
 **Design for ArtMap Filters** (Yuchuan): The lines from the previous filter design have been removed, and the ring outlines have been accentuated to make a clearer reference to the Olympic Logo. We've downsized from our one-time concept of five filters (for five rings) and we've moved to three main filters: Art-Form, Medal, and Year. The two remaining rings offer the user the chance to return to the home page or to submit feedback.
+
+Sketch:
+
+![Filters-Design-2.jpg]({{site.baseurl}}/assets/Filters-Design-2.jpg)
+
+
+Full:
 
 ![Filter-Design-3.jpg]({{site.baseurl}}/assets/Filter-Design-3.jpg)
 
