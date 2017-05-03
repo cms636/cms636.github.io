@@ -6,7 +6,6 @@ title: olympic-update-may3
 author: >-
   Thatcher Chamberlin, Kelsey DeJesus-Banos, Miles Osgood, Ece Turnator, Yuchuan
   Zhang
-tags: ''
 ---
 ## Olympic ArtMap Project Update: May 3
 
@@ -65,4 +64,16 @@ _FULL:_
 
 
 
-**ArtMap Functionality** (Thatcher and Kelsey): We've got a demo running now. It doesn't yet incorporate 100% of the features and designs we've envisioned, but it's functional and we can start improving it from here. Here's how it works right now: you select a year and get a list of countries that competed and their medal. From there you can click each country and a listing of it's entries and artists and which pieces won medals. From there you can click on each piece and go to a new tab where you see more info about it. You can also click on artist names and go to pages with more info on them
+**ArtMap Functionality** (Thatcher and Kelsey): We've got a demo running now. It doesn't yet incorporate 100% of the features and designs we've envisioned, but it's functional and we can start improving it from here. Here's how it works right now: you select a year and get a list of countries that competed and their medal. From there you can click each country and a listing of it's entries and artists and which pieces won medals. From there you can click on each piece and go to a new tab where you see more info about it. You can also click on artist names and go to pages with more info on them. Here's what the map page looks like now:
+
+![shot1.png]({{site.baseurl}}/assets/shot1.png)
+
+The bottom-right panel can also show a list of a country's entries in a given year's games:
+
+![demo-shot2.png]({{site.baseurl}}/assets/demo-shot2.png)
+
+Click any of the pieces' titles leads to a custom generated page with more metadata about the piece. The information displayed is incomplete right now, but will be very detailed in the future:
+
+![demo-shot3.png]({{site.baseurl}}/assets/demo-shot3.png)
+
+
