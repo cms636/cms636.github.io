@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: olympic-update-may3
 author: >-
@@ -9,7 +9,7 @@ author: >-
 ---
 ## Olympic ArtMap Project Update: May 3
 
-**Metadata** (Ece and Miles): We've continued to comb through the exhibition catalogues to add city information for entries. We've now completed 1924, 1928, 1932, and 1936. 1948 is all that remains, and we'll be done with that shortly.
+**Metadata** (Ece and Miles): We've continued to comb through the exhibition catalogues to add city information for entries. We've now completed 1924, 1928, 1932, and 1936. 1948 is all that remains, and we'll be done with that shortly. We've also got more complete data for Famous Cases, URLs for images of entries, and Entries linked to the Demo Pages.
 
 ![ExhibitionCatalogueExample.png]({{site.baseurl}}/assets/ExhibitionCatalogueExample.png)
 
@@ -29,7 +29,7 @@ author: >-
 
 
 
-**Design for Demo Page** (Yuchuan and Kelsey): The Demo Page needs four elements...
+**Design for Demo Pages** (Yuchuan and Kelsey): The Demo Page needs four elements...
 
 1. A timeline
 
