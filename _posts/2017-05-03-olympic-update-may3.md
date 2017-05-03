@@ -54,12 +54,12 @@ We've been playing with how to combine these features. Originally, the design wa
 
 **Design for ArtMap Filters** (Yuchuan): The lines from the previous filter design have been removed, and the ring outlines have been accentuated to make a clearer reference to the Olympic Logo. We've downsized from our one-time concept of five filters (for five rings) and we've moved to three main filters: Art-Form, Medal, and Year. The two remaining rings offer the user the chance to return to the home page or to submit feedback.
 
-Sketch:
+_SKETCH:_
 
 ![Filters-Design-2.jpg]({{site.baseurl}}/assets/Filters-Design-2.jpg)
 
 
-Full:
+_FULL:_
 
 ![Filter-Design-3.jpg]({{site.baseurl}}/assets/Filter-Design-3.jpg)
 
