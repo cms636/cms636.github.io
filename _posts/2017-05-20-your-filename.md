@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: updates
-title: ''
+title: pentathlon-design-doc
 author: >-
   Miles Osgood, Ece Turnator, Thatcher Chamberlin, Kelsey DeJesus-Banos, Yuchuan
   Zhang
