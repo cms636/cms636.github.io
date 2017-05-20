@@ -42,10 +42,8 @@ Second, non-academic users who may have personal interests in the arts or the Ol
 ### Background Research
 Primary-source research on the Olympic Art Competitions comes from three main sources: Richard Stanton’s foundational self-published monograph, The Forgotten Olympic Art Competitions (2000); the archives of the Olympic Studies Centre in Lausanne; and the online database sports-reference.com. Over the course of about a year and a half of research, with help from librarians and colleagues with coding skills, Miles has compiled and cross-checked a spreadsheet with metadata about all of the Olympic art entries, alongside contextual information about the competitions and the artists involved.
 
-Sources of Metadata: Exhibition Catalogues and sports-reference.com
+![Screen Shot 2017-05-20 at 1.06.50 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-05-20 at 1.06.50 PM.png)
 
-
-“OlympicResults” spreadsheet: the metadata behind the ArtMap
 
 The ArtMap we’ve designed is mostly primary-source driven, and the tour largely makes use of general knowledge about twentieth-century history, Olympic history, and modernist studies. Still, to fully understand the possibilities for our site and its content, there has been some use for some secondary literature: biographies of artists, critical accounts of art history and sports history, scholarly texts on twentieth-century culture, etc. We’ve included some of these texts along with our primary sources in the bibliography.
 In the field of Digital Humanities scholarship, Jane Macalik, John Fraser, and Kelly McKinley’s editorial statement on “Discursive Space” has had special influence on this project, as may be apparent in our use of the terms “visitor” and “user.” Our site is not without conventional curatorial structures designed for “visitors”--this is the function of the chronological, introductory tour, after all--but the central application, the ArtMap, is intended to “share power” between the collection and its users by inviting unforeseen insights (see Macalik et al., 3). In the interest of time, we have had to prioritize certain works by seeking out their images first, so in that sense we have not abnegated our role as knowledgeable curators, but the material in the ArtMap is presented as evenly as possible. We might also define the two dimensions of the website--the tour and the ArtMap--according to Lev Manovich’s “narrative” and “database” from The Language of New Media. As Manovich describes, though, these categories are not completely distinct (234). This is a hybrid site, and each half is hybrid in its own way: the narrative of the tour refers as much as possible to the place of individual artworks in the larger database; and users can click on individual entries in the ArtMap database to see short narrative biographies.
@@ -55,7 +53,10 @@ In the field of Digital Humanities scholarship, Jane Macalik, John Fraser, and K
 Roles: As our team members have diverse backgrounds, we assigned tasks based on everyone’s strengths and interests. Thatcher and Kelsey are our technical experts in programming; they built the website and its functions. Miles, who proposed the concept of visualizing the Olympic Art Competition as part of his greater research, provided introductory background to the competitions and prepared the metadata, while also taking an active role in consulting on the website design and creating or curating images as needed. Yuchuan, a design student, oversaw the general visualization principles of the ArtMap and user interaction overall. She gave advice and sketches for the layout of the site. Ece, a digital humanities librarian and instructor, helped compile metadata and gave feedback on the project along the way.
 
 Development steps
+
 Design Proposal:
+
+![Screen Shot 2017-05-20 at 1.08.08 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-05-20 at 1.08.08 PM.png)
 
 
 The proposal is based on two aims. First: to combine various information like images, maps, texts and even sounds together to make it clear and easy for users to read, process, and learn. Second: to make the journey an interactive process for better user experience.
@@ -69,6 +70,7 @@ Website Improvement (Prospects)
 
 
 
+![Screen Shot 2017-05-20 at 1.08.49 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-05-20 at 1.08.49 PM.png)
 
 
 
@@ -91,6 +93,9 @@ Other design choices were motivated by feasibility rather than legality. In acco
 ### Enabling Technologies
 
 ArtMap Page
+
+![Screen Shot 2017-05-20 at 1.09.54 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-05-20 at 1.09.54 PM.png)
+
 
 The ArtMap within the Pentathlon of the Muses website is an interactive web app that displays information stored in a relational database. The site runs off of a Node.js server which serves web pages and facilitates the flow of information between the user and a MySQL database. SQL, or structured query language, databases allow for complex searches large, connected datasets. MySQL allows for a more selective and dynamic form of interaction than a spreadsheet or other static file. The information from the database is displayed on the user’s screen through a combination of HTML, CSS, and JavaScript. Text information is displayed by using JavaScript to rewrite elements of the page and spatial information is displayed by use of the Google Maps JS API, which allow us to draw markers, windows, and lines on a responsive world map.
 
