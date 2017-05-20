@@ -6,6 +6,8 @@ title: pentathlon-design-doc
 author: >-
   Miles Osgood, Ece Turnator, Thatcher Chamberlin, Kelsey DeJesus-Banos, Yuchuan
   Zhang
+tags:
+  - Digital_Humanities
 ---
 ## Pentathlon of the Muses: Final Project Design Document
 
