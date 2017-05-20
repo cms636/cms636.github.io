@@ -6,11 +6,13 @@ title: pentathlon-design-doc
 author: >-
   Miles Osgood, Ece Turnator, Thatcher Chamberlin, Kelsey DeJesus-Banos, Yuchuan
   Zhang
+tags: ''
 ---
 ## Pentathlon of the Muses: Final Project Design Document
 
 WEBSITE: [http://104.197.121.200/](http://104.197.121.200/)
 
+![]({{site.baseurl}}/assets/Rings-Landing.png)!
 
 
 ### Team Members
@@ -28,6 +30,7 @@ WEBSITE: [http://104.197.121.200/](http://104.197.121.200/)
 ### Concept Overview
 The Olympic Art Competitions were official contests at the Olympic Games that lasted from 1912 to 1948, founded by the father of the modern Olympics, Pierre de Coubertin. Artists could win medals for their countries in five events--architecture, literature, music, painting, and sculpture--a “Pentathlon of the Muses.” Many of the medal-winning artworks have survived, and existing online articles or books focus on these successful entries. These medal-winners account for only about 150 of more than 3,000 entries, however. Looking at the medal-winners alone obscures the stylistic breadth and  the global reach of these competitions. Most victors competed for European countries or the U.S., but artists submitted from nearly 50 countries around the world. Meanwhile, due to conservative Olympic aesthetics and rear-guard juries, the most notable competitors and innovative artworks are buried among the losers.
 
+![Screen Shot 2017-05-20 at 1.04.40 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-05-20 at 1.04.40 PM.png)
 
 
 ### Olympic Documents related to the Art Competitions, 1912 through 1948
