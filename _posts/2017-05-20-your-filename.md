@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: ''
+author: >-
+  Miles Osgood, Ece Turnator, Thatcher Chamberlin, Kelsey DeJesus-Banos, Yuchuan
+  Zhang
 ---
 ## Pentathlon of the Muses: Final Project Design Document
 
