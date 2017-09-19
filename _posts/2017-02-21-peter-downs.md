@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: people
-title: Peter Downs (student)
+title: Peter Downs (secret technologist)
 author: Peter Downs
 ---
 ![peter-downs-headshot.jpg]({{site.baseurl}}/assets/peter-downs-headshot.jpg)
