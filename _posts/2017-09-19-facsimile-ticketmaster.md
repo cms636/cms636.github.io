@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Facsimile Ticketmaster
 author: 'Erick Friis, Michelle Gelberger, Hiya Vazirani, Calvin Zhong'
-tags: ''
 ---
 When observing the four different families of register pages, our group decided to focus on creating meaningful data visualizations for both travelers passing by the Comédie-Française in person or perusing its site. Since the Comédie-Française is one of the oldest actively running theatres in the world, we assumed that its audiences will be fascinated in learning about the historical data extracted from the facsimiles in a relevant context, and we wanted to make it accessible to them.
 
