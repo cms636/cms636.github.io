@@ -2,7 +2,7 @@
 layout: post
 published: false
 category: updates
-title: CFRP Prototype Data Visualization Web Page
+title: CFRP Prototype Data Visualization
 author: 'Maya Madhavan, Parker Greene, Ping Zhang'
 ---
 We found it tricky to work with the data due to the way it was organized in the database. However, we adapted it to our idea and convey the information in a way that would be useful to researchers.
