@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: people
-title: Parker Greene (student)
+title: Parker Greene (Student)
 author: Parker Greene
 ---
 ![l_A4e-0z_400x400-3.png]({{site.baseurl}}/assets/l_A4e-0z_400x400-3.png)
