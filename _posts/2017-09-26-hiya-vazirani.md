@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: people
 title: Hiya Vazirani
 author: Hiya Vazirani
-tags: ''
 ---
 ## A New Post
 
