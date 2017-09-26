@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 category: people
-title: 2017-09-26-calvin-zhong-student.md
+title: calvin-zhong-student.md
 author: Calvin Zhong
 ---
 ![Calvin Zhong]({{site.baseurl}}/assets/calvin.png)
