@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 category: updates
 title: CFRP Prototype Data Visualization
 author: 'Maya Madhavan, Parker Greene, Ping Zhang'
