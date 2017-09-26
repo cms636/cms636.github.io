@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: people
 title: pgreene_bio.md
 author: Parker Greene
