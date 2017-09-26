@@ -11,14 +11,14 @@ Ideally, the data would be stored per year, so that a query to display data for 
 
 The graph shows a line graph over a time span (in years). The user can change which time interval they would like to be displayed. Currently, there is no option to add additional data, as this would require either an adjustment to the y-axis scale, or an entirely different y-axis scale. In the future, this web page could scrape the API to compute other types of data from the CFRP database, or allow the user to input their own data for a desired time period.
 
-We maintained the concept of a timeline, creating a web application that tracked total revenues over time and including informational bubbles with the specifics of each point. See below for examples:
-
 ****
 
 [http://web.mit.edu/pwgreene/www/CMS-633/CFRP_prototype.html](http://web.mit.edu/pwgreene/www/CMS-633/CFRP_prototype.html "CFRP Prototype")
 
 
 ****
+
+We then played around with a couple of additional visualization techniques. We maintained the concept of a timeline, creating a web application that tracked total revenues over time and including informational bubbles with the specifics of each point. See below for examples:
 
 ![CFRP1.png]({{site.baseurl}}/assets/CFRP1.png)
 ![CFRP2.png]({{site.baseurl}}/assets/CFRP2.png)
