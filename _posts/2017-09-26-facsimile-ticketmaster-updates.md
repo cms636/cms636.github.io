@@ -17,7 +17,7 @@ Since displaying a "ticketmaster-like" scene was important to us, we found that 
 5. Display tickets for that show (request to http://api.cfregisters.org/play_ticket_sales?&date=eq.{date}&title=eq.{title} [http://api.cfregisters.org/play_ticket_sales?&date=eq.1776-07-04&title=eq.M%C3%A9lanide](http://api.cfregisters.org/play_ticket_sales?&date=eq.1776-07-04&title=eq.M%C3%A9lanide) for showings of Mélanide for example) on ticketmaster chart
 6. Select a Ticket, and print it
 
-We created an InVision prototype here:
+We recorded our prototype here:
 [![hqdefault.jpg]({{site.baseurl}}/assets/hqdefault.jpg)](https://youtu.be/f6VelwwJTec)
 
 For more information on how the story came together, see our [previous post on Facsimile Ticketmaster!](/updates/facsimile-ticketmaster.html)
