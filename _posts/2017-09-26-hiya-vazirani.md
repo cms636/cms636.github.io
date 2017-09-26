@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: people
-title: Hiya Vazirani
+title: Hiya Vazirani (Student)
 author: Hiya Vazirani
 ---
 
