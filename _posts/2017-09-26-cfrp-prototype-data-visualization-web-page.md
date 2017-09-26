@@ -15,7 +15,7 @@ We maintained the concept of a timeline, creating a web application that tracked
 
 ****
 
-http://web.mit.edu/pwgreene/www/CMS-633/CFRP_prototype.html
+[http://web.mit.edu/pwgreene/www/CMS-633/CFRP_prototype.html](http://web.mit.edu/pwgreene/www/CMS-633/CFRP_prototype.html "CFRP Prototype")
 
 
 ****
