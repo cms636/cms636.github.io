@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: people
-title: pgreene_bio.md
+title:
 author: Parker Greene
 ---
 ## Parker Greene (student)
