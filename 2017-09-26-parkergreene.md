@@ -1,4 +1,4 @@
-## A New Post
+## People
 
 ![l_A4e-0z_400x400-3.png]({{site.baseurl}}/assets/l_A4e-0z_400x400-3.png)
 
