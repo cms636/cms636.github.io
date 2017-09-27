@@ -3,6 +3,7 @@ layout: post
 published: false
 category: updates
 title: Working with CFRP data
+author: 'Mia Ming Guo, Ao Li'
 ---
 Last time we said we would like to integrate data visulization with spatial representation to make the data visualization process more playful for either scholars or general public. We continued and further developed this idea using csv data.
 
