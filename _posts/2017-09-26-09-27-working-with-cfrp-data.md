@@ -10,6 +10,8 @@ Since neither of us know anything about API or javascript, we relied on a graphi
 
 By clicking into each type of seat, user will be directed into the next page where they can have a virtual view of the stage space from the perspective of the selected seating type. The revenue of the given type of seat will be exhibited along the visualize the data.
 
-After associating the data with geometries in Grasshopper, the graphic was then exported into Illustrator for post editing.
+After associating the data with geometries in Grasshopper, the graphic was then )exported into Illustrator for post editing.
+
+[Presentation of the Assignment]([Presentation of the Assignment](https://drive.google.com/open?id=0B2zsaetY8oKObEhpanNIY2R5NWs)
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
