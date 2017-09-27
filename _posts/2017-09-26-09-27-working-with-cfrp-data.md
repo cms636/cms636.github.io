@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Working with CFRP data
 author: 'Mia Ming Guo, Ao Li'
