@@ -5,7 +5,7 @@ category: updates
 title: Project Pitch
 author: Hiya Vazirani
 ---
-ArTrack
+Tracking Artists
 
 Problem:
 Over time, artwork has been scattered in museums and collections across the globe. Because of this, it has become very difficult for people who are passionate about one artist to view their work together. This poses several issues because I feel it is important when studying art, to analyse work over time.
