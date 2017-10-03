@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: 'Assignment 3: US-Iran Relations Location and Language'
 author: 'Tho Tran, Alyssa Dayan'
