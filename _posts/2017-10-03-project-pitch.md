@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Project Pitch
 author: Hiya Vazirani
-tags: ''
 ---
 Tracking Artists
 
