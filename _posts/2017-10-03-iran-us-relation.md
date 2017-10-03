@@ -6,9 +6,9 @@ title: 'Assignment 3: US-Iran Relations Location and Language'
 author: 'Tho Tran, Alyssa Dayan'
 ---
 
-http://timemapper.okfnlabs.org/anon/9fg19s-1stbriefingbook-eventsxlsx#1
-
-The data about the Iran-US relation is displayed chronologically on a timeline that includes the title and description of the events.
+The data about the Iran-US relation is displayed chronologically on a timeline that includes the title, description, photo, and location of the events. In this first iteration, we attempt to display the accounts of the events from an objective point of view. Below is the link to the timeline.
+http://timemapper.okfnlabs.org/trista_tho/1stbriefingbook-eventsxlsx
+Nevertheless, we realize that the accounts offer conflicting interpretation and value for each side, so that in the second iteration we would like to highlight these perspectives and the dynamics of the US-Iran relation. 
 
 ## Language Timeline 
 Noticing lots of quotations in the data provided, we also decided to explore ways to vizualize the statements made by each side over time as a way of providing insight into the evolving sentiments between the US and Iran. 
@@ -20,4 +20,3 @@ To avoid this, we created a display of language that does not attempt to present
 We created the timeline using Microsoft's [Timeline Storyteller](https://timelinestoryteller.com/), categorizing and color-coding the quotes by which side said them and what they were directed towards- in this case, statements the US made about Iran, statements the US made about its policy on Iran, statements Iran made about the US, and statements made by the media about the relationship between the US and Iran.
 
 ![timeline.png]({{site.baseurl}}/assets/timeline.png)
-
