@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: CFRP Genre Timeline
 author: 'Alyssa Dayan, Tho Tran'
