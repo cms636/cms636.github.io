@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: 'Assignment 3: US-Iran Relations Location and Language'
 author: 'Tho Tran, Alyssa Dayan'
-tags: ''
 ---
 
 The data about the US-Iran relation is displayed chronologically on a timeline that includes the title, description, photo, and location of the events. In this first iteration, we attempt to display the accounts of the events from an objective point of view. Below is the link to the timeline.
