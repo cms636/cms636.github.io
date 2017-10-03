@@ -13,7 +13,7 @@ We chose to display the data using both TimeMapper and Timeline Storyteller. We 
 The result is here: [TimeMapper](http://timemapper.okfnlabs.org/parker_greene/us-iran-events1#34)
 
 Pros:
-This interface is great for understanding the events from a spacial perspective. The user can sequentially click the different events in the timeline window and see the map jump around to the location where they happened. The user can also get a good idea of where in the world a majority of the events are taking place, as they can see clusters of pinpoints on the map. 
+This interface is great for understanding the events from a spatial perspective. The user can sequentially click the different events in the timeline window and see the map jump around to the location where they happened. The user can also get a good idea of where in the world a majority of the events are taking place, as they can see clusters of pinpoints on the map. 
 
 Timemapper is very easy to set up and use.
 
