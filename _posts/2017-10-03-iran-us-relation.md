@@ -1,13 +1,16 @@
 ---
 layout: post
-published: true
+published: false
 category: updates
 title: 'Assignment 3: US-Iran Relations Location and Language'
 author: 'Tho Tran, Alyssa Dayan'
+tags: ''
 ---
 
-The data about the Iran-US relation is displayed chronologically on a timeline that includes the title, description, photo, and location of the events. In this first iteration, we attempt to display the accounts of the events from an objective point of view. Below is the link to the timeline.
-http://timemapper.okfnlabs.org/trista_tho/1stbriefingbook-eventsxlsx
+The data about the US-Iran relation is displayed chronologically on a timeline that includes the title, description, photo, and location of the events. In this first iteration, we attempt to display the accounts of the events from an objective point of view. Below is the link to the timeline.
+(http://timemapper.okfnlabs.org/trista_tho/1stbriefingbook-eventsxlsx)
+![timeline_iter1]({{site.baseurl}}/assets/us_iran_timeline_iter1.png)
+
 Nevertheless, we realize that the accounts offer conflicting interpretation and value for each side, so that in the second iteration we would like to highlight these perspectives and the dynamics of the US-Iran relation. 
 
 ## Language Timeline 
