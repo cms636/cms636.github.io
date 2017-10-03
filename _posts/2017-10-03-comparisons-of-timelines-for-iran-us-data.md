@@ -29,7 +29,7 @@ Linear, Chronological, Unified:
 Linear, Chronological, Segmented:
 ![timeline_image-linear_chronological_segmented.png]({{site.baseurl}}/assets/timeline_image-linear_chronological_segmented.png)
 Calendar, Chronological, Segmented:
-![timeline_image.png]({{site.baseurl}}/assets/timeline_image.png)
+![timeline_image-calendar.png]({{site.baseurl}}/assets/timeline_image-calendar.png)
 
 The colors correspond to the location that the events took place.
 
@@ -38,4 +38,3 @@ Very customizable: the creator/user can choose a variety of different categories
 
 Cons:
 There is no location aspect for any of the available display options, unfortunately. It would have been nice to get a sense of position in addition to time.
-
