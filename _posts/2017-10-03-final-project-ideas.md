@@ -16,9 +16,8 @@ A supplemental app for the [Freedom Trail](http://www.thefreedomtrail.org/) that
 **2b. Freedom Trail Site**
 An archival site for the monuments in the Freedom Trail. This would try to use 3D rendering of the monuments, exploring  digitizing methods other than photo documentation. 
 
-**3. Making Invisible Visible App**
-An app that would reveal things that would be invisible. E.g. microorganisms in the air around us, pollutants, pollen, etc. 
+**2c. Freedom Trail Tour**
+A mobile application that propose to customize each tourist’s own tour. After the tourist select the estimated time and his or her preferred theme (e.g. people, event, architecture), a customized tour will be created.  
 
-**4. Sackner Archive of Concrete Poetry**
-A redesign of the [Sackner Archive of Concrete Poetry](http://ww3.rediscov.com/sacknerarchives/), that would provide a more user-friendly exploration of their content and teaching tools for digitizing concrete poetry. 
-
+**3. Sackner Archive of Concrete Poetry**
+A redesign of the [Sackner Archive of Concrete Poetry](http://ww3.rediscov.com/sacknerarchives/), that would provide a more user-friendly exploration of their content and teaching tools for digitizing concrete poetry.
