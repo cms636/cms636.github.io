@@ -1,13 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
-title: Assignment 3 part 3
+title: 'Project Pitch: Mood Mural'
+author: Alyssa Dayan
 ---
-## Assignment 3 part 3: Project Idea
+## Assignment 3 part 3
 
 ### Idea:
-An interactive interactive visualization of the emotions of people around campus.
+An interactive visualization of the emotions of people around campus.
 
 ### Delivery Platform
 It would probably be a web-app so it could be accessed from any laptop or mobile phone, but it would ideally also exist on physical touch-screens - maybe one on the infinite, and/or one in the MIT Mental Health and Counselling hallway.
