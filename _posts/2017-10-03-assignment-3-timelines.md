@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: updates
-title: Assignment 3- Timelines
+title: 'Assignment 3: US-Iran Relations Display'
 author: Maya Madhavan
 ---
 I used Microsoft’s timeline storyteller tool to look at the 3rd Briefing Book. 
