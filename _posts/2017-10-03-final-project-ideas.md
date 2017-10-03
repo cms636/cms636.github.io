@@ -20,5 +20,5 @@ An archival site for the monuments in the Freedom Trail. This would try to use 3
 An app that would reveal things that would be invisible. E.g. microorganisms in the air around us, pollutants, pollen, etc. 
 
 **4. Sackner Archive of Concrete Poetry**
-A redesign of the Sackner Archive of Concrete Poetry, that would provide a more user-friendly exploration of their content and teaching tools for digitizing concrete poetry. 
+A redesign of the [Sackner Archive of Concrete Poetry](http://ww3.rediscov.com/sacknerarchives/), that would provide a more user-friendly exploration of their content and teaching tools for digitizing concrete poetry. 
 
