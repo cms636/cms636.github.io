@@ -3,7 +3,7 @@ layout: post
 published: false
 category: updates
 title: Final Project Ideas
-author: 'Mindy Seu, Mia Ming, Ao Li, Parker Green'
+author: 'Mindy Seu, Mia Ming, Ao Li, Parker Greene'
 ---
 ## Initial Thoughts
 
