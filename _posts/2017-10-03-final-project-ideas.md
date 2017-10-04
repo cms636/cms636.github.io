@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Final Project Ideas
 author: 'Mindy Seu, Mia Ming, Ao Li, Parker Greene'
