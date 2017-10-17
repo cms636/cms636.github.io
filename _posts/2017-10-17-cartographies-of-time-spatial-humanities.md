@@ -16,4 +16,4 @@ Because it's so simple, it surprises me that it was the first of its kind when i
 
 **The Potential of Spatial Humanities**
 
-The biggest advantage of GIS is its power for geographic analysis and ability to handle large amounts of geographical data (the likes of which hadn't been achieved by that point). However, similar to the point made by Joanna Drucker, we cannot display the world objectively; instead, this technological design implicitly carries bias inherited from the privilidges of its designers.
+The biggest advantage of GIS is its power for geographic analysis and ability to handle large amounts of geographical data (the likes of which hadn't been achieved by that point). However, similar to the point made by Joanna Drucker, we cannot display the world objectively; instead, this technological design implicitly carries bias inherited from the priviliges of its designers. The shortcoming of GIS, and what critics of GIS mention, is that the technology isn't able to handle the complexity of our modern world and appropriately display it.
