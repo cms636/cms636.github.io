@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Moby Dick Data Using Google Fusion Tables
+author: Maya Madhavan
 ---
 After using the given instructions to input the Moby Dick data I changed around different settings to see what would happen. Generally speaking, I found that the Fusion tables convenient and useful for visualizing spatial data. The bucketing and heatmap features were particularly interesting, as was the option of editing the info window.
 
