@@ -20,6 +20,12 @@ Disadvantages:
 1 GIS employs a linear logic that is not adequate for understanding social complexity.
 2 So heavily accurate data based that is not flexible to tackle ambiguity and uncertainty.
 
-Readings for Graduate Students
+**Reading for Graduate Students: Digital Humanities: Emerging Methods and Genres**
+1 Animated Archive
+The Digital Humanities offers new challenges and possibilities for institutions of
+memory such as archives, libraries, and museums.Users have better accessability to and interaction with the remains of the past.
+2 Thick Mapping
+Thick maps are not meant to be static representations or accurate reflections of a physical reality; instead, they function as stacked representations in which one representation is linked or keyed to another.It has a dynamic, ever-changing environment,new data sets can be overlaid, new annotations can be added, new relationships among maps can be discovered, and, perhaps most importantly, missing voices can be returned to specific locations through “writerly” projects of memory that the participatory architecture of Web 2.0 applications has made possible.
+
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
