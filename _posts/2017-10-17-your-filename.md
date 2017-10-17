@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: 'Assignment4: Comments on Readings'
 ---
 Cartigraphies of Time: ##
