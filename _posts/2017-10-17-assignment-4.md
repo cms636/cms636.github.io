@@ -29,7 +29,7 @@ Advantages of GIS
 
 02.GIS is able to well solve corporate problems such as route logistics or market analysis. Chain company like IKEA and Walmart are taking advantage of GIS to analyze where to locate and how to optimize supply chain management.
 
--Shortcomings of GIS
+Shortcomings of GIS
 
 01.GIS technologies are of high costing. The issues they aim to address are  complex and difficult to deal with.
 
