@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: Assignment Four
 author: Alyssa Dayan
 tags:
@@ -16,4 +16,3 @@ Joseph Priestley’s Chart of Biography in 1765 was the first chart to present a
 ## The Potential of Spatial Humanities
 Critics of GIS claim that it rests on positivist epistemology by assuming the existence of an objective reality that we can discover through scientific method, when in fact knowledge is contingent on the perspective of the observer. GIS doesn’t accept uncertainty, and favors official accounts - which are influenced by money and power), while using Western measures such as Euclidean geometry and Boolean logic. 
 However, I don’t think these criticisms prevent GIS from being a valuable tool even if it can’t capture all of the subtleties and ambiguities of the world. Bodenhamer observes that the “quantitative revolution” has yet to enter the mainstream of humanities scholarship, and explains it by the fact that humanists are drawn to questions and evidence that cannot be reduced easily to zeroes and ones. However I believe that quantitative evidence will always provide valuable insight or at least context in some form or another, and it is high time for quantitative methods to be fully embraced in humanities.
-
