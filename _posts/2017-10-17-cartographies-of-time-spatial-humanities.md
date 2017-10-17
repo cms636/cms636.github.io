@@ -14,4 +14,6 @@ Joseph Priestly's simple, yet informative timeline (pictured above) explores the
 
 Because it's so simple, it surprises me that it was the first of its kind when it was published, and described as a "watershed" by Grafton and Rosenburg. I think this type of timeline would be great for showing interrelationships between contemporary scientists, but perhaps having additional information, such as which scientific discoveries occurred when, would greatly help this type of timeline.
 
+**The Potential of Spatial Humanities**
 
+The biggest advantage of GIS is its power for geographic analysis and ability to handle large amounts of geographical data (the likes of which hadn't been achieved by that point). However, similar to the point made by Joanna Drucker, we cannot display the world objectively; instead, this technological design implicitly carries bias inherited from the privilidges of its designers.
