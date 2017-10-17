@@ -2,7 +2,7 @@
 layout: post
 published: false
 category: updates
-title: ''
+title: 'Assignment4: Comments on Readings'
 author: ''
 tags: ''
 ---
