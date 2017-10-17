@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Mapping Space
 author: Mia Ming Guo
-tags: ''
 ---
 
 For this exercise, I used google fusion tables as a tool and Moby Dick data as a data source. After the map is formed( which somhow took quite a few minutes), I found that users can further design the map by changing feature styles and information windows. Heatmap is also provided to better illustrate the information. Google also allows users to share the generated link for customized fusion tables with others.
