@@ -7,7 +7,7 @@ title: 'Assignment4: Comments on Readings'
 Cartigraphies of Time: ##
 
 
-Rosenberg and Grafton reminds us that tracing time is pretty nascent. Also, the main form that  represents time is simply line. And this form has not changed much over a long period of time. I find it intriguing how time and space are inseparatable. We cannot tell time without mentioning space. This makes space a fundamental and perpetual basis of our idea of time. Due to this strong connection between space and time, our way of representing time using line makes a lot sense and seems intrinsic. It will probably stick around for a long time. 
+Rosenberg and Grafton remind us that tracing time is pretty nascent. Also, the main form that  represents time is simply line. And this form has not changed much over a long period of time. I find it intriguing how time and space are inseparatable. We cannot tell time without mentioning space. This makes space a fundamental and perpetual basis of our idea of time. Due to this strong connection between space and time, our way of representing time using line makes a lot sense and seems intrinsic. It will probably stick around for a long time. 
 
 
 Spatial Humanities: ##
