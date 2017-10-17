@@ -20,4 +20,6 @@ Disadvantages:
 1 GIS employs a linear logic that is not adequate for understanding social complexity.
 2 So heavily accurate data based that is not flexible to tackle ambiguity and uncertainty.
 
+Readings for Graduate Students
+
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
