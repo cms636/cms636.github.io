@@ -12,6 +12,12 @@ The points where the troop number changes also related to the temperature chart,
 ![Fig.2]({{site.baseurl}}/assets/minard_corner.png)
 I think what make this visualization so good is that it employs the geometries in a story telling fashion and unites temporal and spatial information with the geometry.
 
-Reading 2:
+**Reading 2: The Potential of Spatial Humanities**
+Advantages of GIS:
+1 Great capability to manipulate large data sets and visualize the result of spatial analysis.
+2 Provide accurate and optimized solutions whose relevent calculations is beyond human capability.
+Disadvantages:
+1 GIS employs a linear logic that is not adequate for understanding social complexity.
+2 So heavily accurate data based that is not flexible to tackle ambiguity and uncertainty.
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
