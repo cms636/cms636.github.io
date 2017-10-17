@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: Assignment 4 Commentaries
+author: Maya Madhavan
 ---
 **Reading 1: Cartographies of Time**
 ![Eusebius.png]({{site.baseurl}}/assets/Eusebius.png)
