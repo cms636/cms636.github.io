@@ -5,7 +5,7 @@ category: commentary
 title: Assignment 4
 author: Mia Ming Guo
 ---
-** Time in Print**
+**Time in Print**
 
 Analysis on two examples from the text:
 
@@ -37,4 +37,4 @@ Advantages of GIS
 
 03.GIS is limited to understand social complexity and depict a more evocative world which is built on understanding of history and culture.
 
-4. GIS is not able to produce knowledge.
+04.GIS is not able to produce knowledge.
