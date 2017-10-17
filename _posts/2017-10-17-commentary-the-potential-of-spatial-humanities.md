@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: 'Commentary : The Potential of Spatial Humanities'
 author: Habiba Noamany
