@@ -4,10 +4,6 @@ published: true
 category: updates
 title: 'Assignment4: Comments on Readings'
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
 Cartigraphies of Time: ##
 
 
