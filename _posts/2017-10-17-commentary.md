@@ -6,7 +6,8 @@ title: 'Commentary '
 ---
 ##Cartographies of Time 
 
-I really enjoyed the reading because it forced me to think critically about timelines, and how the idea of linearity presented itself. It is one of the patterns that we inherently recognize but have never questioned, and to imagine that once tables were the preferred method to record kingdoms.  
+I really enjoyed the reading because it forced me to think critically about timelines, and how the idea of linearity presented itself. It is one of the patterns that we inherently recognize but have never questioned, and to imagine that once tables were the preferred method to record kingdoms.
+
 ##Analysis of Charles Minard: Russian Campaign of 1812  
 
 
