@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Using Google Fusion Tables
 author: Alyssa Dayan
