@@ -4,7 +4,6 @@ published: true
 category: commentary
 title: Envisioning Information + Chartjunk
 author: Calvin Zhong
-tags: ''
 ---
 ## Envisioning Information - Tufte
 
@@ -33,4 +32,6 @@ Tufte calls non-data and repeated data elements "chartjunk," and criticizes it f
 
 Through a study that examined "chartjunk" vs plain charts, examining recall and comprehension, there is a qualification of ornamentation. Through the study, it was discovered that the ornamented charts were about the same amount of legible as the plain ones, but participants had a much easier time remembering the embellished charts later. 
 
-However, there were issues that seemed to cloud the study's conclusion that embellishments are actually fine-- namely, the charts were actually very easy to understand and had simple messages to begin with, there was only a small set of values, and embellishments were created by a trained designer. Stephen Few then goes on to talk about the extreme embellishments that constitute "
+However, there were issues that seemed to cloud the study's conclusion that embellishments are actually fine-- namely, the charts were actually very easy to understand and had simple messages to begin with, there was only a small set of values, and embellishments were created by a trained designer. Stephen Few then goes on to talk about the extreme embellishments that constitute chartjunk, and shows the amount of junk that can be put into charts is actually quite impressive. 
+
+The paper ultimately seems to point at the term "chartjunk" and how there needs to be a beter definition. It is not that there needs to be a completely minimal, precise representation, but rather, a more curated, designed version in order to engage the reader, draw attention, and make the information memorable. 
