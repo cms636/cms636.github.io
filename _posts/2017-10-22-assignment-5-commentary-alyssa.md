@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: Assignment 5 Commentary - Alyssa
 author: Alyssa Dayan
 ---
