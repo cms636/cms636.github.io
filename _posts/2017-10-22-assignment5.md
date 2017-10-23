@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Assignment5
 author: Ping Zhang
-tags: ''
 ---
 In the **layering and Separation chapter**, Edward Tufte illustrated the "1+1=3 or more" theory in visual effects. He used different examples and comparison to show how effective layering of information can be achieved. For example, different colors, line weights, diagram shapes and arrangement of information layers can affect the relationships between layers.  He also criticized some old maps didn’t differentiate information and suggested uneven information showed in Chinese and Japanese paintings could provide more meanings. While in my opinion, I would expect more discussions for this topic rather than using most of the words to criticize the dark or grey color which can better show the information. 
 
