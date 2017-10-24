@@ -5,7 +5,7 @@ category: commentary
 title: Assignment 5 - Reading Commentary
 author: Michelle Gelberger
 ---
-## Color & Information by Edward Tufte
+### Color & Information by Edward Tufte
 
 Tufte argues that it’s quite easy to add color into visualizations, but certain mistakes (color violations) can lead to incorrect understandings or and even strong visual aversions. He claims that color decisions have rules, guidelines, and limitations, meaning that it’s crucial for certain aesthetics to correctly use color to properly translate ideas and values. You can use color to express differences, distances, measurements, and many other aspects of information. 
 
@@ -13,7 +13,7 @@ Tufte also goes on to say that color can, in fact, communicate multidimensionali
 
 This chapter was interesting because it highlighted how color is a powerful tool, but it’s extremely easy to make mistakes and generate misunderstandings when one uses color incorrectly. I feel like students are always learning about certain rules they can or cannot break in the realm of their studies, but color interpretations and the definition of good aesthetics are always involving, so I wonder how strictly enforced these rules can really be. 
 
-## The Chartjunk Debate by Stephen Few
+### The Chartjunk Debate by Stephen Few
 
 Few’s main argument is that Edward Tufte’s encompassing term of chartjunk, used to describe extra and potentially necessary embellishments to data visualizations, is too loosely defined and too critical of visual elements in charts that meaningfully support a chart's message.
 
