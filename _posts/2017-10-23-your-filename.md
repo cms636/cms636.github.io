@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: ''
+title: E. Tufte Envisioning Information - Layering and Separation
 author: Kelly Huang
 ---
 While the following chapter is specifically on color, (“Color and Information”) many examples in this chapter utilize color to create layers and differentiate information. A detail I found interesting was on the ascension and descension of letters, which I have noticed before with labels on diagrams and various visuals, but usually just regard as an ‘unfortunate circumstance’ that could only be fixed by capitalizing all letters, which is not always desirable for other reasons; however, Tufte’s example shows that this can probably often be fixed by a simple rethinking of the arrangement, and, as he said, little details like these can really affect the overall presentation and quality of the visual.
