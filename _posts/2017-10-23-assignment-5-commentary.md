@@ -16,11 +16,11 @@ Various ideas,figure and ground, interaction effects, 1 + 1 = 3 or more, layerin
 Tufte started this chapter by praising the example of Swiss mountain map and illustrated the rules from the Eduard Imhof as the base for discussion. Contrast examples were used to demonstrate the bad results if these rules are violated. He also went through some technical terms of how colors are described in computational system. 
 
 As a trained architecture design student, we have always been really cautious about using colors, not only out of the concern about the visual hamony of differrent colors,but also out of fear of damaging data clearence. That's why I am interested in what Tufte's opinion and approch of dealing with colors. An example in this chapter that I found really interesting is Oliver Byrne's 1847 edition of Euclid's Geometry 
-The novel way of using colors to represent geometric objects gives the readers an intuitional graspe of what is happening, which makes the commonly tedious proving process easy and joyful.  
+The novel way of using colors to represent geometric objects gives the readers an intuitional graspe of what is happening, which makes the commonly tedious proving process easy and joyful.
 
- 
+Generally speaking, colors are more subtle and tricky compared to monochromatic lines and shapes because it's so closely related to human perception, and it contributes more easily to 1+1=3 effect.
 
-**The Chartjunk Debate**###
+### The Chartjunk Debate
 In this article, Few highlighted the long lasting debate on chartjunk between two camps of scholars--plain graph supporters represented by Tufte and visual embelishment embracers represented by Holmes--and tried to reconcile the opposing situation between the two sides by re-examining an existing research on the effect of visual embelishment on comprehension and memorability of charts.
 
 Few criticized on several shortcomings of the original research including the failure to differentiating various types of embelishment and insufficient samples. He stressed that the graphics used for testing in the research were too specifically tied to Holmes‘ style of well-designed embelishment, rendering the conclusion unconvincing. His arguments appears compelling to me, but he doesn't give more precise demonstrations neither about what constitutes global visual embelishment graphics in spite of a few examples.
