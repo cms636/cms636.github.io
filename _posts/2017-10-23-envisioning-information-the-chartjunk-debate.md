@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: Envisioning Information & The Chartjunk Debate
 ---
 ## Envisioning Information: Color and Information
