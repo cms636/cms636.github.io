@@ -12,4 +12,3 @@ One of the main topics in this chapter is the use of space, with the ‘creation
 This is ultimately the most important. What is the purpose and intent of the visual? What should be presented, and what should be emphasized? The design should be centered on these core questions, which, for example, would lead to the realization that borders, gridlines and other conventional graphical elements should assist and not obstruct the presentation of information. Design and form are not separate from function, rather, often shape or even dictate the quality of the product, and can disrupt the content when done poorly.
 
 p.s. How come we don’t use annotation studio anymore, is there a specific reason? Although improvements can be made to the interface and platform, I find it quite helpful. Thank you.
-
