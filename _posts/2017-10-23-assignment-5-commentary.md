@@ -7,6 +7,11 @@ author: Ao Li
 tags:
   - Digital_Humanities
 ---
+### Layering and Seperation
+In this chapter, Tufte introduced methods of using different colors, line weights, control of proportions to stress on significant information and filter ones that contributes nothing but distraction to the readers. For me these are good inputs because information charts,graphics and diagrams are inherently flat media, good designers should know how to add more dimensions to convey different levels of prominences.Unfortunately, most of the charts and tables we use today are designed in rigid formats that we are too used to but fails in improving readability.
+
+Here Tufte rethought about the conventionally positive thinking of 1+1=3 effect and regarded it as "a rare perfect failure" in reducing unnecessary noise and visual distraction.
+
 **The Chartjunk Debate**###
 In this article, Few highlighted the long lasting debate on chartjunk between two camps of scholars--plain graph supporters represented by Tufte and visual embelishment embracers represented by Holmes--and tried to reconcile the opposing situation between the two sides by re-examining an existing research on the effect of visual embelishment on comprehension and memorability of charts.
 
