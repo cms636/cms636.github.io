@@ -3,6 +3,7 @@ layout: post
 published: true
 category: commentary
 title: Envisioning Information & The Chartjunk Debate
+author: Parker Greene
 ---
 ## Envisioning Information: Color and Information
 
