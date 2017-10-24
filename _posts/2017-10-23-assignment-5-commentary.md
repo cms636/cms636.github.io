@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Assignment 5 Commentary
 author: Ao Li
