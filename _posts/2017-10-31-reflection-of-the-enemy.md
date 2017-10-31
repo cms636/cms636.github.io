@@ -2,7 +2,7 @@
 layout: post
 published: false
 category: commentary
-title: Reflection of The Enemy
+title: Reflection on "The Enemy"
 author: Ao Li
 ---
 This is the first time for me to experience a complete virtual reality exhibition. Some of the features shown during this experience did impress me, but at some points it was still far from a pleasant journey. Below are the pros and cons of the exhibition.
