@@ -7,7 +7,7 @@ author: Michelle Gelberger
 tags:
   - Augmented Space
 ---
-## Assignment 6 - Virtual Reality + Augmented Spaces (Transforming the Art Museum Experience: Gallery One, The Poetics of Augmented Space, and The Enemy VR Experience @ the MIT Museum) 
+**Assignment 6 - Virtual Reality + Augmented Spaces (Transforming the Art Museum Experience: Gallery One, The Poetics of Augmented Space, and The Enemy VR Experience @ the MIT Museum)**
 
 Karim Ben Khelifa’s “The Enemy’ VR experience aims to highlight the humanity of the people roped into fighting on opposing sides in 3 major world conflicts; by calling attention to the individuals involved in these violent conflicts, the exhibit aims to draw out a sense of empathy form the user experiencing the installation. The 3D path and white gallery space, a style mentioned in Manovich’s “The Poetics of Augmented Space,” presented a blank canvas and therefore an unbiased space for us museum-goers to experience the thoughts and perspectives of the combatants we were hearing from. 
 
