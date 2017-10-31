@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 category: commentary
 title: Augmented and Virtual Reality Readings
 author: Calvin Zhong
