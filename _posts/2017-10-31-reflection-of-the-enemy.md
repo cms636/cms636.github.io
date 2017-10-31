@@ -15,5 +15,11 @@ Cons(questions):
 2 Should the interview questions be exactly the same for each combatant?
 3 Although it's said that new technology to collect the bahavior of visitors in the backstage, what exact aspects of experience is customized except for the mere change of order and light and shadows on the ground. 
 ### The Poetics of Augmented Space
+After reading this article, it is a bit surprising to me that some space that we have commonly seen in daily life are actually forms of augmented space because I never thought in this way before. According to Manovich, the augmented space is never a purely technological term but an architectural one where the social and economical dimensions comes more important than the spatial form. He reinterpreted Michel Foucault’s metaphor of the Panopticon theory and argued that with the development of augmented space, the contemporary version of Panopticon should be an invisible surveillance network because every point of the aumented space can store information.
+This reminds me of one of the critics about the invasion of big data into people's privacy, where other people can easily know almost everything about you without really get in touch with you.
+
+Fortunately the reality of augmented space is not continuous but discrete, which is also pointed out by Manovich.This is an interesting fact that may add more dimension for designers to organizing spatial design, or using spatial design to control and filter information flowing in space.(reminds me of a visualization work by Luis Hernan, the visulization of wifi ) 
+![visualizing-wifi-signals-luis-hernan-4.jpg]({{site.baseurl}}/assets/visualizing-wifi-signals-luis-hernan-4.jpg)
+
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
