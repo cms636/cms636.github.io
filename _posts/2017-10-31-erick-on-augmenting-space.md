@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: Erick on Augmenting Space
+author: Erick Friis
+tags:
+  - Augmented Space
 ---
 ## The Poetics of Augmenting Space
 Manovich has a lot of ideas regarding augmented space, so I'll focus on two parts in this commentary: the listed ways of augmenting space and his comment that cultural institutions usually lag behind business, military, and consumer focused institutions when it comes to adopting new forms of technology and media.
@@ -18,6 +21,6 @@ Towards the end of the article, Manovich states that "In a high-tech society, cu
 While this is a completely valid desire, I highly question its feasibility for two main reasons. First, art galleries do a great job of connecting various ideas and thoughts in peoples' mind, and cutting-edge technology does the opposite: forcing its way into users' mental models of the world with newfound utility and aesthetic design. Before 2007, the form factor of an iPhone was meaningless to everyone, greatly prompting the "I can't use a device without a keyboard" debate of 2007 and 2008. Second, developing these technologies is expensive, and research funding is really hard to acquire unless you are building something for big-money industries like consumer products, enterprise products, or military applications. While we might get some more user-centric technologies out of cultural institutions, they would be developed and adopted much slower than their corporate counterparts, in my opinion.
 
 ## Transforming the Art Museum Experience: Gallery One
+My first reaction on this article is to the pictures. Gallery One __looks__ similar to an Apple store at first. Large glass panes and spread out interactive devices invite visitors into mini-narratives, creating an emotional connection between a digital medium and a human. In this commentary, I'll focus on one of the pieces that intrigued me more.
 
-
-## Overall Commentary
+The Collection Wall brings together many forms of art, and I would love to see how it trades off the needs of curious technologists and art enthusiasts alike. I know these aren't completely distinct groups of people, but I'll polarize these two labels for the sake of the commentary and assume the technologist would be much more interested in the interactive nature of the piece (being able to manipulate a 40-foot display would defnitely be fun), while the art enthusiast might not want to leave a particular piece of art until it has had a significant enough impact (or lack thereof) on their own thoughts. I particularly enjoyed the jukebox analogy since it makes the artwork seem much more alive, but it falls a bit short since its control seems to be much more distributed than a jukebox, since it is managed from a freely available app.
