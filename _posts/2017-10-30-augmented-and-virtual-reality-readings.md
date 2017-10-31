@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Augmented and Virtual Reality Readings
 author: Calvin Zhong
@@ -22,5 +22,3 @@ There were definitely a lot of **__Poetics__** with the addition of VR. It seeme
 Overall, I think this is just the very first great implementation of VR, and soon, it will be standard for everyone in the world. However, for now, it is still very eerie to see VR-zombies:
 
 ![Screen Shot 2017-10-31 at 5.27.24 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-10-31 at 5.27.24 PM.png)
-
-
