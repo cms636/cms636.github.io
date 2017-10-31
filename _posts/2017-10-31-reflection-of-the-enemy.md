@@ -23,5 +23,5 @@ Fortunately the reality of augmented space is not continuous but discrete, which
 ![visualizing-wifi-signals-luis-hernan-4.jpg]({{site.baseurl}}/assets/visualizing-wifi-signals-luis-hernan-4.jpg)
 
 ### Transforming the Art Museum Experience: Gallery One
-I think this is a successful example of combining digital technology with museum. What impressed me most is not the exact technology used here but the highly collaborative process during the development and implementation of the whole idea, also the comprehansive research about the behavior of the visitors.
+I think this is a successful example of combining digital technology with museum. What impressed me most is not the exact technology used here but the highly collaborative process during the development and implementation of the whole idea, also the comprehansive research about the behavior of the visitors. Great ways of involving general public into the exhibitions were shown here, but I was expecting more about how to integrate scholars with these interactive technologies which in my opinion a bit too entertaining.
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
