@@ -15,8 +15,8 @@ Alternatively: we found something very close to what we want to make that uses t
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
-![]({{site.baseurl}}/assets/Screen%20Shot%202017-10-31%20at%208.36.18%20PM.png)
+![Screen Shot 2017-10-31 at 8.36.18 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-10-31 at 8.36.18 PM.png)
 
-![]({{site.baseurl}}/https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiPnpuNkZzXAhVC9IMKHVk5CCYQjRwIBw&url=https%3A%2F%2Fcommunity.ald.softbankrobotics.com%2Fen%2Fnews%2Fmeet-aldebarans-staff-emotion-team&psig=AOvVaw1GtldmvSS1YcPGx_ryUY6R&ust=1509582895616309)
+![Screen Shot 2017-10-31 at 9.04.26 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-10-31 at 9.04.26 PM.png)
 
 ![23131465_1633394906681605_58524928_o.jpg]({{site.baseurl}}/assets/23131465_1633394906681605_58524928_o.jpg)
