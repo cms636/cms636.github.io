@@ -4,10 +4,9 @@ published: false
 category: updates
 title: 'Poetics of Augmented Space, Gallery 1, and The Enemy'
 ---
-## A New Post
+## Poetics of Augmented Space, Gallery 1, and The Enemy
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
 
 Spatial forms can provide people with experience by containing with rich and dynamic multimedia information. We augments the space by overlaying multimedia information onto the physical space. Some of the technologies that allow us to create augmented space is surveillance camera, mobile media, and electronic displays. For instance, surveillance camera extracts data from the space, whereas mobile media and electronic deliver processed data back into the space. 
 The main questions of the article include "What is the phenomological experience in a new augmented space? What can be the new cultural applications of new computer- and network-enabled
