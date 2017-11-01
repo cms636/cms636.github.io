@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: Poetics of Augmented Space and the Enemy Experience
 ---
 ## Poetics of Augmented Space and the Enemy Experience
