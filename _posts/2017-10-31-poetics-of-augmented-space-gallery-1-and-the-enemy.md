@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-category: updates
+category: commentary
 title: 'Poetics of Augmented Space, Gallery 1, and The Enemy'
 ---
 ## Poetics of Augmented Space, Gallery 1, and The Enemy
@@ -24,8 +24,3 @@ The author suggests that we think about these questions by approaching the desig
     Gallery One:
     Works on the large scale but questionable when it comes to small-scale museum,
     These new high-tech features can be distracting instead of informative. It might change the mission of the museum.
-    
-
-	
-
-
