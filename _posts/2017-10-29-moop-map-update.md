@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Moop Map Update
 author: 'Tho Tran, Kelly Huang, Alyssa Dayan, Habiba Noamany'
-tags: ''
 ---
 ## Visualization
 Start from http://msbarry.github.io/threejs-tool-page/scatterplot.html and modify to add interactivity and make more visually appealing.
