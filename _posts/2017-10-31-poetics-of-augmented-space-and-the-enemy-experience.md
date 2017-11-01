@@ -22,3 +22,7 @@ The author suggests that we think about these questions by approaching the desig
     Cons: 
     It took me a while to accept the virtual figures as a representation of the real humans. The experience definitely requires suspension of disbelief. After hearing this first person, it was less distracting to listen the other ones since I had fully accepted the characters as real people telling true stories by then.
 	The experience was not as interactive or immersing as expected. The audience basically listen to these virtual figures telling their stories. This kind of presentation can be done without the high-tech equipment. The content don't get transformed much through this kind of delivery. However, individuals may gain a new experience through the augmented space that would differ from face-time presentation.
+    
+    Gallery One:
+    Works on the large scale but questionable when it comes to small-scale museum,
+    These new high-tech features can be distracting instead of informative. It might change the mission of the museum.
