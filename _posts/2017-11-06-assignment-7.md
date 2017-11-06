@@ -17,7 +17,7 @@ I agree with Christina's insight of the changing role of curator and museum. Obj
 
 ### MACALIK et al--Introduction to the Special Issue: Discursive Space
 
-Although Christina didn't give concrete example of how curation should work according to her theory,we can get a hint from her discussion about decontextualization of object that she is looking for proper design and storytelling to restore the lost context. WHile Macalik et al propsed another approach where the role of curator is less dominant, they should curate to create implicit and ambiguity to sparkle debate and negotiation among visitors rather than giving a explicit  
+Although Christina didn't give concrete example of how curation should work according to her theory,we can get a hint from her discussion about decontextualization of object that she is looking for proper design and storytelling to restore the lost context. WHile Macalik et al propsed another approach where the role of a curator is less dominant, they should curate to create implicit and ambiguity to sparkle debate and negotiation among visitors rather than giving an explicit context and story.  
 
 
 
