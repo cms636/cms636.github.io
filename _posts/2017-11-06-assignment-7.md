@@ -14,5 +14,10 @@ This changing role of curator is only part of a bigger shifting in the whole mus
 
 I agree with Christina's insight of the changing role of curator and museum. Objects without any context are meaningless;Mere textual introductions of theme and metadata of the objects are far from enough to contextulize those objects and eventually too boring to raise visitors' interests, let alone trigger further debates.This is where new media and digital tools can set foot in, but only rely on the careful curation. 
 
+##Introduction to the Special Issue: Discursive Space
+
+
+
+
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
