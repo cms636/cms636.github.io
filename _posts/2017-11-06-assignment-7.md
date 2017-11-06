@@ -19,7 +19,9 @@ I agree with Christina's insight of the changing role of curator and museum. Obj
 
 Although Christina didn't give concrete example of how curation should work according to her theory,we can get a hint from her discussion about decontextualization of object that she is looking for proper design and storytelling to restore the lost context. The objects are used for stories, not that stories are used for objects. WHile Macalik et al propsed another approach where the role of a curator is less dominant, they should curate to create implicit and ambiguity to sparkle debate and negotiation among visitors rather than giving an explicit context and story. For me,Macalik's approach makes sense in terms of enpowering more freedom and democracy to the pubilc, in this way more objectivity and less dictates from the curator can be provided.
 
-### Example
+### Example--Berlin Jewish Museum
+
+Among all the museums I've visited, the Berlin Jewish Museum is the most extrordinary one. The objects in the museum are no more than ordinary photographs,drawings, maps, but the experience of the building space re-contextualize these objects so well. The building space and elements arre closely related to the historical and social aspects of German-Jewish history. It was interesting that the objects hadn't been moved into the building until several years later after the building was first opened to the public and made great success.Here the building itself serves as the grand object narrating the stories, the architect was at some point acting as a curator and proved that the traditional object centered museum space can be shifted towards an experience(visitor) centered fashion. 
 
 
 
