@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: updates
-title: 'Asst 7: Digital Curation Project'
+title: 'Asst 6: Digital Curation Project'
 author: 'Maya Madhavan, Kelly Huang'
 ---
 The first thing that we did for this project was take a look at the types of photos and their different components in the dropbox file. There were a few different categories and patterns that we could see, from the date of the picture to the type and subject. Once we sorted the files into broad groupings, we looked into the history of Le Marais to get a sense of what the area was like and what types of people it attracted over time. This is because we initially wanted our exhibition to be educational, so we needed to factor in the sociocultural context of the pieces themselves and determine who would be interested in the area.
