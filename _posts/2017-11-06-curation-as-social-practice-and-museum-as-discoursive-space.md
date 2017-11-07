@@ -13,7 +13,7 @@ In the second reading by Macalik, there is also an introduction of the museum vi
 
 [Ai Weiwei: The Perfect Asian Artist for Lazy Western Curators](https://www.spectator.co.uk/2015/08/ai-weiwei-the-perfect-asian-artist-for-lazy-western-curators/)
 
-![]({{site.baseurl}}/https://spectator.imgix.net/content/uploads/2015/08/weiweiSUM3_1927406b.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=620&h=388)
+![]({{site.baseurl}}/https://spectator.imgix.net/content/uploads/2015/08/weiweiSUM3_1927406b.jpg)
 
 _"Mysteriously, the Chinese authorities failed to bow to pressure from the staff of MoMA, Norman Rosenthal and the Serpentine Gallery team dancing in the style of a jaunty horse-rider. "_
 
