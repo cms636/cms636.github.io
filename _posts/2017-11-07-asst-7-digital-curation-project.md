@@ -11,6 +11,6 @@ What we learned was that Le Marais is a neighborhood whose identity has changed 
 
 We settled on photos that displayed public spaces in the area, with our rough title being “The Evolution of Public Spaces in Le Marais, Paris.” As we sorted through the photos, we realized that this was too broad and narrowed down our topic to areas where people tended to congregate, e.g. public squares. Our goals for this exhibition are broad; ideally, visitors would get a sense of where the communities that were prevalent in the area gathered and what they saw in those spaces, and be able to draw their own conclusions about the relationships between the two. We think more historical background and context, plus a better layout, would need to be included to make this more useful for public audiences. 
 
-We had some trouble getting the csv to match up with the data when creating the site.
+We had quite a bit of trouble with Omeka and generally agree with all the other posts impression of it- the site isn't user friendly at all; we had to individually upload images and couldn't get the csv to match up with the data.
 
 http://evolutionpublicspacemarais.omeka.net/items/browse?collection=1
