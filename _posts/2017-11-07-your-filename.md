@@ -1,9 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
-title: Mini Project----Marais Museum
-author: 'Mia Guo, Ao Li'
+title: Mini Project
 ---
 Here's the link to the Collection
 [http://1119.omeka.net/collections/browse](http://1119.omeka.net/collections/browse)
