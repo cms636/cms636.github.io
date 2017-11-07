@@ -1,8 +1,9 @@
 ---
 layout: post
-published: true
+published: false
 category: updates
 title: Mini Project
+author: 'Mia Guo, Ao Li'
 ---
 Here's the link to the Collection
 [http://1119.omeka.net/collections/browse](http://1119.omeka.net/collections/browse)
