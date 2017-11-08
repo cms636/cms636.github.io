@@ -9,10 +9,8 @@ tags: ''
 [https://goo.gl/AbYpeh](https://goo.gl/AbYpeh)
 
 **Static Prototypes**
-![]({{site.baseurl}}/assets/Screen%20Shot%202017-11-07%20at%207.23.48%20PM.png)
-![Screen Shot 2017-11-07 at 7.23.48 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-11-07 at 7.23.48 PM.png)
-![Screen Shot 2017-11-07 at 7.24.44 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-11-07 at 7.24.44 PM.png)
-![Screen Shot 2017-11-07 at 7.24.09 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-11-07 at 7.24.09 PM.png)
+![]({{site.baseurl}}/assets/BostonUnderWaterPrototype.png)![BostonUnderWaterPrototype.png]
+
 
 **Data:**
 -[https://data.boston.gov/group/geospatial](https://data.boston.gov/group/geospatial)
