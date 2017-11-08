@@ -17,3 +17,6 @@ Since the annotations were not particularly good, I ended up going through the c
 
 ## Story and Findings
 Although they arose at different times throughout history, war and entertainment often mimicked each other, and both procedures informed each other. In particular, these pieces of art show art as a symbol of status--representing wealth and power, and war as a reality for the masses. The particularly interesting pieces show the two integrated with each other: War heroes' glory exaggerated by musicians, and musicians accompanying processions. In this online exhibit, I particularly find myself wondering how the two concepts relate in my life, where the tables have turned: entertainment belongs to everyone, and war is a more distanced concept.
+
+## Omeka Sites
+[Music, Entertainment, and War](http://cmswater.omeka.net/items/browse?collection=1)
