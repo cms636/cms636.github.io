@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Boston Under Water - 11/7 Update
-author: Boston Under Water
-tags: ''
+author: Boston Under Water Group
 ---
 [https://goo.gl/AbYpeh](https://goo.gl/AbYpeh)
 
