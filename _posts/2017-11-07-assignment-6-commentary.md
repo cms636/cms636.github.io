@@ -1,0 +1,13 @@
+---
+layout: post
+published: true
+category: commentary
+title: Assignment 6 Commentary
+author: Alyssa Dayan
+---
+## A New Post
+Christina Kreps' Curatorship as Social Practice and Jana Macalik's The Museum as Discursive Space touch on similar ideas that I really agree with. The Museum as Discursive Space argues that people who go to museums should not be seen as visitors or guests, because this implies a power dynamic where the audience is passive and the museum is in control. Curatorship as Social Practice discusses the trend in which museums are less about objects and more about experiences. In this way, museums are moving towards providing an experience which people actively engage with rather than a static collection for people to look at in the way prescribed by the curators, with little freedom to draw their own conclusions. 
+
+I definitely feel that when one goes to a museum it's rarely for a specific object but for an experience, and it reminded me of the reading on Gallery One - the gallery staff found that people rarely moved through the exhibit in the way the curators intended, but rather browsed around examining the things that caught their eye- in doing this they were crafting their own experience. I have really enjoyed museums with a more active approach to exhibitions, for instance the Launch Pad in the London Science Museum. This is the most popular section of the museum, and is filled with encapsulated science experiments and demonstrations, most of which people can participate in. Blocks which when put together form bridges, special mirrors which one can stand between to become part of optical illusions, and parabolic dishes which transmit whispers across the room are some examples. Nothing brings the science to life quite like the opportunity to take part in it and experience it first hand. The power is placed almost entirely in the hands of the visitors, with very minimal instruction and guidance from a few staff and explanatory plaques. 
+
+I believe that museums should move towards active experiences and away from collections. The ubiquity of collections is an outdated relic of the pre-internet era. If people want to see something, they can now look at photographs and videos online and get practically as good an idea of it as if they were looking at it through a glass display cabinet. The true value of a museum is provided by the tangible, immersive experience that it can provide, and I am excited to see this becoming an increasingly large part of museums worldwide. 
