@@ -5,11 +5,12 @@ category: updates
 title: Boston Under Water - 11/7 Update
 author: Boston Under Water Group
 ---
-[https://goo.gl/AbYpeh](https://goo.gl/AbYpeh)
 
 **Static Prototypes**
 ![]({{site.baseurl}}/assets/BostonUnderWaterPrototype.png)![BostonUnderWaterPrototype.png]
 
+**More Dynamic Prototype**
+[https://goo.gl/AbYpeh](https://goo.gl/AbYpeh)
 
 **Data:**
 
