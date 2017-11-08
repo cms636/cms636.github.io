@@ -13,4 +13,4 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 http://cmsdigitalcuration.omeka.net/
 
-We focus on the women of Mairas during this period of time by selecting photos that portray Mairas women. Through these photos, we only get snapshots of their lives and attempt to piece them the puzzle pieces together to understand the whole picture of their stories. We see their daily activities, their status, and their roles in the society. 
+We focus on the women of Mairas during this period of time by selecting photos that portray Mairas women. Through these photos, we only get snapshots of their lives and attempt to piece them the puzzle pieces together to understand the whole picture of their stories. We see their daily activities, their status, and their roles in the society. We get a sense that these women's identities were tied/limited to home and family.
