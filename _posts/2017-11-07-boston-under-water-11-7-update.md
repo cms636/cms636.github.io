@@ -9,7 +9,7 @@ tags: ''
 [https://goo.gl/AbYpeh](https://goo.gl/AbYpeh)
 
 **Static Prototypes**
-({{site.baseurl}}/assets/BostonUnderWaterPrototype.png)
+![BostonUnderWaterPrototype.png]({{site.baseurl}}/assets/BostonUnderWaterPrototype.png)
 
 **Data:**
 
