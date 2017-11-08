@@ -7,7 +7,7 @@ author: Boston Under Water Group
 ---
 
 **Static Prototypes**
-![]({{site.baseurl}}/assets/BostonUnderWaterPrototype.png)![BostonUnderWaterPrototype.png]
+![]({{site.baseurl}}/assets/BostonUnderWaterPrototype.png)
 
 **More Dynamic Prototype**
 [https://goo.gl/AbYpeh](https://goo.gl/AbYpeh)
