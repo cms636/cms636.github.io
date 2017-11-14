@@ -9,7 +9,7 @@ author: 'Michelle, Calvin, Erick'
 
 [Folk Devils and Moral Panics: The Creation of the Mods and Rockers - JSTOR TopicGraph](https://labs.jstor.org/topicgraph/monograph/d721546f5e5bb43be46d0bfe5b4034ab)
 
-Our group tried tried out JSTOR Labs’ “TopicGraph” Beta Version, which aims to help you “understand at a glance the topics covered in a book, then jump straight to pages about topics you’re researching.”
+Our group tried out JSTOR Labs’ “TopicGraph” Beta Version, which aims to help you “understand at a glance the topics covered in a book, then jump straight to pages about topics you’re researching.”
 
 TopicGraph either provides a range of books from a multitude of academic disciplines for users to choose from, or allows users to upload a PDF of a document already in their possession.  We uploaded a book by Stanley Cohen written in the 1960s, titled “Folk Devils and Moral Panics: The Creation of the Mods and Rockers.” For context, this book seeks to explain the vilifying stereotyping of certain groups of people. It highlights the phenomena of moral panics and how the media creates scapegoats out of these people, the folk devils, to shift the blame on them for crimes and social upheavals. 
 
