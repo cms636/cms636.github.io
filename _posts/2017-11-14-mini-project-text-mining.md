@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Mini project-text mining
 author: 'Ao Li, Mia Ming Guo'
