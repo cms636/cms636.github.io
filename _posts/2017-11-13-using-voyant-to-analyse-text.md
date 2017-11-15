@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Using Voyant to Analyse Text
 author: 'Alyssa Dayan, Tho Tran, Kelly Huang, Habiba Noamy'
