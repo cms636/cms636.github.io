@@ -4,7 +4,6 @@ published: true
 category: commentary
 title: Assignment 8 Reading & Project
 author: Sarah Aladetan
-tags: ''
 ---
 **Binder -  “Alien Reading: Text Mining, Language Standardization, and the Humanities”**
 
@@ -13,3 +12,7 @@ I thought this reading was a very necessary examination of the text mining and o
 **Mini Project: Text Mining & NLP**
 
 For this mini project, I decided to use Voyant to analyze the text I chose, mostly because it seemed more complex than the other tool I was exploring, Topic Graph. The text I chose to analyze was _Mozart: The Man and the Artist, as Revealed in his own Words_, by Friedrich Kerst (translated by Henry Edward Krehbiel), obtained off of Project Gutenberg. When I was pulling the document from the site, I was wondering if I should remove the project gutenberg text before the actual book text, but decided against it. After doing my initial analysis however, I decided to go and remove the project gutenberg text, as well as the urls that would continue to appear throughout the rest of the document. This turned out to be a smart move, as it gave me much more accurate results. Voyant revealed that the document had 32,688 total words and 4,714 unique word forms. It also revealed that the most frequently used words in the corpus were “father, mozart, vienna, music, and opera”. This makes sense, and also displayed in the word cloud that Voyant generates. I think this definitely gives a basic understanding of what the text is about, which is Mozart, his life, and his music. However, I think this information could have just as easily been understood from just reading the title. I guess the frequent words list reveals more that Mozart is specifically a musician who lived in Vienna. It also revealed that Mozart talks a lot about his father, which was unexpected. The trends graph was also very revealing, as it showed various trends of the main themes throughout the document. For example, the obvious trend of mozart stayed rather consistent throughout the entire document, but opera is heavily discussed in the first third of the book. His discussion of vienna and his father continuously dip and rise in an upward motion through the novel. Because this is a musical-themed text, I think it would be very interesting to develop a specific machine learning technique for scraping the musical themes and definitions Mozart uses, and extract his “musical intuition” and inspirations from the text. This technique could be translated to other musical texts as well.
+
+![Screenshot from 2017-11-14 13-01-20.png]({{site.baseurl}}/assets/Screenshot from 2017-11-14 13-01-20.png)
+![Screenshot from 2017-11-14 13-01-43.png]({{site.baseurl}}/assets/Screenshot from 2017-11-14 13-01-43.png)
+
