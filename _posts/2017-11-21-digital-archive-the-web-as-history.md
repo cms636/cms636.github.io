@@ -2,7 +2,7 @@
 layout: post
 published: false
 category: commentary
-title: Digital Archive----The Web as History
+title: 'Ralph and Niels, The Web as History'
 author: Ao Li
 ---
 According to Ralph and Niels, although web as a new form of media embedding gigantic sources of knowledge and information, it remains almost untapped source for research even in the academic realm, researches on how exactly people are engaged with the web and the information it contains has yet not being fully studied. This book aims to make a start in this direction.
