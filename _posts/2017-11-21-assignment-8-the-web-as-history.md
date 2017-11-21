@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: commentary
+category: updates
 title: 'Assignment 8: The Web as History'
 author: Tho Tran
 ---
