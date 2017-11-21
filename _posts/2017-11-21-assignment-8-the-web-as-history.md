@@ -1,13 +1,12 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: 'Assignment 8: The Web as History'
 author: Tho Tran
 ---
 ## The Web as History
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 ##This article mainly discusses the role of the web in society and the dynamics between the web archives and the reasearchers. The extent of the impact of the web is very large and on global level. The examples in the text, including China,the 2014 shooting down of a passenger plane over the Ukraine during the war between Russians and Ukrainians,and UK Conservative Party reminds me of the phenomenon fake news during the last U.S. presidential election. I would argue that the web plays an important role in the spread and virality of fake news. The ability to share information globally on the web shifts the dynamics of information and readers. Not only you get the source of the information, now you know who share that information. The significance of the news can change dramatically if an important figure shares such a news globally.
 
