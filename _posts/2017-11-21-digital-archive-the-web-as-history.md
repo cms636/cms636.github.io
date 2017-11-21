@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: 'Ralph and Niels, The Web as History'
 author: Ao Li
