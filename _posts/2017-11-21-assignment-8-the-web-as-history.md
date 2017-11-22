@@ -4,6 +4,8 @@ published: true
 category: commentary
 title: 'Assignment 8: The Web as History'
 author: Tho Tran
+tags:
+  - Digital_Humanities
 ---
 ## The Web as History
 
