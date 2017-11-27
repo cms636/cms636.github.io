@@ -35,7 +35,10 @@ The initial idea of the project was just to show a series of historical versions
 ## Second Sketch
 
 In the second sketch, we narrowed our idea down to table decoration and decided to develop the project into a game which we believe can better raise children's interests. 
-The current biggest challange of the project is basically about matching object with particular era., We really want children to actively analyse the characteristics of different objects from different eras before they pick up the objects rather than learn passively by a series of trial and error. The memory formed in the former process is more durable.   
+
+The current biggest challange of the project is basically about matching object with particular era., We really want children to actively analyse the characteristics of different objects from different eras before they pick up the objects rather than learn passively by a series of trial and error. The memory formed in the former process is more durable. In this sense, we need to provide some hints for the children to help them making the right choice. 
+
+**Wireframe**
 
 
 **AR application**
