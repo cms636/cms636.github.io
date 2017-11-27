@@ -6,8 +6,9 @@ title: Everyday Objects - Project Update
 author: 'Parker, Hiya, Mia, Ao'
 ---
 ## Project Background
-Children are born into history. They have no memory of it, yet they find themselves in the middle of a story that began before they became one of its characters. Children also want to have a place in history. However, given the limited ability of their reading ability and cognitive development, engaging children with history is not an easy task.
-Nonetheless, there's one thing children enthusiastic about and probably do better than we expected them to be----playing games, which provides a good opportunity to involve children into a learning process at the same time having a lot of fun.
+Children are born into history. They have no memory of it, yet they find themselves in the middle of a story that began before they became one of its characters. Children also want to have a place in history. However, given the limited ability of their reading ability and cognitive development, engaging children with history is not an easy task.Nonetheless, there's one thing children enthusiastic about and probably do better than we expected them to be----playing games, which provides a good opportunity to involve children into a learning process at the same time having a lot of fun.
+
+This project aims right at addressing the question of how we can effectively engage childrren with historical learning using an educational game, the target audience of which are pre-school children to prepare them with a preliminary sense of history before they receive proper historical education at school.   
 
 ### AR application
 
