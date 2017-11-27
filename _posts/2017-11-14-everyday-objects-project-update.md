@@ -27,9 +27,9 @@ The initial idea of the project was just to show a series of historical versions
 
 ![Screen Shot 2017-11-13 at 1.46.41 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-11-13 at 1.46.41 PM.png)
 
-
 **Wireframe**
-![_20171127162304.jpg]({{site.baseurl}}/assets/_20171127162304.jpg)
+![wireframe.jpg]({{site.baseurl}}/assets/wireframe.jpg)
+
 
 
 
