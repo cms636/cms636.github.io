@@ -3,6 +3,7 @@ layout: post
 published: false
 category: updates
 title: Digital and the Memory
+author: Erick Friis
 ---
 ## Commentary
 
