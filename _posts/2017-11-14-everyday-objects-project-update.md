@@ -29,7 +29,8 @@ The initial idea of the project was just to show a series of historical versions
 
 
 **Wireframe**
-![微信图片_20171127162304.jpg]({{site.baseurl}}/assets/微信图片_20171127162304.jpg)
+![_20171127162304.jpg]({{site.baseurl}}/assets/_20171127162304.jpg)
+
 
 
 ## Second Sketch
