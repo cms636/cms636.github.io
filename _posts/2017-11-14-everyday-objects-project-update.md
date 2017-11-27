@@ -14,15 +14,26 @@ The aspect of history covered in the game is about the evolution of everyday tab
 
 ## First Sketch
 The initial idea of the project was just to show a series of historical versions of an object for children to compare, the objects were categorized according to the place where they usually belong to, such as living room, bedroom and street.The idea of game didn't really come into play, the entire projects acts more like an demonstration APP.  
+
 **Flow Diagram**
 
 **User Interface Design**
+
 ![Screen Shot 2017-11-13 at 1.46.24 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-11-13 at 1.46.24 PM.png)
+
+
 ![Screen Shot 2017-11-13 at 1.46.35 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-11-13 at 1.46.35 PM.png)
+
+
 ![Screen Shot 2017-11-13 at 1.46.41 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-11-13 at 1.46.41 PM.png)
+
+
 **Wireframe**
 ![微信图片_20171127162304.jpg]({{site.baseurl}}/assets/微信图片_20171127162304.jpg)
+
+
 ## Second Sketch
+
 In the second sketch, we narrowed our idea down to table 
 
 
