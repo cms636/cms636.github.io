@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: Digital and the Memory
+title: Digital Memory and the Archive
 author: Erick Friis
 ---
 The excerpted parts of Wolfgang Ernst's book provided a perspective on archive that greatly focused on technology rather than archiving itself. I found his writing rather confusing, and I struggled to see where he was going with his distinctions between storage, transfer, memory components, etc.
