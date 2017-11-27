@@ -14,7 +14,7 @@ The aspect of history covered in the game is about the evolution of everyday tab
 ## First Sketch
 Flow Diagram
 
-User Interface Design
+**User Interface Design**
 ![Screen Shot 2017-11-13 at 1.46.24 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-11-13 at 1.46.24 PM.png)
 ![Screen Shot 2017-11-13 at 1.46.35 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-11-13 at 1.46.35 PM.png)
 ![Screen Shot 2017-11-13 at 1.46.41 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-11-13 at 1.46.41 PM.png)
