@@ -12,21 +12,18 @@ This project aims right at addressing the question of how we can effectively eng
 
 The aspect of history covered in the game is about the evolution of everyday table objects encountered by children in their daily life. By decorating tables from different time period(eg.Roman Emoire era, Medieval era, Industrial Revolution era etc.). Augmented reality technollogy will be employed in this learning process. Children can scan any horizontal surface to place the 3D historical model of those objects, they will be asked to pickup correct objects corresponding to the era they are in from a given library of objects provided by the game system, once they place all the correct objects on the table, they will unlock next level and proceed with the game.In this process, children will realise that things around them actually don't always stay immutable as they are when they were born but in constant envolution in history, thus forming a sense of temporality in everything around them.
 ## First Sketch
-Flow Diagram
+**Flow Diagram**
 
 **User Interface Design**
 ![Screen Shot 2017-11-13 at 1.46.24 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-11-13 at 1.46.24 PM.png)
 ![Screen Shot 2017-11-13 at 1.46.35 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-11-13 at 1.46.35 PM.png)
 ![Screen Shot 2017-11-13 at 1.46.41 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-11-13 at 1.46.41 PM.png)
-Wireframe
+**Wireframe**
 ![微信图片_20171127162304.jpg]({{site.baseurl}}/assets/微信图片_20171127162304.jpg)
+## Second Sketch
 
 
-
-
-
-### AR application
-
+**AR application**
 ![Screen Shot 2017-11-14 at 4.38.56 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-11-14 at 4.38.56 PM.png)
 ![IMG_0485.PNG]({{site.baseurl}}/assets/IMG_0485.PNG)
 ![IMG_0488.PNG]({{site.baseurl}}/assets/IMG_0488.PNG)
