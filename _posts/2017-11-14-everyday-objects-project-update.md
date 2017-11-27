@@ -11,7 +11,9 @@ Children are born into history. They have no memory of it, yet they find themsel
 This project aims right at addressing the question of how we can effectively engage children with historical learning using an educational game, the target audience of which are pre-school children. This game can prepare them with a preliminary sense of history before they receive proper historical education at school.
 
 The aspect of history covered in the game is about the evolution of everyday table objects encountered by children in their daily life. By decorating tables from different time period(eg.Roman Emoire era, Medieval era, Industrial Revolution era etc.). Augmented reality technollogy will be employed in this learning process. Children can scan any horizontal surface to place the 3D historical model of those objects, they will be asked to pickup correct objects corresponding to the era they are in from a given library of objects provided by the game system, once they place all the correct objects on the table, they will unlock next level and proceed with the game.In this process, children will realise that things around them actually don't always stay immutable as they are when they were born but in constant envolution in history, thus forming a sense of temporality in everything around them.
+
 ## First Sketch
+The initial idea of the project was just to show a series of historical versions of an object for children to compare, the objects were categorized according to the place where they usually belong to, such as living room, bedroom and street.The idea of game didn't really come into play, the entire projects acts more like an demonstration APP.  
 **Flow Diagram**
 
 **User Interface Design**
@@ -21,6 +23,7 @@ The aspect of history covered in the game is about the evolution of everyday tab
 **Wireframe**
 ![微信图片_20171127162304.jpg]({{site.baseurl}}/assets/微信图片_20171127162304.jpg)
 ## Second Sketch
+In the second sketch, we narrowed our idea down to table 
 
 
 **AR application**
