@@ -5,6 +5,8 @@ category: updates
 title: Everyday Objects - Project Update
 author: 'Parker, Hiya, Mia, Ao'
 ---
+###
+Children are born into history. They have no memory of it, yet they find themselves in the middle of a story that began before they became one of its characters. Children also want to have a place in history. However, given the limited ability of their reading ability and cognitive development, engaging children with history is not an easy task.
 ### AR application
 
 ![Screen Shot 2017-11-14 at 4.38.56 PM.png]({{site.baseurl}}/assets/Screen Shot 2017-11-14 at 4.38.56 PM.png)
@@ -12,5 +14,3 @@ author: 'Parker, Hiya, Mia, Ao'
 ![IMG_0488.PNG]({{site.baseurl}}/assets/IMG_0488.PNG)
 ![IMG_0489.PNG]({{site.baseurl}}/assets/IMG_0489.PNG)
 ![IMG_0486.PNG]({{site.baseurl}}/assets/IMG_0486.PNG)
-
-
