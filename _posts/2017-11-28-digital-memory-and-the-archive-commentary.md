@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: Digital Memory and the Archive Commentary
 author: Maya Madhavan
 ---
