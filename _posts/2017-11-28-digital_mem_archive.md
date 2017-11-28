@@ -9,7 +9,6 @@ tags:
 ---
 ## Assignment 10
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 #Temporality and the Multimedia Archive
 According to Ernest, temporal ontology offers a way to understand how all computer-based, calculational media are temporal or wordly, and this forces us to rethink the spatial emphasis of older regimes of memory. He also emphasized the temporality to the multimedial archive. If computer-based, calculational media is more worldly than the older version of media, then it should be more prevalent, multicultural, and more inclusive. The multimedial archive is wordly in the sense that many people can access this storage and its vast amount of knowledge for free (or almost for free). However, I wonder if that is true. Those in charge in the technology and possess the mathematical knowledge definitely have more influence in the platform of multimedia and its archive. Their influence is subtle and often not visible to the layman.
 
