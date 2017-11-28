@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: 'Assignment 10:  Digital Memory and the Archive '
+author: Tho Tran
+tags:
+  - Participatory Culture
 ---
 ## Assignment 10
 
