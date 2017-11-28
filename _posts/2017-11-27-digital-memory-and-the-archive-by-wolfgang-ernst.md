@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Digital Memory and the Archive by Wolfgang Ernst
 author: Ao Li
