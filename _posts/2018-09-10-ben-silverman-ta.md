@@ -1,10 +1,8 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: people
 title: Ben Silverman (TA)
-author: ''
-tags: ''
 ---
 
 ![Ben_Silverman.jpg](/assets/Ben_Silverman.jpg) 
