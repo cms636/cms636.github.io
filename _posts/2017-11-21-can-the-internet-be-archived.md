@@ -1,9 +1,0 @@
----
-layout: post
-published: true
-category: commentary
-title: Can the Internet be Archived?
-author: Alyssa Dayan
----
-## Commentary
-This article really spoke to me because I had just been thinking about the issue of link rot last weekend, as I wrote a term paper and added citations. The internet is amazing in that I can read one paper and then, for more details, I can google search any paper it cites and pull up a copy to read (unless there is a paywall). I made notes of the URLs at which I had found each paper I referenced so that, if I were to read my own paper again years in the future, I could bring up all of my sources. However as I did this I became worried - how do I know those links will still point to the same documents that they do now? The internet gives people the impression that they can have access to any information at any time, so we get lazy about properly storing hard copies of things. But this is dangerous, because this impression is just an illusion and pages are constantly being deleted and changed. I thought it was interesting that the article brought up how changing a page can be even worse than deleting it- with no version history, you may have no idea that it had actually changed since you last looked at it. I'm very glad to hear about the internet archiving projects that the article describes, but it seems that these projects have a long way to go in terms of usability and searchability. In this age, most of the world is excited of creating new things, "trying to get it to go" as Tim Berners-Lee says, but especially in the era of "fake news" it is high time more people focused on the issue of preserving knowledge.
