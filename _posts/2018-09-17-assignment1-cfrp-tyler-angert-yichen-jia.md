@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: 'Assignment1: CFRP - Tyler Angert, Yichen Jia'
-author: ''
-tags: ''
+author: 'Tyler Angert, Yichen Jia'
 ---
 Presentation:
 [CFRP Presentation](https://docs.google.com/presentation/d/11f8RestYXN7OCUwZOLnjimDwbmdwR9prE5ShLQmIvzY/edit?usp=sharing)
