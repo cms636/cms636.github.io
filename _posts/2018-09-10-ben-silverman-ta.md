@@ -4,6 +4,7 @@ published: true
 category: people
 title: Ben Silverman (TA)
 author: Ben Silverman
+display-rank: 2
 ---
 
 ![Ben_Silverman.jpg](/assets/Ben_Silverman.jpg) 
