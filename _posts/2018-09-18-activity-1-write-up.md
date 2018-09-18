@@ -5,9 +5,7 @@ category: updates
 title: Activity 1 Write-Up
 author: 'Amy Shim, Peri Green, Abnell Comas'
 ---
-## Activity 1 Write-Up
-
-### Amy Shim, Peri Green, Abnell Comas
+##### Amy Shim, Peri Green, Abnell Comas
 
 We were given four facsimiles of register pages from the Comédie-Française in Paris, a theater troupe commisioned by King Louis XIV in the late 17th century that is still active today. The pages revealed a number of interesting records from the time -- like the price of coal, costumes, and food at the time --  but we chose to focus on the more prominent notes on the ledgers: the types of tickets sold, the quantity, and the prices based on seating type. We expanded our thinking to outside of the four register pages we were given. What if we had been handed a hundred pages? A thousand? 
 
@@ -17,10 +15,4 @@ While natural language processing tools continue to make strides, we believe tha
 
 The tools we plan to build and use are data visualizations, so that the audience --  historians and people interested in French income disparities -- can easily identify and grasp trends without sifting through hundreds of pages of registers. We hope to address research questions about average income gaps in the French economy, particularly in the contentious years leading to the French Revolution.
 
-[Slides] (https://docs.google.com/presentation/d/1anvKKec_ThjwZSo3tXqYgV3Kna9hthOj3A-XQkDghTs/edit?usp=sharing)
-
-![Slide1.JPG]({{site.baseurl}}/assets/Slide1.JPG)
-
-![Slide2.JPG]({{site.baseurl}}/assets/Slide2.JPG)
-
-![Slide3.JPG]({{site.baseurl}}/assets/Slide3.JPG)
+[Slides](https://docs.google.com/presentation/d/1anvKKec_ThjwZSo3tXqYgV3Kna9hthOj3A-XQkDghTs/edit?usp=sharing "Slides")
