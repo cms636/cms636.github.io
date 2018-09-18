@@ -3,6 +3,7 @@ layout: post
 published: true
 category: updates
 title: Activity 1 Write-Up
+author: 'Amy Shim, Peri Green, Abnell Comas'
 ---
 ## Activity 1 Write-Up
 
