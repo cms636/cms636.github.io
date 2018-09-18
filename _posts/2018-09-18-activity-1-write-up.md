@@ -1,10 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Activity 1 Write-Up
-author: ''
-tags: ''
 ---
 ## Activity 1 Write-Up
 
@@ -25,4 +23,3 @@ The tools we plan to build and use are data visualizations, so that the audience
 ![Slide2.JPG]({{site.baseurl}}/assets/Slide2.JPG)
 
 ![Slide3.JPG]({{site.baseurl}}/assets/Slide3.JPG)
-
