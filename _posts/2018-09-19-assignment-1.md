@@ -1,12 +1,10 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: 'Assignment 1 '
 author: 'Cindy Liu, Carla Saad'
-tags: ''
 ---
-## A New Post
 
 [Presentation](https://docs.google.com/presentation/d/1FBf-5_LKxZB9JUgpNadwdxO0MkVr2Z_wX4c90qKx_uk/edit?usp=sharing) 
 
