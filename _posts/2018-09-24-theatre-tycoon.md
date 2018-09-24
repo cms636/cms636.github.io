@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Theatre Tycoon
-author: ''
-tags: ''
+author: 'Caspar, Priya, Zidane'
 ---
 Theater Tycoon
 ------------
