@@ -21,13 +21,16 @@ We created Jupyter notebook to analyze everything step by step and converted the
 
 Eventually, our data took this form:
 
-[ Play name, Premières Places, Secondes Places, Troisièmes Places, Places de Parterre ]
+`[Play name,Premières Places,Secondes Places,Troisièmes Places,Places de Parterre ]`
 
 Where each seating category had the total ticket sales for the most popular play that month.
 
 ### 3D Modeling Updates
 
 We also redesigned our 3D model to the actual theater from the data. However, beacuse the _Odeon Theatre_ had each of its seating areas stacked vertically, we couldn't use our traditional "bar graph" method of visualization because the actual 3D bars would intersect each other. So, we made the theater "expandable" to allow each of the seating areas to grow and shrink according to the ticket sales without overlapping with each other.
+
+![]({{site.baseurl}}/assets/aggregated.gif)![aggregated.gif]({{site.baseurl}}/assets/aggregated.gif)
+
 
 #### Implementation
 
