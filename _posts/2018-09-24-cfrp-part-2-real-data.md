@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: 'CFRP Part 2: Real Data'
 author: 'Tyler Angert, Yichen Jia'
-tags: ''
 ---
 ## Gathering data
 
@@ -13,7 +12,7 @@ First, we downloaded our data from the endpoint `http://api.cfregisters.org/play
 ## Visualization updates 
 
 ### Missing data
-One of the first problems we realized was that we couldn't show the data of each play throughout the year. Some plays were only shown one or two months out of the year and the theaters weren't showing anything at all during some parts of the year. For example, in 1779, there are only sales data from December to July, leaving everything from September to November blank. In 1780, there was only sales data from January to March.
+One of the first problems we realized was that we couldn't show the data of each play throughout the year. Some plays were only shown for one or two months and the theaters didn't show anything at all during some parts of the year. For example, in 1779, there are only sales data from December to July, leaving everything from September to November blank. In 1780, there was only sales data from January to March.
 
 So instead of having our visualization show the **sales data for one play** through the year, we decided to take the total ticket sales from the **most popular play** each month.
 
@@ -36,5 +35,5 @@ In order to make the data interactive, we used the visual programming language _
 
 ## Implications
 
-From a storytelling perspective, this approach to visualizing the data is also more historically telling than just showing the data of one play over the year. By visualizing the most popular play each month, we get a very clear image of what people wanted overall and how that influenced the theater's business.
+From a storytelling perspective, this approach to visualizing the data is more historically representative than just showing the data of one play over the year. By visualizing the most popular play each month, we get a clearer image of what theater-goers wanted to watch overall and how that influenced the theater's business.
 
