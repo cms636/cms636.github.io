@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
-title: ''
+title: Untitled
 author: 'Cindy Liu, Carla Saad'
 ---
 Try to implement the core idea of your project design with actual data. On our
