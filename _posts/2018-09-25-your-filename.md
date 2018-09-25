@@ -2,8 +2,9 @@
 layout: post
 published: true
 category: updates
-title: Untitled
+title: Visualizing Ticket Sales by Seating Section Over Time
 author: 'Cindy Liu, Carla Saad'
+tags: ''
 ---
 Try to implement the core idea of your project design with actual data. On our
 GitHub site under “project updates”, describe the approach that you have taken,
