@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: 'Visualizing Ticket Sales By Seating Section, Over Time'
 author: 'Cindy Liu, Carla Saad'
@@ -17,5 +17,4 @@ With no programming experience, we used the approach of working directly with .c
 ![Screen Shot 2018-09-25 at 3.44.44 AM.png]({{site.baseurl}}/assets/Screen Shot 2018-09-25 at 3.44.44 AM.png)
 
 
-As seen in the screenshot above, we were able to use a stacked bar chart to visualize the same information on ticket sales by seating section by play, which was our focus of the original idea, but just not laid out on a spatial floorplan since we were unable to do that. Additionally, the idea of viewing these trends across time is still upheld with the schema of a horizontal timeline showing chronological trend, similar to our slider bar idea. Along the bottom you have each performance ID, so each bar represents a performance, and within each performance, you see the breakdown of each seating section. While this is a much more crude representation and not as compelling of a storytelling feeling, it still offers the same information and allows the viewer to see at a quick glance the ebb and flow of ticket sales by seating section varying across time.  
-
+As seen in the screenshot above, we were able to use a stacked bar chart to visualize the same information on ticket sales by seating section by play, which was our focus of the original idea, but just not laid out on a spatial floorplan since we were unable to do that. Additionally, the idea of viewing these trends across time is still upheld with the schema of a horizontal timeline showing chronological trend, similar to our slider bar idea. Along the bottom you have each performance ID, so each bar represents a performance, and within each performance, you see the breakdown of each seating section. While this is a much more crude representation and not as compelling of a storytelling feeling, it still offers the same information and allows the viewer to see at a quick glance the ebb and flow of ticket sales by seating section varying across time.
