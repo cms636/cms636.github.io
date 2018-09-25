@@ -5,7 +5,7 @@ category: commentary
 title: “Time in Print” Commentary
 author: Peri Green
 ---
-## A New Post
+
 
 “Another reason for the gap in our historical and theoretical understanding of timelines is the relatively low status that we generally grant to chronology as a kind of study. Though we use chronologies all the time, and could not do without them, we typically see them as only distillations of complex historical narratives and ideas.”
 
