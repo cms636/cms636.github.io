@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: 'Visualizing Ticket Sales by Seating Section, Over Time'
+author: 'Cindy Liu, Carla Saad'
 ---
 
 
