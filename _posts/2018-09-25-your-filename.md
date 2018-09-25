@@ -2,7 +2,7 @@
 layout: post
 published: false
 category: updates
-title: ''
+title: 'Visualizing Ticket Sales by Seating Section, Over Time'
 ---
 
 
