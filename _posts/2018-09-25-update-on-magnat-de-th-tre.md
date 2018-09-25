@@ -6,6 +6,8 @@ title: Update on Magnat de Théâtre
 author: 'Caspar, Priya, Zidane'
 ---
 ![Screen Shot 2018-09-25 at 11.19.06 .png]({{site.baseurl}}/assets/Screen Shot 2018-09-25 at 11.19.06 .png)
+
+
 After a huge struggle to actually get access to the data (Java didn't like to import the JSON tools, so we eventually moved over to Python, which didn't want to install the necessary library to fetch data directly from the API, but would at least read pre-downloaded JSONs), we managed to crunch a few numbers.
 
 However, we quickly realized, after having read the Wikipedia page for the French Livre, that any rudimentary economic analysis would probably be a waste of time, because of the highly fluctuating value of the livre, and difficulty knowing exactly which unit of currency the prices were recorded in. The different seating categories were also difficult to access and analyze, so what we ended up with was looking at "how popular were each of these plays really".
