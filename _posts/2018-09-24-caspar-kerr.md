@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: people
-title: Caspar Kerr
+title: Caspar Martens Kerr
 author: caspar kerr
 ---
 
