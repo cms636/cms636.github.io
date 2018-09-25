@@ -1,0 +1,15 @@
+---
+layout: post
+published: false
+category: updates
+title: ''
+author: 'Cindy Liu, Carla Saad'
+---
+Try to implement the core idea of your project design with actual data. On our
+GitHub site under “project updates”, describe the approach that you have taken,
+and discuss the design/implementation decisions you took, and how these
+influenced the stories you tell.
+
+The core idea of our initial project design was to visualize ticket sales over time by seating section of the theater, as an overall gauge of the popularity of theater entertainment in the 18th century. In our initial plan we wanted to have a side-by-side laydown of the facsimile next to the according theater floorplan, so that one could see the direct relationship between the portion of the facsimile and its corresponding spatial representation. We could then allow the user to customize his/her query so that they could observe ticket sales for a specific year or drag a slider to view changes over time. 
+
+With no programming experience, we used the approach of working directly with .csv data in a spreadsheet rather than JSON/API. However, the dataset we needed wasn't available from the site's raw .csv files, only in their JSON files - the "[/play_ticket_sales](http://api.cfregisters.org/play_ticket_sales?genre=eq.com%C3%A9die&play_performance_id=lt.1000)" endpoint ("Ticket sales by seating category for each play/performance"). Therefore, we had to first use a converter to convert the JSON file into .csv, which worked almost seamlessly except for some of the numerical data needing to be converted from textual to numerical digits. 
