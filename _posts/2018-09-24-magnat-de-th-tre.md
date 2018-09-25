@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Magnat de Théâtre
-author: ''
-tags: ''
+author: 'Priya, Zidane, Caspar'
 ---
 #### Zidane Abubakar, Priya Pillai, Caspar Kerr
 
@@ -51,4 +50,3 @@ We are planning to design the game focusing mostly on middle/high school student
 
 How did the sociopolitical context affect the decisions theater managers made?
 How did the Parisian public's taste in theater change over time?
-
