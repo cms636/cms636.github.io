@@ -31,12 +31,17 @@ We also redesigned our 3D model to the actual theater from the data. However, be
 
 ![]({{site.baseurl}}/assets/aggregated.gif)![aggregated.gif]
 
-
 #### Implementation
 
 In order to make the data interactive, we used the visual programming language _Grasshopper_ to bind our CSV data to the different heights and labels in our model.
 
+![Grasshopper overview]({{site.baseurl}}/assets/Screenshot-overview.JPG)
+![Grasshopper image_1]({{site.baseurl}}/assets/Screenshot-part1.JPG)
+![Grasshopper image_2]({{site.baseurl}}/assets/Screenshot-part2.JPG)
+![Grasshopper image_3]({{site.baseurl}}/assets/Screenshot-part3.JPG)
+
+[Screen record](https://drive.google.com/open?id=1pL7HunLslQPwzPPHHWFHxDtPoyo1yyun)
+
 ## Implications
 
 From a storytelling perspective, this approach to visualizing the data is more historically representative than just showing the data of one play over the year. By visualizing the most popular play each month, we get a clearer image of what theater-goers wanted to watch overall and how that influenced the theater's business.
-
