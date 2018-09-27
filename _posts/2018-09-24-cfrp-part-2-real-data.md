@@ -35,11 +35,16 @@ We also redesigned our 3D model to the actual theater from the data. However, be
 
 In order to make the data interactive, we used the visual programming language _Grasshopper_ to bind our CSV data to the different heights and labels in our model.
 
+Grasshopper script overview:
 ![Grasshopper overview]({{site.baseurl}}/assets/Screenshot-overview.JPG)
+Grasshopper script image_1:
 ![Grasshopper image_1]({{site.baseurl}}/assets/Screenshot-part1.JPG)
+Grasshopper script image_2:
 ![Grasshopper image_2]({{site.baseurl}}/assets/Screenshot-part2.JPG)
+Grasshopper script image_3:
 ![Grasshopper image_3]({{site.baseurl}}/assets/Screenshot-part3.JPG)
 
+Screen record of sliding through different months:
 [Screen record](https://drive.google.com/open?id=1pL7HunLslQPwzPPHHWFHxDtPoyo1yyun)
 
 ## Implications
