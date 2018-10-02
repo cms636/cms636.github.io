@@ -51,4 +51,6 @@ We ended up taking the idea of building and changing it to an unfolding, and we 
 
 ![sample-animation.gif]({{site.baseurl}}/assets/sample-animation.gif)
 
+![all-view-vis.gif]({{site.baseurl}}/assets/all-view-vis.gif)
+
 Our visualization implements our idea of using angles to indicate the direction of pro-US or pro-Iran events and our idea of the unfolding the events sequentially. We considered using the width of each rectangle to indicate time, but settled on using the length, as it was the most familiar and understandable method of communicating time passing. The angle, as previously mentioned, indicates how the event benefited the US versus Iran. We also added a third axis to indicate the time between events. This enabled us to keep the main representation as a continuous line while also giving viewers a way to determine the timing between events. It also makes the representation look more like a staircase, which we felt added to the idea of the events building up.
