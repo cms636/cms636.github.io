@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: 'Assignment 3: US-Iran Relations'
 author: 'Carla, Tyler, Priya'
@@ -11,7 +11,7 @@ When approaching this project, our team decided we wanted to consider the nature
 
 - Conveying the Positivity or Negativity of the Event
 - Indicating the Idea of Spiraling/Violent Cycles of Aggression
-- Communicating how Events Build on Each Other/Unfold
+- Communicating How Events Build on Each Other
 
 We developed these into a number of potential visualizations, each one focused on one or two of the concepts.
 
@@ -37,9 +37,11 @@ We started with the spiral on a conceptual basis of moving away from a linear re
 
 In the end, we had two main issues with this concept. One, the spiral limited us geometrically-if turning indicated positivity or negativity, then if we made the length of the line time, it could be confusingly interpreted as being more positive/negative with longer time, which was not necessarily true. Two, we worried that enforcing the image of spirals and cycles on the data could be artificially fitting a narrative onto the data that the data did not necessarily represent, and so we pivoted away from a literal spiral. We did keep the idea of changing angles to indicate benefits for/against the US or Iran, as we felt that literally moving to one side would be an impactful and meaningful visual.
 
-## Events Building/Unfolding
+## Events Building
 
 One important part of how time proceeds is the relationships between events. We wanted to create a visual way of representing this concept. Our first idea was having the events be rectangular blocks that stacked upon each other, but having their placement be dependent on the positivity/negativity axis, creating essentially a wobbly tower (Sketches 1, middle left). We considered emphasizing the wobble by using shapes other than rectangles, such as circles and triangles. However, we were concerned with making the tower too unstable and felt that it didn't escape enough from the linearity of events. We then looked at having the events build on each other via sand in an hourglass timer, or building up the events from multiple angles (Sketches 2, top). 
+
+We ended up taking the idea of building and changing it to an unfolding, and we wanted to have each event "unfold" from the last. For our final visualization, we implemented a simplified version of this idea. 
 
 # Final Visualization
 
@@ -47,8 +49,7 @@ One important part of how time proceeds is the relationships between events. We 
 
 [Link to Figma](https://www.figma.com/file/NOdJpbdH9AXF5W3NDCt4HWd3/US-Iran-Visualization?node-id=0%3A1)
 
-[comment]: <> animation here
+[comment]: <> ANIMATION HERE
 
-Our final visualization was based on 
-  
+Our visualization implements our idea of using angles to indicate the direction of pro-US or pro-Iran events and our idea of the unfolding the events sequentially. We considered using the width of each rectangle to indicate time, but settled on using the length, as it was the most familiar and understandable method of communicating time passing. The angle, as previously mentioned, indicates how the event benefited the US versus Iran. We also added a third axis to indicate the time between events. This enabled us to keep the main representation as a continuous line while also giving viewers a way to determine the timing between events. It also makes the representation look more like a staircase, which we felt added to the idea of the events building up.
   
