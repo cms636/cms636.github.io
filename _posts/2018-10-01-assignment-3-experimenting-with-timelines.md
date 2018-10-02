@@ -5,7 +5,7 @@ category: updates
 title: Assignment 3 - Experimenting with Timelines
 author: 'Amy Shim, Yichen Jia, Cindy Liu'
 ---
-Access our project here: https://amyshim.github.io/matrixtimeline/
+Access our project here: [https://amyshim.github.io/matrixtimeline/](https://amyshim.github.io/matrixtimeline/)
 
 In our first approach, we wanted to challenge our understanding of timelines by creating something that was non-linear. But we tried to avoid making something nonlinear just for the sake of making something nonlinear -- we wanted a design that actually enhanced one’s understanding of the data in a way that a conventional timeline would not.
 
