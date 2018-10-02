@@ -5,7 +5,7 @@ category: updates
 title: 'Assignment 3: US-Iran Relations'
 author: 'Carla, Tyler, Priya'
 ---
-# Attempting to Reinvent the Timeline
+### Attempting to Reinvent the Timeline
 
 When approaching this project, our team decided we wanted to consider the nature of the timeline itself, and come up with a representation that was able to describe more than just the linear progression of time. We considered three different ways of approaching this:
 
@@ -15,13 +15,13 @@ When approaching this project, our team decided we wanted to consider the nature
 
 We developed these into a number of potential visualizations, each one focused on one or two of the concepts.
 
-### Sketches 1
+# Sketches 1
 ![WhatsApp Image 2018-10-01 at 10.25.48 PM.jpeg]({{site.baseurl}}/assets/WhatsApp Image 2018-10-01 at 10.25.48 PM.jpeg)
 
-### Sketches 2
+# Sketches 2
 ![WhatsApp Image 2018-10-01 at 10.26.04 PM.jpeg]({{site.baseurl}}/assets/WhatsApp Image 2018-10-01 at 10.26.04 PM.jpeg)
 
-### Sketches 3
+# Sketches 3
 ![WhatsApp Image 2018-10-01 at 10.26.16 PM.jpeg]({{site.baseurl}}/assets/WhatsApp Image 2018-10-01 at 10.26.16 PM.jpeg)
 
 ## Positivity or Negativity of the Event
@@ -43,7 +43,7 @@ One important part of how time proceeds is the relationships between events. We 
 
 We ended up taking the idea of building and changing it to an unfolding, and we wanted to have each event "unfold" from the last. For our final visualization, we implemented a simplified version of this idea. 
 
-# Final Visualization
+### Final Visualization
 
 ![USIran_Relations_Figma.PNG]({{site.baseurl}}/assets/USIran_Relations_Figma.PNG)
 
@@ -52,4 +52,3 @@ We ended up taking the idea of building and changing it to an unfolding, and we 
 [comment]: <> ANIMATION HERE
 
 Our visualization implements our idea of using angles to indicate the direction of pro-US or pro-Iran events and our idea of the unfolding the events sequentially. We considered using the width of each rectangle to indicate time, but settled on using the length, as it was the most familiar and understandable method of communicating time passing. The angle, as previously mentioned, indicates how the event benefited the US versus Iran. We also added a third axis to indicate the time between events. This enabled us to keep the main representation as a continuous line while also giving viewers a way to determine the timing between events. It also makes the representation look more like a staircase, which we felt added to the idea of the events building up.
-  
