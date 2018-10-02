@@ -22,7 +22,7 @@ Yichen realized that this could be made even clearer as a matrix. The radial asp
 Since the event descriptions were somewhat contentious, we took into account the source of the event data. If the source was based in the US, we would indicate so with a red marker. If the source was based in Iran, we would indicate so with a blue marker. Grey referred to an international source. We hoped that this color-coding would take into account the varying perspectives regarding the US-Iran conflict.
 
 Yichen realized that this could be made even clearer as a matrix. The radial aspect was not really contributing to the readability, so we abandoned the radial design in favor of the matriz and ended up with something like this, made using JavaScript and d3.js:
-![Screen Shot 2018-10-01 at 9.43.11 PM.webp]({{site.baseurl}}/assets/Screen Shot 2018-10-01 at 9.43.11 PM.webp)
+![Screen Shot 2018-10-01 at 9.43.11 PM.png]({{site.baseurl}}/assets/Screen Shot 2018-10-01 at 9.43.11 PM.png)
 
 Hovering over each dot gives you the event and source. The left-most column contains events that are not specific to the six most frequently-mentioned people.
 
