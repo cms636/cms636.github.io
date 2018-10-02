@@ -28,4 +28,10 @@ Hovering over each dot gives you the event and source. The left-most column cont
 
 Our visualization helps separate a dense timeline into the actions of six key people involved in the US-Iran conflict. For example, it is much easier now to focus on specifically Clinton’s actions, and compare his timing to the timing of the other events unfolding around his decisions. You can see, by looking at the entirety of the timeline, when certain people became prominent actors in the conflict and when they “laid low” politically; when leaders reached the height of their influence and how they overlapped with each other. Geopolitical relations and tensions are extremely complex, but perhaps breaking down the story by its major players can lead to insights on how and why the US-Iran conflict came about.
 
+Some things we wanted to implement but didn't have time this week:
+- use lines instead of dots to convey times longer than a day
+- include event description instead of just event title
+- add more people
+- closer vetting of sources
+
 
