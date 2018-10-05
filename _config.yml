@@ -59,6 +59,10 @@ prose:
           options:
             - name: "Digital_Humanities"
               value: "Digital_Humanities"
+            - name: "Cartographies of Time"
+              value: "Cartographies of Time"
+            - name: "Spatial Humanities"
+              value: "Spatial Humanities"
             - name: "The Database"
               value: "The Database"
             - name: "Museum"
