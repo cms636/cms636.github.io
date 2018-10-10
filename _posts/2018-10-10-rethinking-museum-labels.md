@@ -12,7 +12,8 @@ This project focuses on the re-design of art museum labels by taking into the ac
 ![A potential digitization of museum labels]({{site.baseurl}}/assets/Amlabel_electronic-paper-museum-label-by-Visionect-1024x684.png)
 
 Skills needed:
-- App developers, or people interested in trying app development
-- People interested in partnering with an art museum
-- People interested in art education
+-App developers, or people interested in trying app development
+-People interested in partnering with an art museum
+-People interested in art education
+
 
