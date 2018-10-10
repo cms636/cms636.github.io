@@ -9,7 +9,7 @@ Art in art museums are almost always accompanied by a “museum label” -- a sm
 
 This project focuses on the re-design of art museum labels by taking into the account the curiosity of the viewer. Through an app, museum-goers can scan perhaps a barcode or QR code accompanying a work of art. If they wish to know more about a specific piece, they can search keywords or click on pre-existing blurbs that each focus on specific aspects of the work -- the artist, the historical context, the medium/style, and notable features of the work. Museum curators will be able to see this data, and be able to determine which artworks are most popular/ are scanned most frequently, and what people want to know after initially seeing a piece. Museum curators will then have a much better sense of what the public’s interests are and can digitize the labels so that they can be easily updated over time.
 
-![A potential digitization of museum labels]({{site.baseurl}}/assets/Amlabel_electronic-paper-museum-label-by-Visionect-1024x684.png)![Amlabel_electronic-paper-museum-label-by-Visionect-1024x684.png]({{site.baseurl}}/assets/Amlabel_electronic-paper-museum-label-by-Visionect-1024x684.png)
+![A potential digitization of museum labels]({{site.baseurl}}/assets/Amlabel_electronic-paper-museum-label-by-Visionect-1024x684.png)
 
 Skills needed:
 App developers, or people interested in trying app development
