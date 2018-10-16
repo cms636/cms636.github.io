@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: ''
+title: Summary of Two Emerging Areas in DH
 author: Peri Green
 tags:
   - Digital_Humanities
