@@ -16,6 +16,6 @@ Tufte gives sound advice, accompanied by beautiful example illustrative maps and
 
 It almost seems like Tufte goes much more into depth on what __not__ to do rather than what to do. And it seems like for color, a lot more can go wrong than can go right. But I think all of us can attest to the extraordinary effects color can have on any sort of visualiation when executed well. The map of the T is a great example.
 
-![]({{site.baseurl}}/https://freetoursbyfoot.com/wp-content/uploads/2016/01/Boston-Subway-Map-1011x1024.jpg)
+![Boston-Subway-Map-1011x1024.jpg]({{site.baseurl}}/assets/Boston-Subway-Map-1011x1024.jpg)
 
 So much information made so readable by use of color. Of course, Tufte also mentions the shortfalls of color -- like all visuals, perception can be subjective, and one must be mindful of those who are color-blind or have other difficulties seeing color. For that reason, it should be said that absolutely crucial information should not be encoded using color, or alternate displays should be available to people in those cases. But I think color, like salt, while not the substantive part of the meal/display, can really bring out all the subtleties that one might have not noticed previously, and really make the experience enjoyable rather than just funcitonal.
