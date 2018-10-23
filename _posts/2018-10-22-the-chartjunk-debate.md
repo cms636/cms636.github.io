@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: The Chartjunk Debate
+author: Amy Shim
 ---
 
 > "To the degree that the message is important and the information
