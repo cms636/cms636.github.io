@@ -5,12 +5,10 @@ category: updates
 title: Playlist made physical
 author: 'Amy, Yichen, Cindy'
 ---
-Final project pitch slides
+[Final project pitch slides](https://docs.google.com/presentation/d/1e4BXrKQW60V2BFZj6j7zb3LMLyRM9SP9zZM8NguGg08/edit?usp=sharing)
 
-https://docs.google.com/presentation/d/1e4BXrKQW60V2BFZj6j7zb3LMLyRM9SP9zZM8NguGg08/edit?usp=sharing
-
+_Image credit: Yichen_
 ![playlistexample.jpg]({{site.baseurl}}/assets/playlistexample.jpg)
-_image by Yichen_
 
 Project description:
 Using isometric models or perhaps AR technology, we want to make a model in which users can map music to physical objects. For example, a user could map the song "Don't Stop Believing" with a high school yearbook or the album _Thriller_ with a leather jacket. Users could also link several songs to one object and make a playlist. In an isometric 
