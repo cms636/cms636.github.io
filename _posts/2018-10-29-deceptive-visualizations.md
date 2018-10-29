@@ -10,7 +10,7 @@ We started by visualizing the CO2 emission of 2013 of different countries throug
 ![2013co2emissions.PNG]({{site.baseurl}}/assets/2013co2emissions.PNG)
 
 
-As a next step, we refined the map by using the summary of CO2 emissions from 1990-2013 (as far as the dataset extends) to give a more precise representation of our arguments. The refined version, however, doesn’t have much difference compared with the original graph.
+As a next step, we refined the map by using the sum of CO2 emissions from 1990-2013 (as far as the dataset extends) to give a more precise representation of our arguments. The refined version, however, doesn’t have much difference compared with the original graph. The only major perceivable difference is that the US becomes darker, indicating that they become an even larger contributor to global CO2 emissons than prior, second only to China.
 
 ![sumco2emissionsred.PNG]({{site.baseurl}}/assets/sumco2emissionsred.PNG)
 
