@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: When Maps Shouldn't Be Maps
 author: Peri Green
