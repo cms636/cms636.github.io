@@ -19,11 +19,11 @@ I was expecting some more interactive stuff though. There wasn't that much, main
 Here are some cool pictures I took from some of these open displays:
 
 These two were from an open exhibit about a public space being built in Kenya (I think).
-![IMG_1233.HEIC]({{site.baseurl}}/assets/IMG_1233.HEIC)
-![IMG_1242.HEIC]({{site.baseurl}}/assets/IMG_1242.HEIC)
+![lilguy.jpg]({{site.baseurl}}/assets/lilguy.jpg)
+![]({{site.baseurl}}/assets/tree.jpg)![tree.jpg]({{site.baseurl}}/assets/tree.jpg)
+
 
 This was a piece of glass that only had the negative of a photo printed on it. It was offset from the wall slightly so it would cast shadows behind itself.
-![IMG_1244.HEIC]({{site.baseurl}}/assets/IMG_1244.HEIC)
-
+![]({{site.baseurl}}/assets/shadows.jpg)
 
 There weren't really many experimental technologies implemeneted which I think could've made some of the exhbits more engaging, but you'd be suprised by just how much layout and interior design affects conversation. Although, I always loved the idea of having location based notes -- in the same way that you can see a map of all of your photos wherever you take them. If there was a way to pin thoughts and questions to a location -- in this case, MODA -- I'd love to see what people have previously said about exhibits / the space. Other than that, I'm not sure if asking about having more and more social interaction is always the right question in a museum setting. Museums and exhibits can be really personal and emotional, so inserting technology into the space to encourage social interaction might detract from some exhbits. Time to go to the Cooper Hewitt though.
