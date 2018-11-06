@@ -11,6 +11,9 @@ This weekend I was in Atlanta! So I went down to the MODA and see what they had 
 
 One of the coolest parts of the space is that it caters to basically every age group but emphasizes being a creative space for kids. 3D printers and workspaces greet you at the door, directly adjacent to exhibits themselves. It's inviting and makes design seem approachable to even people outside of design. I brought three of my friends with me-- all of which are not in design fields, and they had a blast.
 
+![MODA_3DPrinting-Class_2014-07-03_003.jpg]({{site.baseurl}}/assets/MODA_3DPrinting-Class_2014-07-03_003.jpg)
+![IMG_0251.jpg]({{site.baseurl}}/assets/IMG_0251.jpg)
+
 I was expecting some more interactive stuff though. There wasn't that much, mainly just some displays, but nothing touch screen or app oriented. Although, one distinct thing here was that all of the 3D models and pieces on display were completely open, touchable (carefully), and it was very easy to gather groups around the pieces. This layout seemed to encourage discussion quite a bit.
 
 Here are some cool pictures I took from some of these open displays:
