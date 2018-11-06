@@ -15,7 +15,7 @@ I chose to visit the Harvard Art Museums. This museum is visited mainly by Harva
 
 ![IMG_7222.png]({{site.baseurl}}/assets/IMG_7222.png)
 
-![]({{site.baseurl}}/assets/IMG_7223.png)
+![IMG_7223.png]({{site.baseurl}}/assets/IMG_7223.png)
 
 ![IMG_7226.png]({{site.baseurl}}/assets/IMG_7226.png)
 
