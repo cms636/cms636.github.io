@@ -7,4 +7,4 @@ author: 'Caspar, Priya, Zidane'
 ---
 [Slides!](https://docs.google.com/presentation/d/1FBE1cgimf75fmPIhWR4VS9yH8NHKYz3o3XSawdPgRio/edit?usp=sharing)
 
-We have sent out our survey, but would like more answers.
+We have sent out our survey, but would like more responses.
