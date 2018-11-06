@@ -1,8 +1,11 @@
 ---
 layout: post
 published: false
-category: updates
+category: commentary
 title: The Poetics of Augmented Space
+author: Caspar
+tags:
+  - Augmented Space
 ---
 As Manovich discusses in his article, there are many ways in which a space can be augmented with information, with various degrees of personalization. The "simplest", and most common way of augmenting space, is in a way what humans have always done; adding extra information to architectural surfaces through paintings, inscriptions or, more recently, screens displaying dynamic imagery. What characterizes this form of augmentation of space, is that everyone will have the same experience of, save for personal associations or varying connotations, and agree upon, what the space looks like. The next, and increasingly common way of augmenting space, is agumentation that is customized for each user. This is however no small category, and comprises everything from public devices with input mechanisms, to personal AR technologies. 
 
