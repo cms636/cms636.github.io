@@ -19,4 +19,6 @@ I chose to visit the Harvard Art Museums. This museum is visited mainly by Harva
 
 ![IMG_7226.png]({{site.baseurl}}/assets/IMG_7226.png)
 
+![]({{site.baseurl}}/https://drive.google.com/file/d/1FQoa-EkRPRVPmc4Iss9AsC5fSg7rYTET/view?usp=sharing)
+
 
