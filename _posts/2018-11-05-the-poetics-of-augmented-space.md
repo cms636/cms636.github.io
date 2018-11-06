@@ -18,7 +18,7 @@ There were a few exhibits that managed to somewhat cross the divide. The stairs 
 I think blending best occurs when the virtual actively engages and makes use of the user's physical space, rather than expecting the user to shift from the physical into the virtual. In the example Manovich gave, Janet Cardiff's Alter Bahnhof Video Walk ([https://www.youtube.com/watch?v=sOkQE7m31Pw]()), visual and auditory information from both the phone (the virtual space) and the grounds of the Kulturbahnhof in Kassel (the physical space) are blended in such a way it is difficult to differentiate one exprience from the other. They are blended such that they become one experience.
 
 Cardiff's piece reminds me of Yoko Ono's work, like her poems in _Grapefruit_, which are written as instructions. By commanding the reader to physically do something, Ono blurs the line between the imagination and the physical world, much like Cardiff blurs the line between virtual and physical.
-![10929049_10152999025540535_1098824828587609186_o.jpg]({{site.baseurl}}/assets/10929049_10152999025540535_1098824828587609186_o.jpg)
+![copy.jpg]({{site.baseurl}}/assets/copy.jpg)
 ![2892700985_7a6f36e4cc_z.jpg]({{site.baseurl}}/assets/2892700985_7a6f36e4cc_z.jpg)
 
 In _Cut Piece_ ([https://www.youtube.com/watch?v=-yqhSZsXIJQ]()), Ono breaks down the "black box" Manovich describes of performer and audience by asking the audience to cut off a piece of her clothing and take it with them. It introduces themes of vulnerability of the artist and effectively combines the space of "performance" and "audience" until they are indistinguishable.
