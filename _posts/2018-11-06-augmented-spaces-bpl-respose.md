@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: Augmented Spaces - BPL Respose
+author: Zidane Abubakar
+tags:
+  - Augmented Space
 ---
 ## Augmented Spaces - Zidane
 
