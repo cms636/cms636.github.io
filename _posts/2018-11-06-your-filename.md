@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: The Poetics of Augmented Space
 author: Caspar
