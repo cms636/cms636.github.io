@@ -54,11 +54,15 @@ _Yichen traces nerve endings in the brain_
   
 # Frustrations and alienations
 There were not many places to “hang out”, where one could sit or gather or quietly observe exhibits - it felt more like something you had to keep moving through since everything was meant for standing/walking. The layout of first floor space was particularly alienating, with most of the exhibits smushed in one corner, leaving a a very large empty space in the middle of the room with nothing in it. There is no clear direction or obvious flow of how one should move through the open space. The second floor, however, is clearer in this respect because it follows more of an enclosed pathway and there is a clear direction and progression. There is also a frustrating inconsistency in the placard displays - across the whole museum it seemed like there were constantly new forms/formats of placards appearing, which made the entire museum feel not cohesive. Sometimes, displays were not accompanied by a placard/description at all, leaving the viewer with no information about what they are looking at. These frustrations could probably be helped with just some minor additions in signage and placards that provide visitors with more information on exhibits and how to traverse the space.
-  
+
+![]({{site.baseurl}}/assets/IMG_9257.JPG)
+
+_Large empty space on first floor_
+
+![]({{site.baseurl}}/assets/IMG_9265.JPG)
+
+_Display without any information/context_
+
   
 # Relationship of the interior & exterior
-The interior of the first floor meshes with the outdoors via large floor-to-ceiling windows that offer an abundance of daylight and clear view of the adjacent sidewalk. Likewise, passerbys outside can see into the museum, welcoming them in by allowing them to see inside and also by a happy yellow sign sporting “MIT Museum”. The location of the museum is on a busy local street very close to campus which also encourages visitors. The workers at the front desk are proactive and welcoming. Past them, leading to the second floor, an interactive staircase plays harmonious chimes with every step, engaging visitors immediately. 
-
- 
-
-
+The interior of the first floor meshes with the outdoors via large floor-to-ceiling windows that offer an abundance of daylight and clear view of the adjacent sidewalk. Likewise, passerbys outside can see into the museum, welcoming them in by allowing them to see inside and also by a happy yellow sign sporting “MIT Museum”. The location of the museum is on a busy local street very close to campus which also encourages visitors. The workers at the front desk are proactive and welcoming. Past them, leading to the second floor, an interactive staircase plays harmonious chimes with every step, engaging visitors immediately.
