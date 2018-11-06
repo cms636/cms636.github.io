@@ -14,9 +14,10 @@ We visited the MIT museum on Sunday morning. From our observations, most of the 
 
 ![20181104_112029.jpg]({{site.baseurl}}/assets/20181104_112029.jpg) 
 
-__A parent/guardian helping a child explore the touchscreen that accompanied the glassblowing displays.
+_A parent/guardian helps a child use a touchscreen that accompanies the glassblowing display._
 
-![20181104_112511.jpg]({{site.baseurl}}/assets/20181104_112511.jpg)  
+![20181104_112511.jpg]({{site.baseurl}}/assets/20181104_112511.jpg)
+
 _Yichen joins a table with a child, their parent/guardian, a museum worker, and an adult._
 
 # Technologies
