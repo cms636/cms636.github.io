@@ -24,11 +24,13 @@ _Yichen joins a table with a child, their parent/guardian, a museum worker, and 
 **Projectors** were widely used for both exhibitions and ornamental display. Not a lot of people were watching the videos, so perhaps running them at an infinite loop is not the best way to display them. Maybe having some sort of “play” button would increase interaction.
 
 ![20181104_111707.jpg]({{site.baseurl}}/assets/20181104_111707.jpg)  
+
 _A large projector showing a video about an art installation goes largely ignored._
 
 Various **touch screens** were installed. Some of them were connected to other devices such as earphones, so it was an auditory and visual experience. Contents shown on the touch screens ranged from 3D models that allowed zooming-in/out, panning, rotating, interactive drawings, interactive infographics, surveys, and so on.Some screens appeared to be touch-screens but were actually not. Just a screen display with no context made it hard to tell.
 
 ![20181104_112856.jpg]({{site.baseurl}}/assets/20181104_112856.jpg)  
+
 _Yichen watches different areas of the brain be activated according to the pitch of a sound that plays in her headphones_
 
 **Interactive art installations** that sense proximity, sound, movement. It was a bit unclear how to interact with the art. A sign demonstrating or explaining how would be helpful, but also might might be too leading? It’s a fine line between allowing the viewer to engage with the art organically, and explaining what to do. Some art was positioned in a way that the visitors were forced to interact with them (such as the staircase leading to the second floor that senses movement and plays music). Some art could be triggered with **pedals**. In the “Gestural Engineering” exhibition almost all the artworks required viewers to either rotate some handle or step on some pedal to trigger the movement. For the beans installation, it was also a bit unclear whether you could touch and rotate the gear. Again, the fine line between organic engagement and the need for clearer signs indicating what you can and cannot touch came into play. Walls of visual displays were accompanied with **books** laid out on benches meant to supplement the brain exhibition.
@@ -37,6 +39,7 @@ _Yichen watches different areas of the brain be activated according to the pitch
 What we didn’t expect was to see many kids in the museum. We believe it is partially because most of the exhibitions had some interactive features, which are especially attractive to kids. Specifically, the “Beautiful Brain” exhibition contained a makerspace where the kids could make drawings of brain on a large table. It included some touchable models of the brain that were meant for blind people, but could be something playful for kids, as well.
 
 ![20181104_112648.jpg]({{site.baseurl}}/assets/20181104_112648.jpg)  
+
 _Yichen traces nerve endings in the brain_
 
 # Frustrations and alienations
