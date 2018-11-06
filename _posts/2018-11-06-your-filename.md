@@ -2,7 +2,7 @@
 layout: post
 published: false
 category: updates
-title: ''
+title: The Poetics of Augmented Space
 ---
 ## A New Post
 
