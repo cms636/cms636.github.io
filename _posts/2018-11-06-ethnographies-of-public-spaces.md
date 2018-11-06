@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: commentary
+category: updates
 title: Ethnographies of Public Spaces
 tags:
   - Museum
@@ -16,5 +16,3 @@ I chose to visit the Harvard Art Museums. This museum is visited mainly by Harva
 ![IMG_7223.HEIC]({{site.baseurl}}/assets/IMG_7223.HEIC)
 ![IMG_7226.HEIC]({{site.baseurl}}/assets/IMG_7226.HEIC)
 ![IMG_7227.HEIC]({{site.baseurl}}/assets/IMG_7227.HEIC)
-
-
