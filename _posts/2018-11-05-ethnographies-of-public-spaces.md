@@ -12,8 +12,9 @@ tags:
 # Who?
 We visited the MIT museum on Sunday morning. From our observations, most of the visitors were tourists. Some of them went to the museum as part of the experience of visiting MIT. There were also a lot of older adults and children visiting the museum, but we didn’t see many students while we were there.
 
-![20181104_112029.jpg]({{site.baseurl}}/assets/20181104_112029.jpg)  
-_A parent/guardian helping a child explore the touchscreen that accompanied the glassblowing displays._
+![20181104_112029.jpg]({{site.baseurl}}/assets/20181104_112029.jpg) 
+
+__A parent/guardian helping a child explore the touchscreen that accompanied the glassblowing displays.
 
 ![20181104_112511.jpg]({{site.baseurl}}/assets/20181104_112511.jpg)  
 _Yichen joins a table with a child, their parent/guardian, a museum worker, and an adult._
