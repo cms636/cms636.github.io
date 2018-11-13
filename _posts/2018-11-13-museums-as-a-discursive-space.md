@@ -1,0 +1,11 @@
+---
+layout: post
+published: true
+category: commentary
+title: Museums as a Discursive Space
+author: Cindy
+tags:
+  - Museum
+---
+
+Kreps discusses object- and people- orientation in curation and how they go hand in hand. She argues that the museum experience cannot be just one or the other, but rather an “interplay of objects, people, and societies” and their relationships, all considered in the context of society and culture, since individuals experience objects from different perspectives based on their social context. Jana further proposes the idea of museums being a “discursive space”, where negotiation, debate, and discussion are invited, acting as fields for action that the curator has the power to dictate. This is exemplified by the recent movement away away from the “blockbuster museum spectacle” and towards more individualized meaningful exhibitions that connect to visitors’ senses, emotions, identities, and interests. She calls for museums to be more cognizant and inclusive of a wide variety of identities when curating experiences for visitors, which she even calls “users” rather than visitors. I think the overall movement to make museums less object-focused and more people-focused definitely enhances our consumption of them, as should be true for designing any kind of experience (i.e. architectural, product) - the more you keep the final user in mind when creating anything the more engaging the experience. However, there is definitely a limit to which this can be accomplished, and it is much more challenging to accomplish, given that such wide ranges of cultural and societal contexts exist that cannot possibly all be considered. I personally feel that the MIT Museum is an example of a museum that does not totally successfully accomplish this engagement with its visitors - with visitors form such a wide range of cultural and intellectual backgrounds that come to visit 'world-famous' MIT, I feel that the museum’s exhibits do not a great job of fully “onboarding” its users because they can be quite technical and difficult to understand, and do not engage with all ages and kinds of users equally.
