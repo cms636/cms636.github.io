@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Playlist made physical update
 author: 'Amy, Yichen, CIndy'
