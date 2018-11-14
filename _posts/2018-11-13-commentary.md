@@ -19,4 +19,4 @@ This fact is actually mostly experienced with a lot of the historical artifacts 
 The concept of "Discursive spaces" as platforms for social dialogue, aligns with the shifting of the role of curator towards provoking educational insights in launching this discussion.
 
 One of the latest exhibitions I visited was at the USS Constitution in Boston where the main experience involves visiting an exhibition space in addition to the boat. 
-The main exhibit was mainly built around the actual making of ropes around the boat. I think that the fact of focusing on one element and dive deeply in the making process why explaining the relation to the life on the boat is an interesting approach.   
+The main exhibit was mainly built around the actual making of ropes around the boat. I think that the fact of focusing on one element and dive deeply in the making process why explaining the relation to the life on the boat is an interesting approach.
