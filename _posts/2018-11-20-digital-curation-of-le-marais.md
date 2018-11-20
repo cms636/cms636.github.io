@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Digital Curation of Le Marais
+author: 'Priya, Zidane, Caspar'
 ---
 [The Bourgeoisie and the Common People](https://lemaraislife.omeka.net/exhibits/show/bourgeoisie-and-common-people)
 
