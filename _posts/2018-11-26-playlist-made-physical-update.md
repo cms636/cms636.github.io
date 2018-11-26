@@ -9,7 +9,7 @@ We have separately implemented all our goal features! Still working on stiching 
 
 - **Scanning object**
 
-[https://youtu.be/xlSFwaVO4Mw](https://youtu.be/LZQizeh7Wis)
+[https://youtu.be/xlSFwaVO4Mw](https://youtu.be/xlSFwaVO4Mw)
 
 - **Attaching playlist to object**
 
