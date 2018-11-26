@@ -21,7 +21,9 @@ We have separately implemented all our goal features! Still working on stiching 
 [https://youtu.be/pVw1AG__E7g](https://youtu.be/pVw1AG__E7g)
 
 
-
+We also have a design model/fleshed-out wireframe now.
+Link to updated slides:
+[https://docs.google.com/presentation/d/1aH90p7cVEzZVg_yQ1QU22GicTVbb0r679ssGHeGehWw/edit?usp=sharing](https://docs.google.com/presentation/d/1aH90p7cVEzZVg_yQ1QU22GicTVbb0r679ssGHeGehWw/edit?usp=sharing)
 
 
 
