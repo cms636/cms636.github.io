@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: people
-title: Abnell Bio
+title: Abnell Comas
 author: Abnell Comas
 ---
 ![giveawaypic.jpg]({{site.baseurl}}/assets/giveawaypic.jpg)
