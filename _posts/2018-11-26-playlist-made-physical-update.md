@@ -16,7 +16,11 @@ We have separately implemented all our goal features! Still working on stiching 
 
 [https://youtu.be/LZQizeh7Wis](https://youtu.be/LZQizeh7Wis)
 
-- **Accessing music in local library**
+- **Making playlist using music in local library**  
+
+[https://youtu.be/pVw1AG__E7g](https://youtu.be/pVw1AG__E7g)
+
+
 
 
 
