@@ -6,10 +6,10 @@ title: Ternion Draft
 author: Ternion
 tags: ''
 ---
-Project description
+##  Project description
 A physical data visualization comparing the texts of Islam, Christianity, and Judaism.
 
-Concept Overview
+## Concept Overview
 (core ideas, research questions, audiences, approach,etc.)
 
 The primary inspiration from Ternion came from a very simple question-- “how do we compare religion?” We believe that the religions we chose are more similar than they are different so we took the task of analyzing the core texts from each religion to open up a discussion about these similarities. Our approach consisted of analyzing shared context between the three religions we chose: Christianity, Islam, and Judaism.
@@ -22,12 +22,12 @@ Misconceptions about religious differences have been the root causation of many 
 
 
 
-Background Research
+## Background Research
 (other models/projects you looked at, literature review, etc.)
 
 First, we looked at traditional ways people have visualized religious texts. Most of these include graphs that compare word frequency without consideration for context. 
 
-Literature review:
+## Literature review:
 
 From a computational perspective, our techniques were inspired by previous work done in Natural Language Processing (NLP), a subfield of machine learning focused on using analyzing natural language. Specifically, recent developments in Distributional Semantics-- a research area that focuses on understanding semantic similarities in language-- have allowed us to see what “context” looks like by visualizing vector representations of words, using an algorithm called Word2Vec.
 
@@ -40,9 +40,9 @@ Data collection:
 2.	Abdullah Yusuf Ali version of the Quran (references needed)’
 
 
-Project Development
+## Project Development
 
-Problem & Hypothesis:
+### Problem & Hypothesis:
 Religion has been something historically used to both unite and divide people. Through our physical interpretation of religious commonalities, we can now provide individuals with a unique medium to discover unique connections across the three religions. 
 
 Users will be able to see clear connections across concepts in 3 distinct religions. Users will also be able to observe clear distinctions and make their own interpretations on the ways these religions resemble/contrast one another. 
@@ -64,7 +64,7 @@ Users will be able to see clear connections across concepts in 3 distinct religi
 
 ![pic5.jpg]({{site.baseurl}}/assets/pic5.jpg)
 
-Enabling Technologies 
+## Enabling Technologies
 
 -	Data visualization and data processing
 -	Natural language processing
@@ -75,7 +75,7 @@ Enabling Technologies
 -	Rhino 
 
 
-Journey Map
+## Journey Map
 Ternion will be placed at the eye level where the user can look inside the rectangular shape to have a perspective on 3 consecutive transparent lens. 
 
 The viewer will be able to see the geometry that the chosen word constitutes with the five close words to it on the word2vec model. 
@@ -94,10 +94,8 @@ Present:  belief
 Future: vision, faith
 
 
-Future Directions 
+## Future Directions 
 Moving forward, we would like to visit some ideas we had but chose to discard because of their time complexity. These discarded approaches will give the users the power to choose words, texts, and other factors to make the experiences more immersive. We would also like to explore more religious texts and analyze more data to arrive at better conclusions.
 
-Work cited 
+## Work cited
 Word2Vec and NLP papers
-
-
