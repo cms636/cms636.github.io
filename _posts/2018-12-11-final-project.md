@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Final Project
+author: Playlist Made Physical
 ---
 We made it!
 
