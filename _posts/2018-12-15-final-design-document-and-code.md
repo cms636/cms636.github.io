@@ -2,10 +2,10 @@
 layout: post
 published: true
 category: updates
-title: Final design document and code
+title: Ternion | Final design document and code
 author: Ternion
 ---
-Document (still being worked on):
+Design Document :
 [https://docs.google.com/document/d/1MV-hDSsaBEPuaIny7yRU5NJbFepxWHoHy-rUTvMI7Ps/edit?usp=sharing](https://docs.google.com/document/d/1MV-hDSsaBEPuaIny7yRU5NJbFepxWHoHy-rUTvMI7Ps/edit?usp=sharing)
 
 Code:
