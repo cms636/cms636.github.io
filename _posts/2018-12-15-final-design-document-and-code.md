@@ -10,3 +10,5 @@ Document (still being worked on):
 
 Code:
 [https://github.com/tangert/Digital-Humanities/tree/master/Final%20Project](https://github.com/tangert/Digital-Humanities/tree/master/Final%20Project)
+
+The specific notebook to look at is "Individual Text Processing"
