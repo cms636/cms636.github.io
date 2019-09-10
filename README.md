@@ -7,7 +7,7 @@ This is the collaborative Jekyll site for CMS.633, a digital humanities course a
 1. In your web browser, log in to GitHub using the cms633 login (passord in HS wiki). Go to [https://github.com/cms633/cms633.github.io/settings](https://github.com/cms633/cms633.github.io/settings)
 1. Under settings > Repository name, change cms633.github.io to Fall-2019. Click rename.
 1. In the command line, in your cms633.github.io directory, run `git remote set-url origin https://github.com/cms633/Fall-2019.git`
-1. In your cms633.github.io directory, open `_config.yml` in a text editor. In the lines reading `url:` and `siteurl: "http://cms633.github.io"`, add `/Fall-2019` to the end of the url string. Also add `/Fall-2019' inside the quotes after `baseurl:`. In the line with `relativeLinks:`, add `/Fall-2019` before `/links.jsonp`.
+1. In your cms633.github.io directory, open `_config.yml` in a text editor. In the lines reading `url:` and `siteurl: "http://cms633.github.io"`, add `/Fall-2019` to the end of the url string. Also add `/Fall-2019` inside the quotes after `baseurl:`. In the line with `relativeLinks:`, add `/Fall-2019` before `/links.jsonp`.
 1. In your cms633.github.io directory, navigate to the _includes directory and open header.html in a text editor. Add this line of HTML before line 5 (`<a class=“site-tile” …`):<br /> `<p class="archive-notice">This is the archived site for the Fall 2019 session of CMS.633 — for the current site, click <a href="http://cms633.github.io/">here</a>.</p>`
 1. In the command line, run the following commands:<br />
 `git add .`<br />
