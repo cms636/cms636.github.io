@@ -5,8 +5,9 @@ category: people
 title: Ben Silverman (TA)
 author: Ben Silverman
 display-rank: 2
+tags: ''
 ---
 
 ![Ben_Silverman.jpg](/assets/Ben_Silverman.jpg) 
 
-Ben Silverman is a first-year graduate student in the Comparative Media Studies Master of Science program. His research primarily concerns participatory archives, fandom, and ethnography in online communities. At HyperStudio, Ben acts as a research assistant, co-developing the [US-Iran project](http://hyperstudio.mit.edu/projects/us-iran/), running the [h+d insights newsletter](https://us1.campaign-archive.com/?u=441802f75b344eb94cf268ec5&id=9da2301f9b&e=[UNIQID]), and continuing exploratory research in digital archives. Ben also studied computer music at Brown University and enjoys making music, art, and friends.
+Ben Silverman is a second-year graduate student in the Comparative Media Studies Master of Science program. His research primarily concerns participatory archives, fandom, affect, and queer online communities. At the Active Archives Initiative, Ben acts as a research assistant, co-developing the Annotation Studio software, running the Active Archives newsletter, and continuing exploratory research in digital archives. Ben also studied computer music at Brown University and makes techno music in his spare time.
