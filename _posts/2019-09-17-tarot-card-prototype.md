@@ -19,9 +19,12 @@ As mentioned above, this tool would be important when trying to understand the s
 **Audience:**
 
 •	Art historians
+
 •	Tarot users
 ![Slide1.JPG]({{site.baseurl}}/assets/Slide1.JPG)
+
 ![Slide2.JPG]({{site.baseurl}}/assets/Slide2.JPG)
+
 ![Slide3.JPG]({{site.baseurl}}/assets/Slide3.JPG)
 
 
