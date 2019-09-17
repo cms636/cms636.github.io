@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Thematic Tarot
 author: 'Seo Yeon (Rachel) Kwak, Karyn Pugliese'
