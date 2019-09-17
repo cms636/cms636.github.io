@@ -14,6 +14,7 @@ The goal of my prototype is to create a tool that provides an opportunity to dev
 To begin, all the decks of tarot cards that would be available in this tool, would need to be scanned into a database. Additional works of art would need also need to be added to this data base so that comparisons can be drawn between this artwork and the tarot cards. Meta data about the cards and works of art may be used to link cards and works of art which are quite similar. 
 
 **Research Questions:**
+
 As mentioned above, this tool would be important when trying to understand the symbols and themes present in a tarot card deck. However, this is something that could be use to analyze how certain themes or usage of certain symbols have shifted, or stayed the same though different time periods. Looking at a card like the emperor, for example, one may insert a work of art from a very different time periods. Though the image at the foreground, and king sitting on a throne, may seem very similar in a lot of works of art, there may be some value in analyzing how the background and color schemes may have changed in different artistic periods. Were there certain symbols that at one point were always present, but became less common?
 
 **Audience:**
