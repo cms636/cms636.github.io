@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Thematic Tarot
 author: 'Seo Yeon (Rachel) Kwak, Karyn Pugliese'
@@ -41,8 +41,3 @@ This tarot library is intended for scholars interested in exploring modern artis
 ![thematic_tarot_2.jpg]({{site.baseurl}}/assets/thematic_tarot_2.jpg)
 
 ![thematic_tarot_3.jpg]({{site.baseurl}}/assets/thematic_tarot_3.jpg)
-
-
-
-
-
