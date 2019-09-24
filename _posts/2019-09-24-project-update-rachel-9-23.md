@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: updates
-title: Project Update Rachel 9/23
+title: 'Rachel: Project Update #1'
 author: Seo Yeon (Rachel) Kwak
 ---
 **Project Idea 1: History of Alphabets**
