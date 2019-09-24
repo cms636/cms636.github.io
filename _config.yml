@@ -45,7 +45,7 @@ prose:
               value: "commentary"
             - name: "Bio"
               value: "people"
-            - name: "Example Project"
+            - name: "DH Projects"
               value: "ext-projects"
             - name: "Data Set"
               value: "datasets"
