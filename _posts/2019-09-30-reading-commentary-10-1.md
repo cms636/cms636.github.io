@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Reading Commentary 10/1
 author: Anna Ivanov
