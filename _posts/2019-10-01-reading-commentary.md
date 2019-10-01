@@ -1,0 +1,18 @@
+---
+layout: post
+published: true
+category: commentary
+title: Reading Commentary
+author: Shiyi Peng
+---
+**Six Provocations for Big Data**
+    One of the analogies made by the author, which I find to be extremely apt, is that Data is like air, with both the oxygen we breathe and the pollution we exhale. It addresses the urgency and criticality of stop taking data as mere facts with inherent legitimacy, and the awareness of great caution. The provocations warn us about the naivety in dealing with data, such as the inevitable subjectivity within interpretation, or assumptions too easily made about correlations of different factors. We need to know how to read properly as well as think comprehensively to avoid such thing from happening.
+    Another question raised that worth further thoughts is the uneven distribution of power around data. As the author pointed out the massive amounts of data are not easily accessible to all and every one of us, but mostly to the big companies that generate the data. A dystopian view would be a future with a monopoly of companies and technological elites owning and manipulating the data, exacerbating segregation in society. To take precautions against such future requires holistic understanding of what’s at stake. Yet question remains whether our political and social mechanism allow drastic measures to be taken when necessary.
+
+**Humanities Approaches to Graphical Display**
+    The importance of the differentiation of data and capta didn’t come intuitively obvious to me when I first read the terms, nor was the distinction between realist and constructivist approaches to data visualization. It’s only when the author talked about the distance between the phenomenal world and its interpretation that the subject becomes illuminating. Relating to the similar topic of inevitable subjectivity during data interpretation in Six Provocations for Big Data, this article takes it further with illustrating how such subjectivity can’t be ignored but instead needs to be taken seriously with its value.
+The preface is very engaging in a way that’s making readers curious about what the principles of humanistic approaches are in this case, and what the visualization graphics would look like when such approaches are implemented.
+
+**Data as Capta**
+    The rest of the paper of Data as Capta engages us further with illustrated cases where information is inflected with humanistic aspects. The summarized functions of temporality and spatiality are especially demonstrative. Time and space as factors of contextual variables emphasizes the priority of human factors, but also implies to some extent that scientific methodologies are still valuable. This makes me start to imagine if there could be a way to improve the tools we have and integrate the humanistic approaches to serve a better purpose.
+    The promise of data has always been, at least in our ideal concept, an utter clarity and rationality of evidence, and the ability to reveal truth where it’s not immediately visible. On the way of generating, gathering and disseminating data we are sort of carried away, and even intimidated by the overwhelming amounts of data that is already out of our control, and somehow lost sense of what’s more important. The tools at hand for data analysis are still primitive. Only by acknowledging the problem, we’re one step further towards a better understanding of how to live with data. Having humanistic approaches as a starting point and as guiding principles along the way may be a safeguard against deviations brought by unpredictable advances in technology.
