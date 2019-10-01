@@ -4,6 +4,8 @@ published: false
 category: commentary
 title: 'Big Data : Crawford'
 author: Karyn Pugliese
+tags:
+  - Digital_Humanities
 ---
 > We loved with a love that was more than love
 
