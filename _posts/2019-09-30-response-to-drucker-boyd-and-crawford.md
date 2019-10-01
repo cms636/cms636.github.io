@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: 'Response to Drucker, boyd and Crawford'
-author: ''
-tags: ''
+author: Ben Silverman
 ---
 I agree strongly with Drucker's central argument: that data are not simply collected but created and interpreted, and that a critical lens is rarely applied to data visualization--often in the rush to adopt digital platforms and make eye-catching visuals. However, I take issue with many of the alternative visualizations she uses as examples to illustrate that argument. Trying to demonstrate migration, "gender ambiguity," and cultural constructionism in one chart seems unnecessarily ambitious. And the image itself communicates little without its long accompanying text (15). In contrast, the "hours as a function of time pressures" (19) chart doesn't suffer these problems and is perhaps the best and most concise illustration of Drucker's argument. The publishing timeline is also great (24).
 
