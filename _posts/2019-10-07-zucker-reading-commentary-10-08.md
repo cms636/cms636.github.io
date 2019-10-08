@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: Zucker_ Reading Commentary 10/08
+author: Meesh Zucker
+tags:
+  - Cartographies of Time
 ---
 Cartographies of Time
 
