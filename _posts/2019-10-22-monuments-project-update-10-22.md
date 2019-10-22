@@ -5,4 +5,5 @@ category: updates
 title: Monuments Project Update 10/22
 author: Anna Ivanov
 ---
-[https://docs.google.com/presentation/d/1Zhxl12CVlPzAjmPxw0D8birZWtdKY5VHiSnjywLJH5o/edit?usp=sharing](https://docs.google.com/presentation/d/1Zhxl12CVlPzAjmPxw0D8birZWtdKY5VHiSnjywLJH5o/edit?usp=sharing)
+
+https://docs.google.com/presentation/d/1Zhxl12CVlPzAjmPxw0D8birZWtdKY5VHiSnjywLJH5o/edit#slide=id.p
