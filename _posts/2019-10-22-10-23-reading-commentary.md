@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: 10/23 Reading Commentary
+title: 10/22 Reading Commentary
 author: Enuma Mokel
 ---
 **Color and Information:**
@@ -13,4 +13,3 @@ Reading this chapter, I think I could appreciate some of the challenges inherent
 
 **The Potential of Spatial Humanities:**
 As with many of the texts that we have read this semester, I was a little surprised by how much this piece challenged my current way of thinking about mapping. Mapping was one thing that I thought was pretty straight forward and not very contentious because I always thought that 2d representations was fairly representative of the real world without much room for argument. But as Bodenhamer explains, I didn’t realize how much information can truly be lost and never really gave much thought to how other cultures, and even just other people interpret what is being shown.
-
