@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: 11/5 Reading Commentary
 author: Enuma MOkel
