@@ -4,7 +4,6 @@ published: true
 category: commentary
 title: Anna Ivanov 11/4 Response
 author: Anna Ivanov
-tags: ''
 ---
 
 I really appreciated the emphasis on process in the all of these articles. They clearly illustrated the work that went into each visualization, as well as the inspirations, complications, and collaborations involved in that work. It was evident that everyone working on these projects had thought seriously about the users and implications of their work, and they explained it very clearly for someone unfamiliar with these projects, data or institutions. I was especially impressed by the honesty in which they discussed their evolution throughout the working process, as they learned which factors to consider more and which to leave behind.
@@ -16,4 +15,3 @@ I’m curious about how these visualizations work in practice, especially on the
 As I mentioned before, I felt uneasy with some of the ideas of representing individuals through large-scale visualizations. The authors addressed it at some level, but I think the implications of such maps could be not entirely positive. As far as I know, publishing and collaboration are still connected with bias in many institutions. I’m worried that in such a graphic, they would be emphasized even more than they are already, so members of an institution could be affected negatively for not having access to them. Of course, the article pointed out ways in which bias could be minimized through the use of their visualizations, and I’m sure there are many benefits, but with anything that represents nuanced activities through visualization, I’m worried about what can’t be represented. 
     
 These articles worked very well together to give a historical and theoretical understanding of the methods used, an exploration of their usage in this project, and a very clear explanation of their implementation and implications. I previously knew very little about any of the techniques or technologies mentioned, and they definitely succeeded in provoking my interest in them.
-
