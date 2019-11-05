@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: Rodighiero response
+author: Ben
 ---
 ## "Printing Walkable Visualizations"
 To me, the most interesting parts here are when people became upset that they weren't represented in the visualizations--easily corrected in a digital environment, but when made physical, it is more permanent (or at least costly to amend). Thus when Dario visualized the collective, he was also, by necessity, excluding some people. I wonder what it could have looked like if it were more flexible, with the option of adding and removing people—-otherwise you end up with a defined, fixed, bounded group rather than a representation of the real ever-shifting, growing and shrinking network.
