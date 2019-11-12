@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Text Mining- Anna
 ---
@@ -17,4 +17,6 @@ Although I was using these tools in a simple, exploratory way, I think they coul
 Something I did not fully consider was the point raised (by way of Lisa Marie Rhody) in Binder’s piece, that “topic models of poetry must be read in a different way from those based on scientific journals.” This makes sense to me, and I think I’ve been doing that previously, but it was important for me to stop and think about it. For example, with Akhmatova, I never thought that all the instances of words like “water” and “wind” were from poems ‘only’ about nature; I assumed they were part of reoccurring metaphors. That said, to truly represent Akhmatova’s work, or at least her usage of these words, I think you’d have to separate the ‘figurative’ uses of “water” and “wind” (or any other words) from the more ‘literal’ ones, which is essentially impossible. This definitely became clear as I tried the other tools.
 
 The Topigraph didn’t work for me- on English or Russian texts. The JSTOR one was surprisingly accurate at suggesting topics for English-language pieces, although the suggested articles were surprisingly inaccurate! It also worked okay for Russian texts. The topics for poetry were pretty funny and reminded me of Rhody’s point about figurative language. For example, for Pushkin, the top 5 suggested topics were coniferous forests, blood, heart, psalmody, and sleep patterns. At least for the forests, blood, heart, and sleep, I’m certain that most of the time, Pushkin used these topics figuratively! For Akhmatova, JSTOR gave mercy, muses, graves, blood composition, and solar atmosphere, with the following full set of topics:
+![Picture1.jpg]({{site.baseurl}}/assets/Picture1.jpg)
 
+This seemed pretty accurate in terms of her symbolic usage, with some notable (and funny) exceptions; for example, AA lava was suggested because she often signed poems with the initials of her first name and patronymic- A.A. Obviously the scholarship recommended based on both of these was completely unrelated, so I tried a few papers I’d written in English and the recommendations seemed okay.
