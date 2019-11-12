@@ -18,7 +18,7 @@ Akhmatova
 
 Although I was using these tools in a simple, exploratory way, I think they could still serve argumentative purposes. For example, scholarship on Akhmatova often (and in my opinion, incorrectly) posits that she was a “love poet” in her early writing and a “serious” poet in her later work. Using terms over time, such as the ones above, larger patterns are clear. Or, for example, illustrating her use of the word “muse” or “people” (as in ‘my people, the Russian people’) shows that she considered “serious” topics throughout her career:
 
-![]({{site.baseurl}}/assets/Screen%20Shot%202019-11-11%20at%207.08.57%20PM.png)
+![Screen Shot 2019-11-11 at 7.08.57 PM.png]({{site.baseurl}}/assets/Screen%20Shot%202019-11-11%20at%207.08.57%20PM.png)
 
 Something I did not fully consider was the point raised (by way of Lisa Marie Rhody) in Binder’s piece, that “topic models of poetry must be read in a different way from those based on scientific journals.” This makes sense to me, and I think I’ve been doing that previously, but it was important for me to stop and think about it. For example, with Akhmatova, I never thought that all the instances of words like “water” and “wind” were from poems ‘only’ about nature; I assumed they were part of reoccurring metaphors. That said, to truly represent Akhmatova’s work, or at least her usage of these words, I think you’d have to separate the ‘figurative’ uses of “water” and “wind” (or any other words) from the more ‘literal’ ones, which is essentially impossible. This definitely became clear as I tried the other tools.
 
