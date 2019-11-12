@@ -16,6 +16,6 @@ From Text Analyzer, I was given key words that are used in the text, which all s
 
 **Voyant Tools**
 
-I also tried using Voyant Tools, which has a very different output than Text Analyzer. It seems like Text Analyzer has a more sophisticated algorithm that focuses on nouns, while Voyant Tools appears to have less filtering and thus considers adjectives, adverbs, and articles as well. It seems like Text Analyzer is better at finding the topic of the text, but maybe combined with the results of Voyant Tools a deeper understanding of the text can be uncovered, such as sentiment or genre.
+I also tried using Voyant Tools, which has a very different output than Text Analyzer. It seems like Text Analyzer has a more sophisticated word filtering algorithm that focuses on nouns, while Voyant Tools appears to have less filtering and thus considers adjectives, adverbs, and articles as well. However, Voyant Tools does a deeper investigation into factors such as where along the text words are used. It seems like Text Analyzer is better at finding the topic of the text, but combined with the results of Voyant Tools perhaps a deeper understanding of the text can be uncovered, such as sentiment or genre.
 
 ![kwak_voyant.png]({{site.baseurl}}/assets/kwak_voyant.png)
