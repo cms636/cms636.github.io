@@ -10,7 +10,7 @@ For this exercise, I picked Wild Kindred by Jean M. Thompson at random to proces
 
 **Text Analyzer**
 
-From Text Analyzer, I was given key words that are used in the text, which all seemed to do with animals and nature. I gathered from this, and inference from the title, that the text was most likely a narrative about nature. I thought it was interesting that Text Analyzer recommends other texts based on the results of the processed text. It seemed to find connections with more informational, rather than narrative, texts about species of animals due to the key words. This seems to show the limitation of text mining using bodies of text as "bags of words" since deeper analysis is needed to uncover the genre of the text and make more relevant recommendations.
+From Text Analyzer, I was given key words that are used in the text, which all seemed to do with animals and nature. I gathered from this, and inferred from the title, that the text was most likely a narrative about nature. I thought it was interesting that Text Analyzer recommends other texts based on the results of the processed text. It seemed to find connections with more informational, rather than narrative, texts about species of animals due to the key words. This seems to show the limitation of text mining using bodies of text as "bags of words" since deeper analysis is needed to uncover the genre of the text and make more relevant recommendations.
 
 ![kwak_textanalyzer.png]({{site.baseurl}}/assets/kwak_textanalyzer.png)
 
