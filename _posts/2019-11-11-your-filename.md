@@ -11,8 +11,8 @@ For the text mining exercise, I spent some time looking at the canon of my favor
 ![Screen Shot 2019-11-11 at 5.53.56 PM.png]({{site.baseurl}}/assets/Screen Shot 2019-11-11 at 5.53.56 PM.png)
 
 Pushkin
+![]({{site.baseurl}}/assets/Screen Shot 2019-11-11 at 5.55.20 PM.png)
 
-![Screen Shot 2019-11-11 at 5.53.56 PM.png]({{site.baseurl}}/assets/Screen%20Shot%202019-11-11%20at%205.53.56%20PM.png)
 
 Akhmatova
 
