@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: MZucker_Assn 8
+author: 'Meesh [Michelle] Zucker'
 ---
 MZucker_A Text Exploration
 
