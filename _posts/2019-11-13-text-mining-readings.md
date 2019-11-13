@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: Text Mining Readings
+author: Meesh Zucker
 ---
 Reading... into Text Mining
 
