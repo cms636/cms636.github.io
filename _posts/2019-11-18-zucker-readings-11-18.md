@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: Zucker_Readings 11/18
+author: Meesh Zucker
 ---
 Zucker_Reading 11/18
 
