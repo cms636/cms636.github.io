@@ -5,7 +5,9 @@ category: updates
 title: diMAPspora Progress Summary
 author: 'Seo Yeon (Rachel) Kwak, Enuma Mokel'
 ---
-**Data**
+**Data** 
+
+The data we used came from Integrated Public Use Microdata Series (IPUMS) which is used to access individual population data from the US Census and American Community Survey (ACS). We used the American Community survey from 2005-2017 to gather information about what language is spoken in a given household, and where those inidividuals are located in orde to build this tool. We also used information from the US census to get population estimates by state for this range in order to calculate the density of speakers at a state level. We had also hoped to make this tool more granular and be able to display information at a county level, but there were only limited counties available.
 
 **Technological Approach**
 	
