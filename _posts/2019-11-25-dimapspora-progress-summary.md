@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: diMAPspora Progress Summary
 author: 'Seo Yeon (Rachel) Kwak, Enuma Mokel'
