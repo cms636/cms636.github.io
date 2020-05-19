@@ -5,18 +5,18 @@ This is the collaborative Jekyll site for CMS.633, a digital humanities course a
 1. In the command line, run `cd cms633.github.io` (swap in the name of the directory containing your local copy of the repo, if different). Run `git pull` to bring it up to date.
 1. Make a copy of your local cms633.github.io directory. Name it cms633-new.
 1. In your web browser, log in to GitHub using the cms633 login (passord in HS wiki). Go to [https://github.com/cms633/cms633.github.io/settings](https://github.com/cms633/cms633.github.io/settings)
-1. Under settings > Repository name, change cms633.github.io to Fall-2019. Click rename.
-1. In the command line, in your cms633.github.io directory, run `git remote set-url origin https://github.com/cms633/Fall-2019.git`
-1. In your cms633.github.io directory, open `_config.yml` in a text editor. In the lines reading `url:` and `siteurl: "http://cms633.github.io"`, add `/Fall-2019` to the end of the url string. Also add `/Fall-2019` inside the quotes after `baseurl:`. In the line with `relativeLinks:`, add `/Fall-2019` before `/links.jsonp`.
-1. In your cms633.github.io directory, navigate to the _includes directory and open header.html in a text editor. Add this line of HTML before line 5 (`<a class=“site-tile” …`):<br /> `<p class="archive-notice">This is the archived site for the Fall 2019 session of CMS.633 — for the current site, click <a href="http://cms633.github.io/">here</a>.</p>`
+1. Under settings > Repository name, change cms633.github.io to Fall-2020. Click rename.
+1. In the command line, in your cms633.github.io directory, run `git remote set-url origin https://github.com/cms633/Fall-2020.git`
+1. In your cms633.github.io directory, open `_config.yml` in a text editor. In the lines reading `url:` and `siteurl: "http://cms633.github.io"`, add `/Fall-2020` to the end of the url string. Also add `/Fall-2020` inside the quotes after `baseurl:`. In the line with `relativeLinks:`, add `/Fall-2020` before `/links.jsonp`.
+1. In your cms633.github.io directory, navigate to the _includes directory and open header.html in a text editor. Add this line of HTML before line 5 (`<a class=“site-tile” …`):<br /> `<p class="archive-notice">This is the archived site for the Fall 2020 session of CMS.633 — for the current site, click <a href="http://cms633.github.io/">here</a>.</p>`
 1. In the command line, run the following commands:<br />
 `git add .`<br />
 `git commit -m "changes for archived site"`<br />
 `git push origin master`
-1. At [https://github.com/cms633/Fall-2019](https://github.com/cms633/Fall-2019), click the dropdown button that says “Branch: master”. In the text field, type gh-pages. Then click “Create branch: gh-pages.”
+1. At [https://github.com/cms633/Fall-2020](https://github.com/cms633/Fall-2020), click the dropdown button that says “Branch: master”. In the text field, type gh-pages. Then click “Create branch: gh-pages.”
 1. In the command line, run `cd ../` to back out of the directory.
-1. Rename your local cms633.github.io directory to cms633-Fall-2019.
-1. Notify last year's students that URLs for their material on the site have changed (they will need to insert `/Fall-2019` in any links to the site). The students are still collaborators on the archived site. If they wish to edit or remove their content, they should push changes to the gh-pages branch of the repo.
+1. Rename your local cms633.github.io directory to cms633-Fall-2020.
+1. Notify last year's students that URLs for their material on the site have changed (they will need to insert `/Fall-2020` in any links to the site). The students are still collaborators on the archived site. If they wish to edit or remove their content, they should push changes to the gh-pages branch of the repo.
 
 ### Preparing the new site
 1. Rename the cms633-temp directory you made to cms633.github.io
@@ -27,8 +27,8 @@ This is the collaborative Jekyll site for CMS.633, a digital humanities course a
     - Anything in the `_drafts` folder
 1. Copy the new syllabus PDF to the assets folder and name it cms-633-syllabus.pdf (replacing the old one if it’s still there)
 1. Open index.html in a text editor. In line 20, change the URL for the Stellar site to the correct URL for this year’s course.
-1. Open `_includes/header.html` in a text editor. Find the line (30) that reads `<li><a href="http://cms633.github.io/Fall-2018/">Fall-2018</a></li>`. Copy and paste it onto the next line and change both instances of `Fall-2018` to `Fall-2019`.
-1. Open README.md. Change all instances of `2019` to `2020`, and all instances of `2018` to `2019`.
+1. Open `_includes/header.html` in a text editor. Find the line (30) that reads `<li><a href="http://cms633.github.io/Fall-2019/">Fall-2019</a></li>`. Copy and paste it onto the next line and change both instances of `Fall-2019` to `Fall-2020`.
+1. Open README.md. Change all instances of `2020` to `2020`, and all instances of `2019` to `2020`.
 1. Save all changes. In the command line, run `git add .`, then `git commit -m “updated site for current year”`.
 1. In your web browser, go to [https://github.com/new](https://github.com/new) and in the “Repository name” field, type "cms633.github.io". Enter a description in the “Description" field, e.g. "Course site for CMS 633/833 — Digital Humanities: Topics, Techniques, and Technologies”. Click “Create repository”.
 1. If using GitHub credentials in the command line other than those for cms633, add yourself as a collaborator (see below). For attaching GitHub credentials to git, see [https://help.github.com/articles/set-up-git/](https://help.github.com/articles/set-up-git/)
