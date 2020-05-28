@@ -1,8 +1,0 @@
----
-layout: post
-published: true
-category: commentary
-title: Text Mining
-author: Lucy
----
-In “What is Text mining”, the advantages and disadvantages of text mining are outlined clearly. It is a step closer in understanding natural language processing methods, while it is still a long way from extracting insights rather than already-known facts. It raises a good question of how this technology can be used as an effective and accurate method of harvesting information in humanities studies, where a lot of the data are spoken words and behaviors of people that are not recorded in easy-to-parse verses. But what’s intriguing about text mining is that it lies in the middle-ground between subjectivity and objectivity. Expression in textual form is still something that is dependent on the individual, yet analyzing the repetition and occurrence of these key words and phrases in an “dry” and objective form creates a different narrative than reading through these texts themselves. Such as MALLET, which outputs a summary of the topics extracted from the text, and exists as a stand-along, algorithm-generated interpretation that is neither the original text, nor an opinionated response. While Untangling Text Data Mining describes the heterogeneous mix of operations used in real efforts to extract information, the Alien reading was a lot more interesting as it talks about implications of context in relation to culture and history. It’s hopeful, in a sense that it hopes the unknown possibilities of natural language and humanities analysis can influence the way we act and record, hence paving way for the future where our records are more closely aligned with what is machine is capable of processing. 
