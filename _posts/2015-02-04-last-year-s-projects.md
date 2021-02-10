@@ -1,8 +1,8 @@
 ---
 layout: post
-published: true
-title: "2014's Student Projects"
-category: "ext-projects"
+published: false
+title: 2014's Student Projects
+category: ext-projects
 author: Andy
 ---
 
