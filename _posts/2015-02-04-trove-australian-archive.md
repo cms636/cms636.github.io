@@ -1,8 +1,8 @@
 ---
 layout: post
-published: true
+published: false
 title: Trove Australian Archive
-category: "ext-projects"
+category: ext-projects
 author: Andy
 ---
 
