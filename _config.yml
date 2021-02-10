@@ -47,7 +47,7 @@ prose:
               value: "people"
             - name: "Museum Projects"
               value: "ext-projects"
-            - name: "Data Sets"
+            - name: "Resources"
               value: "datasets"
             - name: "About"
               value: "course"
