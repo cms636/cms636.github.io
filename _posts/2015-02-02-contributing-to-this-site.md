@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Contributing to This Site
 category: course
-author: Andy
+author: Kurt
 ---
 
 This site is collaboratively managed using [GitHub](https://github.com), [Jekyll](http://jekyllrb.com/), and [Prose](http://prose.io/). To get started adding material to this site, just follow these steps:
