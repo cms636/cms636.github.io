@@ -1,8 +1,8 @@
 ---
 layout: post
-published: true
+published: false
 title: Mapping the Republic of Letters
-category: "ext-projects"
+category: ext-projects
 author: Andy
 ---
 
