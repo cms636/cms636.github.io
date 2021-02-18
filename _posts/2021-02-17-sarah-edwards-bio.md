@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: people
-title: Sarah Edwards Bio
+title: Sarah Edwards
 author: Sarah Edwards
 ---
 
