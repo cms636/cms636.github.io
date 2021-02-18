@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: people
 title: Georgia Van de Zande
+author: Georgia Van de Zande
 ---
 ![gdvdz.jpg]({{site.baseurl}}/assets/gdvdz.jpg)
 
