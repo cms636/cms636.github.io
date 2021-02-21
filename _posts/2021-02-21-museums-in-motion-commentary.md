@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: 'Museums in Motion: Commentary'
 author: Antonella Masini
@@ -13,4 +13,4 @@ The Greeks were the founders of museums. For them, these were places of study as
  
 I find it contradicting that even today numerous museums are still definitely not cheap, especially if you do not have a student ID. If museums are meant to be centers of education and public enlightenment, how come they are not accessible for the people who need them the most? People who are currently not enrolled in college, people who might not have the resources to afford a good quality education. I understand that it is expensive to maintain said cultural institutions, but I would really like to see more efforts into reducing the entrance fee. 
  
-In regards to museums trying to adapt to the modern world, what Arthur Parkes says really resonated with me: “museums that are not changing are in essence dead institutions”. It is imperative for museums to always try to understand their public, what they are looking for.. Or even better: offer them what they didn’t know they needed. In particular, I find it inspiring and valuable when museums honestly try to encourage dialogue between the public since this will not only promote active learning (one of the best ways to retain information), but will also allow people to further their awareness and empathy for others. I truly believe that we would live in a better world if discussions between strangers were encouraged instead of feared. 
+In regards to museums trying to adapt to the modern world, what Arthur Parkes says really resonated with me: “museums that are not changing are in essence dead institutions”. It is imperative for museums to always try to understand their public, what they are looking for.. Or even better: offer them what they didn’t know they needed. In particular, I find it inspiring and valuable when museums honestly try to encourage dialogue between the public since this will not only promote active learning (one of the best ways to retain information), but will also allow people to further their awareness and empathy for others. I truly believe that we would live in a better world if discussions between strangers were encouraged instead of feared.
