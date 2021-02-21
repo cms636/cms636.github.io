@@ -7,7 +7,7 @@ author: Antonella Masini
 tags:
   - Week 2
 ---
-The exact definition of what a museum is has always been a puzzle to me. There are so many different types of them: general, natural history, science and technology, art – just to name a few and without even mentioning virtual or Instagram museums.However, something that I had not considered before was that how much you like museums would also influence one’s definition. As Alexander mentions in the book _Museums in Motion_, it is also important to highlight how much museums, or at least the concept of them, has evolved throughout the years. 
+The exact definition of what a museum is has always been a puzzle to me. There are so many different types of them: general, natural history, science and technology, art – just to name a few and without even mentioning virtual or Instagram museums. However, something that I had not considered before was that how much you like museums would also influence one’s definition. As Alexander mentions in the book _Museums in Motion_, it is also important to highlight how much museums, or at least the concept of them, has evolved throughout the years. 
  
 The Greeks were the founders of museums. For them, these were places of study as well as repositories of collections and more often than not, open to the general public. However, during the Middle Ages in western Europe, museums started becoming private, accessible only by princes, popes and plutocrats. As museums became more widespread and the United States started embracing these new cultural institutions, museums became more available to the general public. However, I believe that even today there is still room for improvement regarding this issue. 
  
