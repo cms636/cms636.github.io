@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: commentary
+category: ext-projects
 title: MOCA Website Commentary
 author: Sarah Edwards
 tags:
@@ -14,4 +14,4 @@ In adjusting to the pandemic, MOCA has created a series called Virtual MOCA. The
 
 Other programming emphasizes MOCA’s connection to community, outdoor space, and education of relevant current events. Recent and upcoming panels focus on the use of public space in addressing issues such as environmental activism, homelessness in Los Angeles, and social injustice. 
 
-The MOCA website has some features likely more appealing to the regular art enthusiast. Reminders of current and recent exhibitions focus on artworks that are visually striking, like a piece by Barbara Kruger which takes up an entire exterior wall of one of the buildings, or another that features a set of rooms lit with colored lights. They also screen experimental and video art twice a month through their MOCA Screen program, and feature various artists and their studios through their Virtual Studio tours. The relative balance between these parts of the website with the other community focused events seem to prioritize connection through art over the experience of art in and of itself. 
+The MOCA website has some features likely more appealing to the regular art enthusiast. Reminders of current and recent exhibitions focus on artworks that are visually striking, like a piece by Barbara Kruger which takes up an entire exterior wall of one of the buildings, or another that features a set of rooms lit with colored lights. They also screen experimental and video art twice a month through their MOCA Screen program, and feature various artists and their studios through their Virtual Studio tours. The relative balance between these parts of the website with the other community focused events seem to prioritize connection through art over the experience of art in and of itself.
