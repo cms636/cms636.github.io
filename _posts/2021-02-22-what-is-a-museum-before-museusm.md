@@ -1,8 +1,11 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: What is a museum / Before Museusm
+tags:
+  - Week 2
+author: Justin Blinder
 ---
 A theme that struck me in Alexander’s essay was how empire and power have historically been present in the formation and ownership of museums. Since the start, the political and religious elite were the main owners and patrons (“members”) of museums. Alexander highlights how the paintings and sculptures in Roman museums were typically acquired throughout their conquests, and mentions Napoleon's attempts to make museums "an instrument of national glory".
 
