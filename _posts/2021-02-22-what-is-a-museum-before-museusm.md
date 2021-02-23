@@ -3,8 +3,6 @@ layout: post
 published: false
 category: updates
 title: What is a museum / Before Museusm
-author: ''
-tags: ''
 ---
 A theme that struck me in Alexander’s essay was how empire and power have historically been present in the formation and ownership of museums. Since the start, the political and religious elite were the main owners and patrons (“members”) of museums. Alexander highlights how the paintings and sculptures in Roman museums were typically acquired throughout their conquests, and mentions Napoleon's attempts to make museums "an instrument of national glory".
 
@@ -12,4 +10,4 @@ I’m more used to thinking about how museums shape popular culture than how pol
 
 This reading also brought to mind the transdisciplinary evolution of museums. To me, Benjamin Ives Gilman's attempt to (conceptually) distance art museums from education centers and the sciences—  "a museum of science... in essence a school; a museum of art in essence a temple."— stands in stark contrast to how much the arts, sciences and humanities are now deeply intertwined. For example, different scientific techniques are increasingly being used in the arts to better understand artistic methods and historical context in which artworks were created. Here, I'm reminded of how infrared photography was recently used to help solve the decades-old mystery of who inscribed “Could only have been painted by a madman” on Edvard Munch’s “The Scream” painting-- [It was Edvard Munch](https://www.nytimes.com/2021/02/21/arts/design/edvard-munch-scream-inscription.html).
 
-I think this transdisciplinary approach is also present in the curation of curiosity cabinets as described by Bowery. In the examples she provides, much of our understanding of these objects comes from how they “actively perform the entangled nature of objects through their selection and categorisation of material.” and confront the “limits of representation”. 
+I think this transdisciplinary approach is also present in the curation of curiosity cabinets as described by Bowery. In the examples she provides, much of our understanding of these objects comes from how they “actively perform the entangled nature of objects through their selection and categorisation of material.” and confront the “limits of representation”.
