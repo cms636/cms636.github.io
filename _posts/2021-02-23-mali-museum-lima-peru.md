@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: ext-projects
 title: Mali Museum Lima Peru
 author: Antonella Masini
@@ -12,4 +12,3 @@ I have always been a big fan of this museum because of his natural bohemian styl
 As soon as someone goes into the MALI website, they will encounter themselves with a big banner saying that the museum will be indefinitely closed from the 30th of January. However, when clicking this announcement, the visitor will see many other opportunities to interact and become part of the museum community. For example, during the month of February they are offering online classes of plastic arts, performing arts, dances, and more. In addition, they have a virtual store, a YouTube channel with mini-documentaries and even a Spotify playlist. 
 
 After visiting so often this museum I feel that the website is misrepresenting the feeling of belonging that MALI strive to convey. Nevertheless, I must acknowledge their ability to cope with a pandemic. They are offering the public a vast list of resources that they can use from home in order to continue feeling part of this friendly and supportive cultural community, which is very impressive considering the short amount of time that they got to organize it.
-
