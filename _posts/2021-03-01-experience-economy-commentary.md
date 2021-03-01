@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: Experience Economy Commentary
+title: Commentary on The Experience Economy
 author: 'Joy Li '
 tags:
   - Week 3
