@@ -1,0 +1,13 @@
+---
+layout: post
+published: true
+category: commentary
+title: '"The Experience Economy" Commentary'
+author: Delace Jia
+tags:
+  - Week 3
+---
+“The Experience Economy” presents the principles of effectively creating an experience for consumers. I think it’s interesting how Pine and Gilmore define a spectrum of participation in experiences, which ranges from passive to active. Pine and Gilmore argue that even in a passive experience such as a ski race, spectators still actively participate through their contribution to the visual and aural environment simply by being there. The mere presence of a person can change the environment of an experience. These remarks also highlight the uniqueness of an experience, as one trip to a museum, for example, can differ from another just from the people that were there (particularly so if one visit was crowded and another empty). The uniqueness of experiences is also interesting in regards to themes. It stood out to me that Pine and Gilmore point out only ten main themes in staged experiences, and yet elaborated that the manifestations of these themes create endless possibilities depending on their settings and contexts. 
+
+It’s interesting to think that what seems to be a complex or niche experience could still be stripped down to reveal a simple (and common) theme. For example, the company [Meow Wolf](https://meowwolf.com/visit/santa-fe/about) has an interactive art exhibition in Santa Fe, with hidden a hidden storyline revealed through finding audio recordings and diaries, interacting with performance artists throughout the venue, and traveling through the exhibition (such as going through a washing machine). Although it houses absurd elements, to pare it down one could define the theme of Meow Wolf as “modernism and progress” and “representing the unrepresentable”, as the exhibition’s message is to present the way that sounds are changing in public perception and represents this change. I must admit that I’ve only heard about and haven’t been to this exhibition, however, so these may not be the correct themes. At the same time, not being able to fully pinpoint down how Meow Wolf relates to one of the ten themes makes me consider that perhaps the complexity still exists in an experience’s backbones, where the themes of experiences are perhaps a hybrid of Gottdiener’s ten defined themes. This uncertainty also ties to Pine and Gilmore’s statement that themes “needn’t be publicly articulated.” Although the creators of an experience have a theme they present in their experience, it doesn’t necessarily have to be the theme that the audience perceives. 
+
