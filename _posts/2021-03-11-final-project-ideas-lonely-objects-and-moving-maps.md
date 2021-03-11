@@ -31,6 +31,6 @@ Given the immmense amount of planning and consideration that goes into museum ar
 
 This tool would ideally be designed to allow visitors to navigate the museum in ways based on their own interests. However, this information could also be useful for the museum to discover their visitor’s nuanced interests and how that relates to the location of works. Some examples of analyzing images/ grouping/ filtering objects include clustering images based on visual or content similarity (e.g. blue paintings, pictures of cats), creating topics from works across collections (e.g. all works related to birth/ death), and other approaches. Each path would be saved, and when a new visitor enters a similar criteria the application could suggest similar paths/ works they might be interested in.
 
-I think web development (HTML/CSS/Javascript), data science (NLP, classification), data visualization, and/ or UX/ UI design skills would all be relevant. 
+I think web development (HTML/CSS/Javascript), data science (NLP, classification), data visualization, AR experience, and/ or UX/ UI design skills would all be relevant. 
 
 [Example image](https://i.imgur.com/s10npmk.png)
