@@ -4,7 +4,14 @@ published: true
 category: updates
 title: 'Final Project Brainstorm: Youth Involvement and Complete Consumption'
 author: Delace Jia
+tags: ''
 ---
+**UPDATE**: For **Youth Over Yonder**, I think the idea could expand beyond a resource and more into a tool for engagement. This could mean beyond getting museum youth prices, also creating some type of interactive points system or sharing apparatus that would work to engage teens from their experiences at a museum. I'm still a little uncertain on what tools would engage teenagers, especially because I'm no longer one :/
+
+Considering my **Complete Consumption** idea, I do still like the idea of a holistic experience being curated for you beyond the museum visit. I do realize, however, that creating connections between experiences is not that easy. An update I have for this project idea is that maybe the suggestions aren’t necessarily experiences such as restaurants or other attractions for one to visit, but are instead things like recipes and books and other entertainment and media that are related. The user would scan a piece of artwork at a museum, and the program would return tidbits about the history, process, or artist of the piece and then provide photos with links to related media. 
+
+I think my idea of providing extra background into the creation and miscellaneous background of an art piece could potentially be connected to other projects. I really like Justin’s idea of looking at the foot traffic of museums, and it would be cool to somehow have a two-way system where the user scanning for more information also provides information to the app of what pieces the user decided to scan. I also like Mulan’s idea of enhancing museum brochures and can see how it could connect to my idea, where maybe the user scans a QR code on the brochure and gets these related experiences and background information. 
+
 **Youth Over Yonder**
 - The problem this project aims to address is the low participation of the youth in cultural experiences such as museums. The project would attempt to provide a resource where museums with discounted youth prices are collected in one area for students to reference.
 - The envisioned audience for this project would be teenagers. Parents with younger children could also potentially use this project. 
