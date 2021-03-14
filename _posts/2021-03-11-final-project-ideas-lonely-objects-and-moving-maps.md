@@ -4,7 +4,13 @@ published: true
 category: updates
 title: 'Final project ideas: lonely objects and moving maps'
 author: Justin Blinder
+tags: ''
 ---
+**Update:**
+After learning more about other folks ideas, I saw some overlapping themes with Sarah, Mulan, and Delace's concepts in terms of adding extra context/ content to collections and thinking about how visitors traverse museums. One variation on the idea I had of determining popular works via visitor tracking is using online, social representations of museums as a way of curating new ("off the beaten path") experiences for visitors. Many MFA visitors post photos of works they viewed on Instagram and tag the museum. I think using this using data to determine artists, works, time periods, etc. that. are shared the most could be an interesting way to uncover under-explored/ un-shared areas in the museum. This information could then be used to guide new/ returning visitors towards these areas. This could be in the form of an interactive map, brochure, game, etc. and also provide additional media/ content to incentivize exploration.
+
+---
+
 I came up with two rough ideas that could be explored at an institution with a diverse collection, like the MFA, the Getty museum, or the Met.
 
 **What are the least viewed pieces at museums?**  
