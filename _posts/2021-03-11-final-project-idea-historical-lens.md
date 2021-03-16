@@ -4,7 +4,10 @@ published: true
 category: updates
 title: Final Project Idea - Historical Lens
 author: Trevor Morrisey
+tags: ''
 ---
+**Update: Due to the need to work with physical objects, I think my original idea might be difficult to execute during the pandemic. Audrey, Georgia, and Shayna had all proposed augmented reality projects as well and I would be interested in working on developing any of those ideas.**
+
 Many objects in museums and at historical sites are heavily damaged or are incomplete fragments of a larger piece. In some of these cases, historians have been able to develop descriptions or visual representations of the original appearances of these objects which are likely fairly accurate. However, these attempts to depict the original appearance of an artifact can feel disconnected from the actual object.
 
 Historical Lens will be an augmented reality app used to display these recreations in the same physical space as the object. It’s important that the objects being explored will truly be augmented when viewed through the app and not just immediately replaced by a digital model. Options would vary based on what information is available for each individual piece, but ideally, users would have several different ways of viewing an object such as superimposing a wireframe of the complete piece over a fragment or slowly fading in a digital recreation over the object.
