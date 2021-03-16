@@ -6,7 +6,7 @@ title: Project Idea
 author: 'Joy Li '
 ---
 **Update:**
-I want to lean more into telling a story of objects in a way that is digestable and using unique aspects of artifacts and artworks as a part of that story. Another interest I have is using similarly told stories to be curated into it's own exhibition. Perhaps it's a certain painting technique or art style that you would like to see more of, there would be a curated exhibition based on your interests that help you gain more out of a museum experience. I think I have some overlap in areas that Justin and Mulan are interested in terms of adding more context to artworks. I'm also interested in thinking more about mapping and how that effects the museum experience. 
+I want to lean more into telling a story of objects in a way that is digestable and using unique aspects of artifacts and artworks as a part of that story. Another interest I have is using similarly told stories to be curated into it's own exhibition. Perhaps it's a certain painting technique or art style that you would like to see more of, there would be a curated exhibition based on your interests that help you gain more out of a museum experience. 
 
 My idea, tentatively called Trace, is attempting to address finding the best way to learn the history of objects and exploring different aspects of artworks, cultural artifacts, crafts, etc. I want to be able to tell the story of how objects are made and highlight the process in which they were created and then preserved. 
 
