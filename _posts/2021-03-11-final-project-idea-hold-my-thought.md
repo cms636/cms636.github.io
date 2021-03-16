@@ -7,7 +7,7 @@ author: Antonella Masini
 ---
 **update**
 
-After hearing other people's thoughts, I realized that if I continue moving forward with this project, I would have to add some sense of purpose. For example, someone suggested to make the whole experience more game like and to make the outer walls transparent so that the public would be able to see what is happening from the outside. I was also looking at other people's project ideas and realized that Sarah and I were intending to use museums' spaces to create our own experience. I think that there is room for improvement here since what I would ideally want to create is something that is integrated in the museum, that is part of the museum, not that it merely uses the museum as a location.
+After hearing other people's thoughts, I realized that if I continue moving forward with this project, I would have to add some sense of purpose. For example, someone suggested making the whole experience more game like and to make the outer walls transparent so that the public would be able to see what is happening from the outside. I was also looking at other people's project ideas and realized that Sarah and I were intending to use museums' spaces to create our own experience. I think that there is room for improvement here since what I would ideally want to create is something that is integrated in the museum, that is part of the museum, not that it merely uses the museum as a location.
 
 
 --------------------
