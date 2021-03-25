@@ -10,11 +10,19 @@ author: Kurt Fendt
 museoFuturo’s themes are:
 
 the museum as microscope
+
 the museum as telescope
+
 the museum as stage
+
 the museum as warehouse
+
 the museum as place of travel
+
 the museum as toy
+
 the museum as public square
+
 the museum as laboratory
+
 the museum as computer
