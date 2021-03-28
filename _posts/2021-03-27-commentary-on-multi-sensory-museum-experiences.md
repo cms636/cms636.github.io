@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: Commentary on Multi-Sensory Museum Experiences
+title: Multi-Sensory Museum Experiences
 author: 'Joy Li '
 tags:
   - Week 7
