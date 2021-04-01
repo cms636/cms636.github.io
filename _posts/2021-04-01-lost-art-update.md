@@ -15,4 +15,26 @@ A visitor game experience using Instagram stories. Similar to the visitor curati
 
 The visitor Instagram stories from the curation and game experience will be shared with the museum— They have the option to share (repost) these on their official account. This also allows the museum to engage with these individuals on Instagram, starting a dialogue about these works. This interaction via Instagram allows the museum to further understand visitor behaviors and interests.
 
+---
+
+We fell this unlocks the following capabilities:
+
+**Museum**
+- Engagement and advertising
+- Direct communication with visitors
+
+**Visitors**
+- Museum acknowledgment
+- Social media oriented -- simplifies onboarding and overall experiences and no additional software needed
+- Explore art through creative lens
+
+
+
+![Screen Shot 2021-04-01 at 2.27.14 PM.png]({{site.baseurl}}/assets/Screen Shot 2021-04-01 at 2.27.14 PM.png)
+
+
 ![Extending the Museum - Final Project - Frame 1 (5).jpg]({{site.baseurl}}/assets/Extending the Museum - Final Project - Frame 1 (5).jpg)
+
+
+
+[Revised Pitch Deck](https://drive.google.com/file/d/11qUMYlzmO6HLj-pXgbdP0BUQqLErAxxi/view?usp=sharing)
