@@ -14,6 +14,8 @@ We want to incorporate the ability for users and museum staff to reply to visito
 
 We would like to keep the visitor-to-visitor interactions to just comments (no upvoting/downvoting). We chose to do this because we don’t anticipate enough use of this feature to give us enough useful data. If we want to have something like this, we could incorporate something like the NYT uses on it’s comment sections: the “NYT Pick.” With this feature, museum staff could highlight visitor responses they think are particularly insightful. These can be pushed to the top of the viewed list. 
 
+We have scheduled a call with Chris Atkins tomorrow to discuss these changes. 
+
 ## Wireframe Updates
 We've updated the wireframe to display one (randomized) comment at a time, with a button to view the next randomly selected comment. We've also added a screen for replying to an existing comment. We decided that the user would be able to view other people's responses without having to submit commentary of their own. 
 ![]({{site.baseurl}}/assets/Screen%20Shot%202021-03-31%20at%2010.34.23%20PM.png)
