@@ -20,7 +20,7 @@ The visitor Instagram stories from the curation and game experience will be shar
 
 ---
   
-
+  
 We fell this unlocks the following capabilities:
 
 **Museum**
