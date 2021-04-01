@@ -3,8 +3,6 @@ layout: post
 published: false
 category: updates
 title: ARticulate - April 1 Update
-author: ''
-tags: ''
 ---
 ## Concept Updates
 
@@ -13,3 +11,4 @@ We've updated the wireframe to display one (randomized) comment at a time, with 
 ![]({{site.baseurl}}/assets/Screen%20Shot%202021-03-31%20at%2010.34.23%20PM.png)
 
 ## Code
+We've started looking at documentation in more detail and performing some early tests to make sure our selected tools will work the way we're expecting.
