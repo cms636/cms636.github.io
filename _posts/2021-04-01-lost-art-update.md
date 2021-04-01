@@ -18,19 +18,20 @@ Similar to the visitor curation experience, the museum asks visitors to photogra
 
 The visitor Instagram stories from the curation and game experience will be shared with the museum— They have the option to share (repost) these on their official account. This also allows the museum to engage with these individuals on Instagram, starting a dialogue about these works. This interaction via Instagram allows the museum to further understand visitor behaviors and interests. We also enivision this being a QA platform-- Visitors can ask questions in their posts that the museum could anser.
 
----
+---   
   
   
 We fell this unlocks the following capabilities:
 
 **Museum**
+- Better understand visitor behaviors and collection engagement
 - Engagement and advertising
 - Direct communication with visitors
 
 **Visitors**
 - Museum acknowledgment
-- Social media oriented -- simplifies onboarding and overall experiences and no additional software needed
 - Explore art through creative lens
+- Social media oriented -- simplifies onboarding and overall experiences and no additional software needed
 
 
 ![Screen Shot 2021-04-01 at 2.27.14 PM.png]({{site.baseurl}}/assets/Screen Shot 2021-04-01 at 2.27.14 PM.png)
