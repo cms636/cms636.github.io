@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Generous Interfaces for Digital Cultural Collections - Antonella's comment
 author: Antonella Masini
