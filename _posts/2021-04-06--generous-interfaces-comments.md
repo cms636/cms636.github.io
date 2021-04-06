@@ -1,0 +1,10 @@
+---
+layout: post
+published: true
+category: commentary
+title: “Generous Interfaces” Comments
+author: Delace Jia
+tags:
+  - Week 8
+---
+I hadn’t considered comparing physical to digital collections before this reading, but Whitelaw’s analogy of an attendant wheeling a trolley of ten paintings struck me in how different representations currently are. It’s interesting to consider how a digital collection can be much larger than a physical collection due to the amount of space that can be allocated to store information on objects, but how little space there is for anyone to observe these digital collections (being limited to a screen of information at a time). Current conventional forms try to present enough information through a long list or set of thumbnails, but the argument for “Generous Interfaces” is to instead present “rich scenes, full of potential objects of interest, that the eye can take at once.” Through the examples provided, I can see how generous interfaces improve the browsing experience. Visuals such as relating image size to collection size give context to the nature of the collection and help organize the collection for a more targeted browsing experience. To deal with the restriction of screen space, these collections are presented in layers, where interactions with the pieces will reveal more information (such as the Decade Summary, where a series of clicks moves from showing the whole collection, to an array of cropped thumbnails, and finally details of individual works). While generous interfaces present organized information and provide engaging ways of browsing through graphical representations of the metadata, they do have some downfalls with this organization. Generous interfaces organize data and compress it for consumption, but cause it to rely heavily on collections with basic tags. More unique collections are often shuffled into an ‘other’ category and are overshadowed by the larger categories. I also wonder how the serendipity of browsing is affected by generous interfaces, where the compression requires users to pick a branch of the collection before delving deeper into individual works. 
