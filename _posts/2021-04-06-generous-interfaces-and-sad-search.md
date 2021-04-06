@@ -5,7 +5,7 @@ category: commentary
 title: Generous interfaces and sad search
 author: Justin Blinder
 tags:
-  - Week 7
+  - Week 8
 ---
 In "Generous Interfaces for Digital Cultural Collections" Mitchell Whitelaw, highlights many of the shortcomings of traditional collection searching/ browsing.  This has given rise to more humanistic ways of engaging with online collections that also encourage exploration. I think a crucial benefit of "generous interfaces" outlined in the paper is their ability to reveal patterns and relationships within a collection, and also how they can interface with outside archives. They also open the opportunity to create new metadata that connects works in the collection (for example, the Queenslander front-page color analysis). However, generous interfaces tend to take a heavy-handed approach to visualizing a collection and rely heavily on rich metadata to surface some works more than others. Because of this, works with less metadata could fall through the cracks in these interfaces, and the lack of information about them could be mistaken for lack of significance.
 
