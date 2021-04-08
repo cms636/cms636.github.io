@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: Generous Interfaces and Digital Storytelling in Museums Commentary
 author: Trevor Morrisey
 tags:
