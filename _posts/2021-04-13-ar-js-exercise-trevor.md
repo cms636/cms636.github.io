@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: AR.js Exercise - Trevor
 author: Trevor Morrisey
-tags: ''
 ---
 I made a scene with multiple markers which control models that represent real world objects. I wanted to build a small, customizable village but because of time constraints I just implemented two basic objects, a house and a tree. With more time I would have liked to add one or two more unique objects and set up the scene to be able to register and track multiple instances of a single marker if possible.
 
