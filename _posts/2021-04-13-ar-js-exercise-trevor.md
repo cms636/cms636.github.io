@@ -4,6 +4,7 @@ published: false
 category: updates
 title: AR.js Exercise - Trevor
 author: Trevor Morrisey
+tags: ''
 ---
 I made a scene with multiple markers which control models that represent real world objects. I wanted to build a small, customizable village but because of time constraints I just implemented two basic objects, a house and a tree. With more time I would have liked to add one or two more unique objects and set up the scene to be able to register and track multiple instances of a single marker if possible.
 
@@ -11,5 +12,6 @@ I ran into a couple problems importing assets into my scene. I initially tried t
 
 [Here's my code.](https://glitch.com/edit/#!/military-indigo-clover)
 
-![]({{site.baseurl}}/assets/ar_js%203.png)![ar_js 3.png]({{site.baseurl}}/assets/ar_js 3.png)
+![AR.js screenshot 1.png]({{site.baseurl}}/assets/AR.js screenshot 1.png)
+
 
