@@ -13,5 +13,6 @@ I ran into a couple problems importing assets into my scene. I initially tried t
 [Here's my code.](https://glitch.com/edit/#!/military-indigo-clover)
 
 ![AR.js screenshot 1.png]({{site.baseurl}}/assets/AR.js screenshot 1.png)
+![AR.js screenshot 2.png]({{site.baseurl}}/assets/AR.js screenshot 2.png)
 
 
