@@ -9,7 +9,5 @@ For me, this exercise was a little easier than the API exercise because there wa
 
 I have the standard Hiro marker that brings up some text as well as a pattern of fish I made a while back. My other marker is a personally made pattern with an image of string lights inside. It shows a cylinder when in view. I found some code online that plays audio whenever a 3D shape is present, and I used it to play a song whenever the cylinder is in view. The script for it uses JavaScript, and while I can understand generally what it does, I’m still very unused to the JavaScript syntax and the use of components. On the AR.js documentation, they also note that audio requires a user interaction on iOS (like a click), so the script I use doesn’t work on the phone (it does work when I use my webcam on my laptop). I’ve attached some of my custom markers below (only the string light one works, sadly), and an image of the website displaying the components over them. The link to my site is here: https://delacejia.github.io/AR-practice/A-frame/ 
 
-![The marker that works]({{site.baseurl}}/assets/pattern-lights_megacrop.png)
-![pattern-fork-01.png]({{site.baseurl}}/assets/pattern-fork-01.png)
-![pattern-fish_bleu (1).png]({{site.baseurl}}/assets/pattern-fish_bleu (1).png)
+![manymarkers.png]({{site.baseurl}}/assets/manymarkers.png)
 ![ar_exercise.jpg]({{site.baseurl}}/assets/ar_exercise.jpg)
