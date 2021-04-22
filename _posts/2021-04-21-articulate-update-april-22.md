@@ -7,7 +7,7 @@ title: ARticulate update April 22
 **Introduction**
 ARticulate is a mobile tool that allows museumgoers to participate in the public commentary. Visitors can choose to engage with art pieces in two ways. First, visitors can create responses. This entails annotating a piece in AR, writing a short piece of text to support the annotation, and tagging that response. For certain pieces or exhibits, we would like to enable the curator to provide a prompt or question to visitors to respond to. For other pieces, freeform response would still be available. In the second interaction mode, visitors can view others’ responses, filtering by tags if desired. Here, they can respond using emoji reactions. 
 
-**Research**
+**Reserach**
 Interviews with MFA staff and museum goers have told us that different visitors will choose to engage differently. Some people will prefer to read others’ responses first, and some people prefer to create responses first. Because of that, we are equally prioritizing these two paths of engagement. 
 
 We have seen how ARticulate could provide benefit to both museum goers and the museum staff. Museum goers will be able to engage with art in a new way. Other modes of providing visitor feedback and responses exist, but with ARticulate, visitors are able to visually annotate a piece in AR. This is a new function that brings a visitor’s engagement even closer to the original piece. Being able to see others’ commentary allows visitors to see a diverse set of modern viewpoints. This is often missing in many exhibits. 
