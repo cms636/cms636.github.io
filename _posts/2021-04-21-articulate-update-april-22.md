@@ -18,6 +18,8 @@ MFA staff who focus on social media engagement have been asked by museum leaders
 Visitors will primarily use their personal device to use ARticulate, but museum-owned devices will be available to ensure everyone has access to this tool. This is in line with what the MFA currently offers.
 
 
+
+
 **UI/UX**
 Based on feedback from classmates and from MFA staff, we updated our UI/UX to prompt the user to add personal info tags such as age when they first use the app, tag their response with content identifiers, and filter responses via the tags. The current Figma prototype can be accessed [here](https://www.figma.com/proto/qWZ8ITvQK8M2P9pIW4IeyA/ARticulate?node-id=9%3A2&scaling=scale-down&page-id=0%3A1). 
 
