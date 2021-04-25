@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Harvard Art Museums AI experiments
 author: 'Joy Li '
