@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Criticism of Watching Machines Love Grace
+author: Audrey Cui
+tags:
+  - Week 10
 ---
 I don't think this project was well thought out. The project seems to claim that because vision systems strip away the context of the scene to zone in on the face, it’s dehumanizing and therefore problematic that we’re being “watched over” by machines all the time via consumer systems such as FaceID, snapchat filters, etc. I completely agree that there are important ethical implications that should be considered, but are often overlooked when it comes to facial recognition systems. But to what extent does this project actually address these issues? I personally don’t mind being simply “watched over” by machines, but I do mind what companies choose to do with my data. If it’s just to give me personalized ads, I’m fine with that. But if they’re using my data to build discriminatory automated hiring systems (a system built by Amazon would reject resumes containing “society of women engineers” and accept resumes containing “lacrosse”), I would have a problem with that. I don't think it's the bounding boxes on faces that are dehumanizing; it's the discriminatory policies informed by biased systems that are dehumanizing. 
 
