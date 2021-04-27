@@ -1,0 +1,9 @@
+---
+layout: post
+published: true
+category: updates
+title: Aixquisite Corpse Commentary
+author: Sarah Edwards
+---
+I didn't find the project itself to be all that interesting from what I could tell. It seems like the original game it was based on was fun because you had no idea what the other pieces would be, but in this case you pick all of them by yourself. The only sense of unknown is not knowing what particular sections you'll have to work with. In a museum, this could be easily fixed by having three different visitors pick different sections and seeing what appears on the screen at the end, or having the computer randomly pick one of the components and keeping it hidden until the figure is complete. 
+What I did like about this piece was what seemed to be the underlying thought process behind the work. The video about the piece asks the question, "how can (or will) human agents interact with algorithms to produce new modes of creative and curatorial expression?" I liked this question a lot because it frames the use of AI as a collaborative process between human and computer to produce new and different ways of expression. It's about more than just using computers to automate processes, or serve as an organizational tool, and instead looks at the ways it can be used to create something entirely different. I think that, at least, does come through with this process. It relies both on the human component of the pre-existing game and the computational component of generating metadata and sorting images into tags to create something that is different from what either of the two does on its own. While this particular project wasn't super successful in my opinion, I think this way of thinking about how we can use AI is valuable and would be interested to see more projects along these lines. 
