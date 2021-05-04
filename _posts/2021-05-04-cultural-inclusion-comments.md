@@ -5,7 +5,7 @@ category: commentary
 title: Cultural Inclusion Comments
 author: Delace Jia
 tags:
-  - Week 10
+  - Week 11
 ---
 In his article on cultural inclusion, Kevin Coffee makes some points that are still relevant today. Coffee discusses the role museums take in building public perception of cultures and social distinctions. Something interesting Coffee brings up is the exclusion of social practices that distinguish divisions between cultures, particularly with the example of French paintings showing up in ‘art’ museums and Mangbetu sculptures placed in ‘ethnographic’ museums. The distinction between two objects that share the same traits of artistic expression yet are classified under different contexts of display brings up the nuanced way in which museums can create divisions between cultures. 
 
