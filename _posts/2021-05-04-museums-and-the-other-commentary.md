@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: Museums and the Other Commentary
 author: Trevor Morrisey
 tags:
