@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: On museums and culture inclusion/ exclusion
 author: Justin Blinder
 tags:
