@@ -5,7 +5,7 @@ category: commentary
 title: 'Cultural inclusion, exclusion and the formative roles of museums - Antonella'
 author: Antonella Masini
 tags:
-  - Week 10
+  - Week 11
 ---
 In this article, Kein Coffee makes an interesting point about how “culture practices are fundamentally social processes and not simply collections of things.” Even though this article was written in 2008, I believe that this is still true to this day. Most likely, this is still done in this way because of how people currently think about museums. There is this general perception that, for instance, art museums have paintings as their main focus, and that most of the artists come from Europe. It is also important to highlight that a good number of museums have their roots in elite personal collections, which could be one of the factors that explains this general perception. This is definitely not a positive aspect about museums since it hinders inclusivity and growth. It might be true that throughout these past few years museums have started working on this, trying to reduce their biases and offer a more multicultural collection of objects but I honestly think it is still not enough. However, for museums to continue in this search for a less biased exhibition, the general public must change their stereotypes about exhibits. At the end of the day, museums are interested in maximizing their number of visitors so if they see that a more multicultural collection throws visitors off, they will revert to their original roots. 
 
