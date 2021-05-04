@@ -1,0 +1,13 @@
+---
+layout: post
+published: true
+category: commentary
+title: 'Cultural inclusion, exclusion and the formative roles of museums - Antonella'
+author: Antonella Masini
+tags:
+  - Week 10
+---
+In this article, Kein Coffee makes an interesting point about how “culture practices are fundamentally social processes and not simply collections of things.” Even though this article was written in 2008, I believe that this is still true to this day. Most likely, this is still done in this way because of how people currently think about museums. There is this general perception that, for instance, art museums have paintings as their main focus, and that most of the artists come from Europe. It is also important to highlight that a good number of museums have their roots in elite personal collections, which could be one of the factors that explains this general perception. This is definitely not a positive aspect about museums since it hinders inclusivity and growth. It might be true that throughout these past few years museums have started working on this, trying to reduce their biases and offer a more multicultural collection of objects but I honestly think it is still not enough. However, for museums to continue in this search for a less biased exhibition, the general public must change their stereotypes about exhibits. At the end of the day, museums are interested in maximizing their number of visitors so if they see that a more multicultural collection throws visitors off, they will revert to their original roots. 
+
+In his article, Coffee also discusses why people go to museums. He starts by only mentioning leisure, but then adds that throughout the years, people have started going to museums for informal and formal learning,  aesthetic pleasure and contemplation, as ritual instruments for promoting political identity, and to reinforce social strata and class distinctions. I believe that this continues to be true in 2021. Even up to this day, there is clearly a specific sector of the population who visits museums more often than others. This is typically someone who is of Euro-American ancestry and/or who belongs to the upper or middle social class. Minorities do not seem to visit museums with frequency. Again, the ratio between these sectors have gradually become a bit more balanced but there is definitely so much room for improvement for museums to attract a more diverse public. Efforts have been made though, such as the use of more technology to offer a more interactive experience. Something interesting to note is how the rise of social media and the desire of posting aesthetically pleasant pictures from mostly young people has increased their frequency to visit museums “just for the gram”.
+
