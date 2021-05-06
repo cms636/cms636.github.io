@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: ARticulate 5/6 update
 author: 'Georgia, Trevor, Audrey '
@@ -23,3 +23,6 @@ Here's a [link](https://www.figma.com/proto/qWZ8ITvQK8M2P9pIW4IeyA/ARticulate?no
 Here's a [link](https://www.figma.com/file/PQIldnDWa6Jhb0wUKj2K4H/ARticulate-web-app?node-id=0%3A1) to the updated web app. The only noticeable design change is adding name/date to the AR annotations, so that it's clear in the ARticulation gallery that adjacent annotations and responses may not be related. 
 
 ## Technology
+We've continued to implement features from the mockups in the functional prototype. There are several more frontend changes that need to be made but the appearance of the prototype is almost finalized at this point.
+
+Our team recently discussed what our goals for the end of the semester were and decided to aim for a proof of concept that could be picked up by a different team in the future. As a result, our development tasks have changed. Since we won't have any actual user data to work with, fully prototyping a database won't be a priority. Instead we'll come up with a high level idea of how the app would interact with the database and simply build hooks into the code for now. Our main priorities going forward will be ensuring the codebase is as readable and scalable as possible and developing a more polished functional prototype.
