@@ -6,7 +6,7 @@ title: Final Project Presentations
 ---
 Public Event, May 18, 2020, 2 PM  via Zoom
 
-The class CMS.635/855 – Extending the Museum culminated in the public presentation of the final student group projects. For each of the projects below, you'll find the respective video of the presentation, a link to the presentation siides and a copy of the design paper.
+The class **CMS.635/855 – Extending the Museum** culminated in the public presentation of the final student group projects. For each of the projects below, you'll find the respective video of the presentation, a link to the presentation siides and a copy of the design paper.
 
 2:05 pm		[Introduction](http://web.mit.edu/course/other/cms.636/www/videos/FPP-Intro.mp4) (Kurt Fendt)
 
