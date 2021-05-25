@@ -25,14 +25,18 @@ Museums often highlight specific works in promotional materials, so much so that
 
 2:35 pm	—	**Parallax** - Presentation and Q&A
 
-[Video](http://web.mit.edu/course/other/cms.636/www/videos/FPP-Parallax.mp4) | [Presentation](http://web.mit.edu/course/other/cms.636/www/presentations/Parallax.pdf) | [Final Design Paper](http://web.mit.edu/course/other/cms.636/www/papers/Parallax.pdf)
+[Video](http://web.mit.edu/course/other/cms.636/www/videos/FPP-Parallax.mp4) | 
+[Presentation](http://web.mit.edu/course/other/cms.636/www/presentations/Parallax.pdf) | 
+[Final Design Paper](http://web.mit.edu/course/other/cms.636/www/papers/Parallax.pdf)
 
 Parallax is an audio based experience that re-defines how visitors view public art. As a medium for discovery and rediscovery, Parallax streamlines traditional museum context with user inputted perspectives and interact with visitors on the MIT landscape.
 
 
 3:00 pm	—	**ARticulate** - Presentation and Q&A
 
-[Video](http://web.mit.edu/course/other/cms.636/www/videos/FPP-ARticulate.mp4) | [Presentation](http://web.mit.edu/course/other/cms.636/www/presentations/ARticulateFinalPresentation.pdf) | [Final Design Paper](http://web.mit.edu/course/other/cms.636/www/papers/ARticulate.pdf)
+[Video](http://web.mit.edu/course/other/cms.636/www/videos/FPP-ARticulate.mp4) | 
+[Presentation](http://web.mit.edu/course/other/cms.636/www/presentations/ARticulateFinalPresentation.pdf) | 
+[Final Design Paper](http://web.mit.edu/course/other/cms.636/www/papers/ARticulate.pdf)
 
 ARticulate is a mobile tool that allows museumgoers to participate in the commentary of artwork. By annotating pieces in AR and writing a response, museum visitors can provide previously unseen perspectives.
 
