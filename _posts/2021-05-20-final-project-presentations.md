@@ -11,12 +11,13 @@ The class **CMS.635/855 – Extending the Museum** culminated in the public pres
 2:05 pm		[Introduction](http://web.mit.edu/course/other/cms.636/www/videos/FPP-Intro.mp4) (Kurt Fendt)
 
 2:10 pm 	**Lost Art** - Presentation and Q&A 		
-			[Video](http://web.mit.edu/course/other/cms.636/www/videos/FPP-LostArt.mp4) | Presentation | Final Paper
+			[Video](http://web.mit.edu/course/other/cms.636/www/videos/FPP-LostArt.mp4) | Presentation | [Final Design Paper](http://web.mit.edu/course/other/cms.636/www/papers/LostArt.pdf)
 	
 2:35 pm		**Parallax** - Presentation and Q&A
-			[Video](http://web.mit.edu/course/other/cms.636/www/videos/FPP-Parallax.mp4) | Presentation | Final Paper
+			[Video](http://web.mit.edu/course/other/cms.636/www/videos/FPP-Parallax.mp4) | Presentation | [Final Design Paper](http://web.mit.edu/course/other/cms.636/www/papers/Parallax.pdf)
 
 3:00 pm		**ARticulate** - Presentation and Q&A
-			[Video](http://web.mit.edu/course/other/cms.636/www/videos/FPP-ARticulate.mp4) | Presentation | Final Paper
+			[Video](http://web.mit.edu/course/other/cms.636/www/videos/FPP-ARticulate.mp4) | Presentation | [Final Design Paper](http://web.mit.edu/course/other/cms.636/www/papers/ARticulate.pdf)
 
 3:25 pm		[Wrap-up/end](http://web.mit.edu/course/other/cms.636/www/videos/FPP-Closing.mp4)
+
