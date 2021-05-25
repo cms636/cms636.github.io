@@ -16,9 +16,9 @@ The class **CMS.635/855 – Extending the Museum** culminated in the public pres
 
 2:10 pm —	**Lost Art** - Presentation and Q&A 
 
-[Video] — (http://web.mit.edu/course/other/cms.636/www/videos/FPP-LostArt.mp4)
-[Presentation] — (http://web.mit.edu/course/other/cms.636/www/presentations/ARticulateFinalPresentation.pdf)
-[Final Design Paper] — (http://web.mit.edu/course/other/cms.636/www/papers/LostArt.pdf)
+[Video](http://web.mit.edu/course/other/cms.636/www/videos/FPP-LostArt.mp4) | 
+[Presentation](http://web.mit.edu/course/other/cms.636/www/presentations/ARticulateFinalPresentation.pdf) | 
+[Final Design Paper](http://web.mit.edu/course/other/cms.636/www/papers/LostArt.pdf)
 
 Museums often highlight specific works in promotional materials, so much so that their identities often end up being shaped (and limited) by their collections’ most famous works. But which works thus remain neglected, falling outside the periphery of typical visitor interest? Lost Art seeks to understand visitor attention toward specific pieces in a museum via Instagram photos, and help curators guide viewers towards less-viewed, but by no means lesser, works.
 	
