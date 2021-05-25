@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Final Project Presentations
+author: Kurt Fendt
 ---
 Public Event, May 18, 2020, 2 PM  via Zoom
 
