@@ -17,7 +17,7 @@ The class **CMS.635/855 – Extending the Museum** culminated in the public pres
 2:10 pm —	**Lost Art** - Presentation and Q&A 
 
 [Video](http://web.mit.edu/course/other/cms.636/www/videos/FPP-LostArt.mp4) | 
-[Presentation](http://web.mit.edu/course/other/cms.636/www/presentations/ARticulateFinalPresentation.pdf) | 
+Presentation | 
 [Final Design Paper](http://web.mit.edu/course/other/cms.636/www/papers/LostArt.pdf)
 
 Museums often highlight specific works in promotional materials, so much so that their identities often end up being shaped (and limited) by their collections’ most famous works. But which works thus remain neglected, falling outside the periphery of typical visitor interest? Lost Art seeks to understand visitor attention toward specific pieces in a museum via Instagram photos, and help curators guide viewers towards less-viewed, but by no means lesser, works.
@@ -32,7 +32,7 @@ Parallax is an audio based experience that re-defines how visitors view public a
 
 3:00 pm	—	**ARticulate** - Presentation and Q&A
 
-[Video](http://web.mit.edu/course/other/cms.636/www/videos/FPP-ARticulate.mp4) | Presentation | [Final Design Paper](http://web.mit.edu/course/other/cms.636/www/papers/ARticulate.pdf)
+[Video](http://web.mit.edu/course/other/cms.636/www/videos/FPP-ARticulate.mp4) | [Presentation](http://web.mit.edu/course/other/cms.636/www/presentations/ARticulateFinalPresentation.pdf) | [Final Design Paper](http://web.mit.edu/course/other/cms.636/www/papers/ARticulate.pdf)
 
 ARticulate is a mobile tool that allows museumgoers to participate in the commentary of artwork. By annotating pieces in AR and writing a response, museum visitors can provide previously unseen perspectives.
 
