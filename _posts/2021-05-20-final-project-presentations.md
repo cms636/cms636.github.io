@@ -7,7 +7,7 @@ author: Kurt Fendt
 ---
 ## Public Event, May 18, 2020, 2 - 3:30 PM  via Zoom
 
-The class **CMS.635/855 – Extending the Museum** culminated in the public presentation of the final student group projects. For each project you'll find the respective video of the public presentation via Zoom, links to the presentation siides and design papers, and a brief project description.
+The class **CMS.636/855 – Extending the Museum** culminated in the public presentation of the final student group projects. For each project you'll find the respective video of the public presentation via Zoom, links to the presentation siides and design papers, and a brief project description.
 
 
 
@@ -42,4 +42,3 @@ ARticulate is a mobile tool that allows museumgoers to participate in the commen
 
 
 3:25 pm	—	[Wrap-up/end](http://web.mit.edu/course/other/cms.636/www/videos/FPP-Closing.mp4)
-
