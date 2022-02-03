@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: What makes a museum a museum?
 ---
@@ -19,4 +19,4 @@ This article documents the choice, process and experience of the Lascaux Interna
 
 I think one inherent question I have is the longevity of such a museum, however. To me, it seems one concept it is hinged upon is the dichotomy of "ancient cave technology/art" vs "modern architecture/art." While interesting, I think that our modern landscape of constant, quick updates could render the "experience" outdated. This may not be a problem, I suppose.
 
-Overall, I do think this museum was quite an impressive concept overall and seems to have succeeded in its purpose of both preserving these cave paintings while allowing the general public to experience them as well. One is immersed into the experience of being in a cave, as archeologists and the original cave painters were. 
+Overall, I do think this museum was quite an impressive concept overall and seems to have succeeded in its purpose of both preserving these cave paintings while allowing the general public to experience them as well. One is immersed into the experience of being in a cave, as archeologists and the original cave painters were.
