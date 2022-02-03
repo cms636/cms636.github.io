@@ -2,7 +2,7 @@
 layout: post
 published: false
 category: updates
-title: types of engagement + importance of space
+title: types of engagement and importance of space
 author: ''
 tags: ''
 ---
