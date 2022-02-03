@@ -1,10 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: types of engagement and importance of space
-author: ''
-tags: ''
 ---
 ## Commentary: "The Participatory Museum"
 
@@ -13,4 +11,3 @@ One of Nina Simon's primary theses is that museums should give visitors the tool
 ## Commentary: "At the Foot of the Hill"
 
 I am struck by the dedication to conservation, to accessibility, and to shared human history required to not only replicate the art of the Lascaux cave but also the cave itself. In addition to being an enormous undertaking, this approach also emphasizes the importance of space on the experience of a work of art. Removed from its context, removed from its space, the cave art would be transformed. Still art, but not THE Lascaux cave art -- something different. In this sense, Lascaux IV is of course still not THE Lascaux cave art, but it acknowledges the significance and integrity of the original.
-
