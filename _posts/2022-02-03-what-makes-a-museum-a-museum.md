@@ -1,8 +1,11 @@
 ---
 layout: post
-published: true
-category: updates
+published: false
+category: commentary
 title: What makes a museum a museum?
+author: Hannah Toru (Shay)
+tags:
+  - Week 1
 ---
 ## Notes on 2040: Hello, and welcome to the future - Adam Rozen text
 
