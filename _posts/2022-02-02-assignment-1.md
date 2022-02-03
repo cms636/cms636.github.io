@@ -1,8 +1,11 @@
 ---
 layout: post
 published: false
-category: updates
+category: commentary
 title: 'Assignment #1'
+author: Tiffany Tran
+tags:
+  - Week 1
 ---
 ## "2040: Hello and Welcome to the Future" Comments
 
