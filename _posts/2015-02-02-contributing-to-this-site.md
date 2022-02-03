@@ -14,4 +14,7 @@ This site is collaboratively managed using [GitHub](https://github.com), [Jekyll
 
 - In Prose, you write in a format called Markdown—this is a lot more painless than coding your text in full HTML, but you can include any HMTL you want in it. You can refer to the [Markdown syntax page](http://daringfireball.net/projects/markdown/syntax), click the help button in the text editor, or just open up some other posts (like this one!) in Prose to get a feel for it.
 
-- Be sure to give your post a title up at the top of the Prose interface. Over to the right, click the Meta Data button to add your author name, select the category so the post will show up in the right place, and check "Publish" if it's ready to go. Finally, click the Save button and hit "Commit." Your new post will immediately show up on the site.
+- Be sure to give your post a unique title up at the top of the Prose interface. Over to the right, click the Meta Data button to add your author name, select the category so the post will show up in the right place, and check "Publish" if it's ready to go. Finally, click the Save button and hit "Commit." Your new post will immediately show up on the site.
+Should you see an error message, try renaming the title of your post as another student might have used the same title; titles (i.e. filenames) need to be unique.
+If you are still having problems, [email Kurt](mailto:fendt@mit.edu).
+
