@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: '"2040: Hello and Welcome to the Future" Reading Commentaryd'
+title: '"2040: Hello and Welcome to the Future" Reading Commentary'
 author: Camila Lee
 tags:
   - Week 1
