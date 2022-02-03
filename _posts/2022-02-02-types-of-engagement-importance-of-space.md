@@ -1,8 +1,11 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: types of engagement and importance of space
+author: Emma Batson
+tags:
+  - Week 1
 ---
 ## Commentary: "The Participatory Museum"
 
