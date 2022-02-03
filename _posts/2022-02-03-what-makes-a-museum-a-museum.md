@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: What makes a museum a museum?
 author: Hannah Toru (Shay)
