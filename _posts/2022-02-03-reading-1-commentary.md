@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: Reading 1 Commentary
 tags:
   - Week 1
