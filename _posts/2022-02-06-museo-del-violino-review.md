@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: ext-projects
 title: Museo Del Violino Review
 author: Devin Murphy
 ---
