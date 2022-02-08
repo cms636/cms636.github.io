@@ -4,6 +4,8 @@ published: true
 category: ext-projects
 title: 020822_Bob Bullock Texas State History Museum
 author: Marina Monsivais
+tags:
+  - Week 2
 ---
 ## Review of Bullock Museum
 
