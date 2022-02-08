@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: ext-projects
 title: 'New Musuem, NYC'
 author: Riad El Soufi
-tags: ''
 ---
 ##  New Museum – New York 
 ##  Online presence review
@@ -64,6 +63,4 @@ The museum successfully created / is associated with multiple organizations that
 
 -> NEWINC Musuem incubator - an incubator for people working at the intersection of art, design, and technology
 
--> Rhyzome – an organization dedicated to promoting digital art and culture through commissions, exhibitions, scholarship and digital preservation 
-
-
+-> Rhyzome – an organization dedicated to promoting digital art and culture through commissions, exhibitions, scholarship and digital preservation
