@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: people
 title: Marina Monsivais
+author: Marina Monsivais
+tags:
+  - Week 3
 ---
 ![Monsivais, Marina Headshot (2).jpg]({{site.baseurl}}/assets/Monsivais%2C%20Marina%20Headshot%20(2).jpg)
   
