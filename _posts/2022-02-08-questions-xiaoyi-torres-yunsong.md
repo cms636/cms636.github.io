@@ -4,7 +4,6 @@ published: true
 category: ext-projects
 title: Questions_Xiaoyi_Torres_Yunsong
 author: Yunsong Xiaoyi Torres
-tags: ''
 ---
 For Mit Museum: 
 -Are exhibited art pieces more around the integration of technology and art?
