@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: ''
+title: Data Compression as Performance
 author: Emma Batson
 tags:
   - Week 2
