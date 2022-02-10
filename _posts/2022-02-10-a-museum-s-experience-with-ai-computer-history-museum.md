@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: ext-projects
+category: datasets
 title: A MUSEUM'S EXPERIENCE WITH AI - Computer History Museum
 author: Kurt Fendt
 ---
