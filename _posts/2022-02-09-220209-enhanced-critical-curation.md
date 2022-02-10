@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: 220209_Enhanced Critical Curation
 author: Marina Monsivais
