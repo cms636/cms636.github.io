@@ -5,4 +5,4 @@ category: updates
 title: 'Wunderkammer: & CLIMATE, SCALING AND EVERYTHING'
 author: Yunsong Liu
 ---
-https://miro.com/app/board/uXjVONQqkNo=/?invite_link_id=130768082882
+[& CLIMATE, SCALING AND EVERYTHING](https://miro.com/app/board/uXjVONQqkNo=/?invite_link_id=121379761197)
