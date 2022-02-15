@@ -8,4 +8,5 @@ tags:
   - Week 3
 ---
 
-To access my online exhibition please use this link https://miro.com/app/board/uXjVOMufxqw=/?invite_link_id=211468901074 
+To access my online exhibition please use this link 
+[https://miro.com/app/board/uXjVOMufxqw=/?invite_link_id=211468901074]
