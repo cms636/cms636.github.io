@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: 20220215_The_Experience_Economy
+author: Marina Monsivais
+tags:
+  - Week 3
 ---
 ## _Reinventing the Museum_
 
