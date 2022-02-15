@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: ext-projects
+category: updates
 title: Online exhibition assignment
 author: Riad El Soufi
 tags:
