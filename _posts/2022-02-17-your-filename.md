@@ -12,5 +12,6 @@ Thiel emphasizes the engagement in her works “with the web of meaning” throu
 
 It seems the “kinesthetic, full body sensory” real place has been compared or discussed in parallel with virtual reality. Most of the literature I’ve encountered degrade one and celebrate another, and I wonder if this competition is necessary.
 
-The title **Cyber-Animism and Augmented dream**s speaks for Thiel’s ambition regarding AR and computer generated image. The consensual hallucination quality of AR is highly celebrated. I read Mark Hansen’s New Philosophy for New Media where he draws from henry bergson’s concept of the bodily affectivity to explain the user experience with ER is kind of interesting if you are into theoretical debate over ER VS reality.
+The title **Cyber-Animism and Augmented dream**s speaks for Thiel’s ambition regarding AR and computer generated image. The consensual hallucination quality of AR is highly celebrated. I read Mark Hansen’s New Philosophy for New Media where he draws from henry bergson’s concept of the bodily affectivity to explain the user experience with ER. It is kind of interesting if you are into theoretical debate over ER VS reality.
+
 It’s funny that she talked about the contamination of the technology with house rent ad and solipsistic tweets.
