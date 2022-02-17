@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: Transcending the Notions of Traditional Spectator in AR
+title: Transcending the Traditional Notions of Spectator in AR
 author: Derek Shen
 tags:
   - Week 3
