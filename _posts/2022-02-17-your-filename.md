@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: ''
+title: Thiel's Anime and AR
 author: Yunsong Liu
 tags:
   - Week 4
