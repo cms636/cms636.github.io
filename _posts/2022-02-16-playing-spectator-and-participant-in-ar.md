@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: Playing Spectator and Participant in AR
+title: Transcending the Notions of Traditional Spectator in AR
 author: Derek Shen
 tags:
   - Week 3
