@@ -4,7 +4,7 @@ published: true
 category: datasets
 title: >-
   Symposium 'Participation and Public Interpretations: How to Navigate Multiple
-  Historical Narratives in Museums?' (February 2022)
+  Historical Narratives in Museums?' (December 2021)
 author: Kurt Fendt
 ---
 Recordings of the Symposium 'Participation and Public Interpretations: How to Navigate Multiple Historical Narratives in Museums?' organized by the Luxembourg Centre for Contemporary and Digital History (C²DH).
