@@ -28,6 +28,7 @@ Museum: Controversy
 Technicality: not sure if ML could recognize nudity in various drawing
 		
 -  The envisioned audience for your project;
+
 Everyone? 
 Online and /or onsite						
 								
