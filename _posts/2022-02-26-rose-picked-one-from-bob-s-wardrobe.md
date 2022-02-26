@@ -23,6 +23,7 @@ Technicality:
 
 		
 -  Challenges;
+
 Museum: Controversy
 Technicality: not sure if ML could recognize nudity in various drawing
 		
@@ -31,18 +32,19 @@ Everyone?
 Online and /or onsite						
 								
 -  Potential museum collaborators:
+
 The ones that show the most results when I search nudity/nude
-1. Getty 
-2. Carnegie Mellon
+1. [Getty](https://www.getty.edu/art/collection/search/?pg=1&view=grid&query=YToxOntzOjU6InF1ZXJ5IjtzOjQ6Im51ZGUiO30%3D) 
+2. [Carnegie](https://collection.cmoa.org/?dir=desc&page=1&perPage=100&q=nude&sort=relevance&withImage=0) Mellon
  											
 -  The technological approach (if part of the project)
-Machine learning
-AR
+
+Machine learning,
+AR,
 Website
 		
 -  Skill sets needed for your project. 
-Machine learning
-AR
-website								
-						 					
-			
+
+Machine learning,
+AR,
+website
