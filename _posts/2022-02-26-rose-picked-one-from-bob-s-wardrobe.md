@@ -19,13 +19,14 @@ The project proposes not an alternative but integrative narrative of the current
 Technicality: 
 1. Machine learn and generate clothes for the naked ladies; 
 1. chronically correct clothes / flannel shirts
-1. AR via phone screen or website online exhibition (I remember one that shows two juxtaposing images with cursor)
+1. AR via phone screen or website online exhibition (I remember one that shows two juxtaposing images, moving with cursor)
 
 		
 -  Challenges;
 
 Museum: Controversy
-Technicality: not sure if ML could recognize nudity in various drawing
+
+Technicality: not sure if ML could recognize nudity in various drawings
 		
 -  The envisioned audience for your project;
 
