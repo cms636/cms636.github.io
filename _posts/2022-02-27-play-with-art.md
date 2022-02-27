@@ -13,9 +13,8 @@ Most virtual exhibitions use AR or VR technology to help visitors immerse themse
 Examples may include:
 1) Different parts of the painting can emit different music depending on the figure and color of the painting. The viewer can also create new music by choosing the type of music and atmosphere.
 2) Painting splice：the painting can be jointed with different pieces to create a new atmosphere and expression.(Inspire by a TikTok trend)
-![Painting Splice1]({{site.baseurl}}/assets/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__%26MsgID%3D5118963759426613295%26skey%3D%40crypt_6c9643cb_6ba4be0e16d21b921a91478e554ab2d6%26mmweb_appid%3Dwx_webfilehelper.jpg)
-![Painting Splice2]({{site.baseurl}}/assets/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=6805433717431122722&skey=@crypt_6c9643cb_6ba4be0e16d21b921a91478e554ab2d6&mmweb_appid=wx_webfilehelper.jpg)
-
+[Painting Splice1](https://drive.google.com/file/d/1eVgLZ7hUvdlyFo5RxjVjnSC9-a1rZrBE/view?usp=sharing)
+[Painting Splice2](https://drive.google.com/file/d/1jwaNAd0nTRd9tY5KU8-TtoieDOM6vjQz/view?usp=sharing)
 (not limited to eyes)
 
 **The audience**: all ages, accessible to the internet
