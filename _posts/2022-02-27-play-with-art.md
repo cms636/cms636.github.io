@@ -18,11 +18,14 @@ Examples may include:
 (not limited to eyes)
 
 **The audience**: all ages, accessible to the internet
+
 **Potential museum collaborators**: MFA, Getty
+
 **The technological approach**: 
 1. web design and development
 2. Machine Learning
 3. AR
+
 **Skill sets needed**:
 1. Tech: Web development, Machine learning, AR
 2. Project management
