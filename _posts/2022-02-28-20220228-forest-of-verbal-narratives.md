@@ -16,4 +16,3 @@ tags:
   This exhibit would be specific to the MIT Museum, but this concept can be applied to other audio collections.
   
   Technology needed would be speakers and the ability to parse through interview/audio recordings to create a cohesive conversationa and story. This would likely require coding and some creativity for placements/groupings of stories.
-
