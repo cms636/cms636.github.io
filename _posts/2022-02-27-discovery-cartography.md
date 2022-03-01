@@ -10,7 +10,7 @@ author: Trudy Painter
     
 - A description of the issue/problem that you are trying to address;
     - This is a framework for mapping human exploration patterns through data. I want to create a web platform for guests to explore content. However, as they explore, they will be creating a map of the content they explore in realtime similar to the photo below. The idea is to encourage guests to build a picture of what they explore and see how other people engaged with the content as well.
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9f0676c3-34ce-42bc-ba8b-fc2b913c9037/Untitled.png)
+    ![discovery_cartography.png]({{site.baseurl}}/assets/discovery_cartography.png)
     
 - The envisioned audience for your project;
     - Anyone! This will work best for people without vision impairment.
