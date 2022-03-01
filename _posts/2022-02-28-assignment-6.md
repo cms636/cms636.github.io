@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: 'Assignment #6'
+author: Tiffany Tran
 ---
 ## Interactive Replicas
 
