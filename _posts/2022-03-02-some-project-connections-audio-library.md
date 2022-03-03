@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Some Project Connections - Audio Library
 author: Emma Batson
