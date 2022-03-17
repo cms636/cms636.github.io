@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: Questions for Kristen Gresh
+title: Kristen Gresh Questions
 author: Antares Villaneda
 tags:
   - Week 7
