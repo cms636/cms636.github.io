@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: Storytelling and Digital Technologies
+author: Tiffany Tran
 ---
 ## “Digital Storytelling in Museums: Observations and Best Practices"
 
@@ -10,4 +11,4 @@ The author made many interesting observations that I have also noticed, such as 
 
 ## __Design is Storytelling__
 
-I really enjoyed the format
+For our project, I think the storyboard would be helpful by helping us connect the different stations that we would have. It would help others connect to each one more instead of only finding one interesting or finding all the different parts confusing.
