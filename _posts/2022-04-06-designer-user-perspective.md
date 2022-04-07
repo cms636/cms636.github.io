@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: designer / user perspective
 author: Yunsong Liu
 tags:
