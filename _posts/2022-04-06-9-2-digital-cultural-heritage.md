@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: 9.2 - Digital Cultural Heritage
 author: Trudy Painter
 tags:
