@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: ext-projects
-title: 20220411_Questions_for_Natalie
+title: 20220411_Questions_for_NatalieBell
 author: Marina Monsivais
 ---
 
