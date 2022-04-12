@@ -9,4 +9,4 @@ author: Emma Batson
 
 - Do you get a lot of visitors from the broader community or is it mostly MIT folks? What's it like to be an art museum at a technically focused institution?
 
-- How do you think about exhibiting unusual artifacts, like Matthew Angelo Harrison's 3D printers?
+- How do you think about exhibiting unusual artifacts, like Matthew Angelo Harrison's 3D printers? Do you often get the opportunity to display the technology that's part of an artistic process?
