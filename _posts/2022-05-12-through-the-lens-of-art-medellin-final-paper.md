@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: ext-projects
+category: updates
 title: through the lens of art medellin _final Paper
 author: Yunsong Liu & Xiaoyi Zhong
 ---
