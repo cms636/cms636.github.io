@@ -1,0 +1,39 @@
+---
+layout: post
+published: false
+category: updates
+title: Final Project Presentations
+author: Kurt Fendt
+---
+Public Event, May 10, 2022, 3:30 - 5:00 PM via Zoom
+
+The class CMS.636/855 – Extending the Museum culminated in the public presentation of the final student group projects. For each project you’ll find the respective video of the public presentation via Zoom, links to the presentation siides and design papers, and a brief project description.
+
+3:35 pm — **Introduction** (Kurt Fendt)
+
+3:40 pm —  **East Campus Continuity: A Projection Experience** - Presentation and Q&A
+
+Video | Presentation | Final Design Paper
+
+Museums often highlight specific works in promotional materials, so much so that their identities often end up being shaped (and limited) by their collections’ most famous works. But which works thus remain neglected, falling outside the periphery of typical visitor interest? Lost Art seeks to understand visitor attention toward specific pieces in a museum via Instagram photos, and help curators guide viewers towards less-viewed, but by no means lesser, works.
+
+4:00 pm — **A Phygital Museum Experience** - Presentation and Q&A
+
+Video | Presentation | Final Design Paper
+
+Parallax is an audio based experience that re-defines how visitors view public art. As a medium for discovery and rediscovery, Parallax streamlines traditional museum context with user inputted perspectives and interact with visitors on the MIT landscape.
+
+4:20 pm — **Through the Lens of Art** - Presentation and Q&A
+
+Video | Presentation | Final Design Paper
+
+ARticulate is a mobile tool that allows museumgoers to participate in the commentary of artwork. By annotating pieces in AR and writing a response, museum visitors can provide previously unseen perspectives.
+
+4:40 pm — **Auditory Immersion: The Black Experience at MIT** - Presentation and Q&A
+
+Video | Presentation | Final Design Paper
+
+ARticulate is a mobile tool that allows museumgoers to participate in the commentary of artwork. By annotating pieces in AR and writing a response, museum visitors can provide previously unseen perspectives.
+
+
+4:55 pm — Wrap-up/end
