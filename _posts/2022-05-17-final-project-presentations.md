@@ -15,25 +15,25 @@ The class CMS.636/855 – Extending the Museum culminated in the public presenta
 
 [Video](http://web.mit.edu/course/other/cms.636/www/videos/PV-EastCampusContinuity.mp4) | [Presentation](http://web.mit.edu/course/other/cms.636/www/presentations/FPP-EastCampusContinuity.pdf) | [Final Design Paper](http://web.mit.edu/course/other/cms.636/www/papers/FP-EC_Cultural_Continuity.pdf)
 
-Museums often highlight specific works in promotional materials, so much so that their identities often end up being shaped (and limited) by their collections’ most famous works. But which works thus remain neglected, falling outside the periphery of typical visitor interest? Lost Art seeks to understand visitor attention toward specific pieces in a museum via Instagram photos, and help curators guide viewers towards less-viewed, but by no means lesser, works.
+The East Campus Continuity project focuses on one of MIT’s oldest dorms, which for almost 100 years  has been home to 10 unique halls that all have a strong sense of culture and tradition. One of such traditions is the painting of murals on the walls.  With its immanent renovation in 2024, the project aims to create an interactive projection experience as a means to preserve the murals as they are now and the special reflection of student life they represent.
 
 4:00 pm — **A Phygital Museum Experience** - Presentation and Q&A
 
 Video | Presentation | Final Design Paper
 
-Parallax is an audio based experience that re-defines how visitors view public art. As a medium for discovery and rediscovery, Parallax streamlines traditional museum context with user inputted perspectives and interact with visitors on the MIT landscape.
+The Phygital Museum Experience project extends the Google Arts & Culture (GAC) app to create a personalized museum journey guide that stimulates social interaction and provides a seamless museum visit journey to support both new and returning museum visitors. 
 
 4:20 pm — **Through the Lens of Art** - Presentation and Q&A
 
 Video | Presentation | Final Design Paper
 
-ARticulate is a mobile tool that allows museumgoers to participate in the commentary of artwork. By annotating pieces in AR and writing a response, museum visitors can provide previously unseen perspectives.
+Through the Lens of Art, draws attention to artworks created in response to the political dissolution and processual transformation in Latin America. Using Medellín, a city in Columbia that has undergone great changes, as a test field to pilot a virtual museum platform, the project aims to recast arts’ agency in the contemplation and meditation in the contemporary estrangement, social upheavals, and structural inequality through the development of personalized, self-curated, and interactive visitor experiences.
 
 4:40 pm — **Auditory Immersion: The Black Experience at MIT** - Presentation and Q&A
 
 Video | Presentation | Final Design Paper
 
-ARticulate is a mobile tool that allows museumgoers to participate in the commentary of artwork. By annotating pieces in AR and writing a response, museum visitors can provide previously unseen perspectives.
+The Auditory Immersion into the Black Experience at MIT project offers navigational interfaces for a large collection of short audio clips to provide an immersive storytelling experience that is inclusive of visitors with visual or hearing impairments. The project’s multi-pronged approach utilizes tactile and spatial modes of encoding information so that visitors can navigate a collection of audio clips without resorting to touch screens or other purely visual methods of displaying information.
 
 
 4:55 pm — Wrap-up/end
