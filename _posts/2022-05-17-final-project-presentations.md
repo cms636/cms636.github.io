@@ -13,7 +13,7 @@ The class CMS.636/855 – Extending the Museum culminated in the public presenta
 
 3:40 pm —  **East Campus Continuity: A Projection Experience** - Presentation and Q&A
 
-[Video](http://web.mit.edu/course/other/cms.636/www/videos/PV-EastCampusContinuity.mp4)  |  [Presentation](http://web.mit.edu/course/other/cms.636/www/presentations/FPP-EastCampusContinuity.pdf)  |  [Final Design Paper](http://web.mit.edu/course/other/cms.636/www/papers/FP-EC_Cultural_Continuity.pdf)
+[Video](http://web.mit.edu/course/other/cms.636/www/videos/PV-EastCampusContinuity.mp4) | [Presentation](http://web.mit.edu/course/other/cms.636/www/presentations/FPP-EastCampusContinuity.pdf) | [Final Design Paper](http://web.mit.edu/course/other/cms.636/www/papers/FP-EC_Cultural_Continuity.pdf)
 
 The East Campus Continuity project focuses on one of MIT’s oldest dorms, which for almost 100 years  has been home to 10 unique halls that all have a strong sense of culture and tradition. One of such traditions is the painting of murals on the walls.  With its immanent renovation in 2024, the project aims to create an interactive projection experience as a means to preserve the murals as they are now and the special reflection of student life they represent.
 
