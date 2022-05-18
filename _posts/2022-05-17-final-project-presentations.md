@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
-title: Final Project Presentations
+title: Final Project Presentations (2022)
 author: Kurt Fendt
 ---
 Public Event, May 10, 2022, 3:30 - 5:00 PM via Zoom
