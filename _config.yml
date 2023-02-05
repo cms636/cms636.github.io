@@ -9,8 +9,8 @@ description: > # this means to ignore newlines until "baseurl:"
   use this space to keep track of course resources and example
   museum projects, as well as to post updates as their own design
   projects take shape.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://cms636.github.io/" # the base hostname & protocol for your site
+baseurl: "/Spring-2022" # the subpath of your site, e.g. /blog/
+url: "http://cms636.github.io/Spring-2022" # the base hostname & protocol for your site
 twitter_username: activearchives
 github_username: cms636
 permalink: none
@@ -20,8 +20,8 @@ markdown: kramdown
 
 prose:
   rooturl: '_posts'
-  siteurl: "http://cms636.github.io/"
-  relativeLinks: 'http://cms636.github.io/links.jsonp'
+  siteurl: "http://cms636.github.io/Spring-2022"
+  relativeLinks: 'http://cms636.github.io/Spring-2022/links.jsonp'
   media: 'assets'
   metadata:
     _posts:
