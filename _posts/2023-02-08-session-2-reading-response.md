@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Session 2 Reading Response
 author: Rachel Sawdy
