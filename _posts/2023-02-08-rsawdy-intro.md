@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: people
-title: RSawdy_Intro
+title: Rachel Sawdy
 author: Rachel Sawdy
 ---
 Rachel (she/her/hers) is a current M.Ed candidate at the Harvard Graduate School of Education in Learning Design, Innovation, and Technology. Rachel is passionate about creating equitable and meaningful learning opportunities for youth, especially in informal learning settings. She’s a current Graduate Student Teacher at the Harvard Art Museums.
