@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: people
-title: Jack Liufu Bio
+title: Jack Liufu
 author: Jack Liufu
 tags: ''
 ---
