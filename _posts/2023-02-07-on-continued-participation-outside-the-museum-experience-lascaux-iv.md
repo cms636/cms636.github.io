@@ -7,8 +7,6 @@ author: Jack Liufu
 tags:
   - Week 1
 ---
-by Jack Liufu
-
 In Nina Simon's writing on the participatory museum and the corresponding TED Talk, I was really drawn to how committed she was in the role of the museum as an active facilitator in getting people to interact with, learn from, try to understand, and connect with each other. I think it's interesting that in the ~10+ years since her book and talk, it seems like museums **have** incorporated more and more participatory elements and are increasingly aware of this role in society. 
 
 A personal story: at the Brooklyn Museum of Art in fall of 2021, I was absolutely moved by a work that invited you to leave (pin) an artifact of your own to contribute to the piece. And this just about front and center in the main gallery space. And to see all the things that people were leaving behind, from metro cards to baby photos to gambling receipts, and then for me to add my own piece to it where I felt like I was actively connecting with the pieces that I was placing my own artifact around; I feel like there is some social connectedness that Nina may be going for.
