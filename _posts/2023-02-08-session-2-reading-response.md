@@ -1,8 +1,8 @@
 ---
 layout: post
-published: true
+published: false
 category: commentary
-title: Session 2 reading response
+title: Session 2 Reading Response
 author: Rachel Sawdy
 tags:
   - Week 1
@@ -13,5 +13,3 @@ Something that each of these readings have brought to the forefront of my mind i
 Further, I wonder how voices of community members can influence and be a part of museum programming and engagement. Personally, I believe that early outreach is key, and early outreach is even more important. If museums are able to hook teen, or pre-teen, audiences, they may become lifelong museum goers and lovers. Because of their age demographic, teens are a great leverage point to interrupt the perception of museums as institutional, elite, non-representative or inclusive spaces. 
 
 For museums to become “fourth places,” as Rozan proposes (p. 21, 2017), it’s critical to consider how best to hook new visitors and encourage disillusioned visitors to return. Though there is no clear and easy answer to this, Simon’s work of participatory engagement is a great start.
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
