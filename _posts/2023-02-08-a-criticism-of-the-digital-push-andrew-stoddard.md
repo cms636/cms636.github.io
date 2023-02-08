@@ -7,7 +7,7 @@ tags:
   - Week 1
 author: Andrew Stoddard
 ---
-## Commentary on A. Rozan - Museums at 2040
+**Commentary on A. Rozan - Museums at 2040**
 
 I was interested in the "Digital Push" that Rozan commented on in "Museums at 2040." I believe that one of the main draws of a museum (at least for me personally) is seeing original copies of a work. Anyone can see the Mona Lisa on Google Images, but there is something special about seeing the real thing in person. You can carefully observe the brush strokes and the finer details of the work that just really can't be replicated by a photo. You feel a deeper sense of connection with the artist by physically seeing the original work. I also believe that the uniqueness of art gives it some of its inherent value. This presents a complex issue - how to balance preserving the unique feeling of seeing an original work in person, while also working expand the accessibility of art and museums to everyone. 
 
