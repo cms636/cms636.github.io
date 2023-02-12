@@ -9,7 +9,7 @@ tags:
 ---
 ## Museum's Place in Society and Covid's Push for A Virtual Integration
 
-#### That is a Museum 
+#### What is a Museum 
 It was fascinating to see that from the start, museums have often been seen as a place for discussion, education, and community, no matter if they were open to the public or acted more like private research institutions. They preserve the history of different societies while reflecting the societal focus during their times. What intrigued me the most was the constant shift between the museum acting as a place for priced collections versus a center for public engagements. I especially liked the quote from Arthur Parker, where he said that “museums that are not changing are in essence ‘dead institutions,’” and that they need to stay relevant to the changes in the world. Their functions change based on the needs and views of the people at the time, and their existence is ultimately serving what the generation of people chooses to see them as. The fact that the modern-day museums are reverting “back to the ancient forum” perhaps reflects our focus on building a connected society that promotes open discussion as well as a deeper link with the local community and history, that for our generation, communication and inclusivity are what we want our museums to entail.
     
 #### The Pandemic Changed Museums Forever (or Did It?) & How Will Covid-19 Change the Way Museums Are Built?
