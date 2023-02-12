@@ -2,16 +2,18 @@
 layout: post
 published: true
 category: updates
-title: Rethinking the MIT Museum - Rachel Sawdy & Razan Baabdullah
+title: 'Rethinking the MIT Museum '
 author: 'Rachel Sawdy, Razan Baabdullah'
 ---
 Rachel Sawdy & Razan Baabdullah
 
 **Rethinking the MIT Museum
 Our areas of interest:**
-1.Length of information in chat labels — what’s too little? Too much? How to engage with this?
 
-2.Opportunities for reflection
+Length of information in chat labels — what’s too little? Too much? How to engage with this?
+
+Opportunities for reflection
+
 
 **Our findings:**
 - Amount of text in wall and gallery labels varies across the exhibit—gallery wall was not immediately obvious on how to navigate, not a lot of monitors to engage with. Could be crowded 
