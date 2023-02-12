@@ -9,7 +9,7 @@ tags:
 ---
 ## History of musuems & effect of covid.
 
-#### The history of musuems
+#### The history of museums
 It was interesting reading about the history of musuems; it seems in many ways coorelated with the rise of industry and increasing concentration of wealth (I suppose this makes sense, as the "collection" type of musuem which many people identify with today largely started as private collections, and it's hard to collect, store, and exhibit objects (esp. signifigant ones) without having some wealth to go with it. I pulled some observations that seemed relevant to the notion of what a musuem's purpose has been, and what it could be:
 Way to better understand self & culture: humanists saw museums as collections of items to better understand classical past and the world.
 Smithsonian was pure science institute for a while. 
