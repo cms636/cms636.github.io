@@ -10,7 +10,8 @@ Rachel Sawdy & Razan Baabdullah
 **Rethinking the MIT Museum
 Our areas of interest:**
 1.Length of information in chat labels — what’s too little? Too much? How to engage with this?
-1.Opportunities for reflection
+
+2.Opportunities for reflection
 
 **Our findings:**
 - Amount of text in wall and gallery labels varies across the exhibit—gallery wall was not immediately obvious on how to navigate, not a lot of monitors to engage with. Could be crowded 
