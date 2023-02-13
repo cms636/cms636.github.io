@@ -1,8 +1,11 @@
 ---
 layout: post
 published: false
-category: updates
+category: commentary
 title: assignment-2-aouyang
+author: Anne Ouyang
+tags:
+  - Week 1
 ---
 # What is a museum
 
