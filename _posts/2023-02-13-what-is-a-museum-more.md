@@ -5,7 +5,7 @@ category: commentary
 title: What is a museum & more
 author: Andrew Stoddard
 tags:
-  - Week 1
+  - Week 2
 ---
 ## What is a Museum?
 One thing I want to comment on is the mention of the Exploratorium in San Francisco. I have been to this museum many times, and it is definitely one of my favorites. The Exploratorium is an extremely interactive museum - you can touch almost everything, and it is a place of learning, not of looking. It is primarily intended for kids, but they have stuff to do that is interesting to everyone. I would say that the Exploratorium is my favorite example of a new-age museum. In this article, and the ones from last week, the authors pointed out that modern museums need to become disconnected from the objects that they own or use. I was really struggling with this concept, as I personally felt that the objects are what define a museum. I go to a museum because there are specific objects I want to see, rather than going to a museum for the experience that the museum is going to create for me. I think this is especially true for art museums. I also am struggling with the concept of the online museum - I personally feel that I assign less value to things I see on the internet than in person, mainly due to how easy it is to use. It seems way less special to view something on the internet than in person. However, the mention of the Exploratoium helped me reshape my view of modern museums. I still do not believe that online museums are a good solution, but the Exploratorium does a great job of creating interactive experiences for the guests that go beyond the objects that they hold.
