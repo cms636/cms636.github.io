@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: What is a Museum and Covid-19
 author: Rebecca Friedman
