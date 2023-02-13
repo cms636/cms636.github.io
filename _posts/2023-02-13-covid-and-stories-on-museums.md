@@ -1,0 +1,19 @@
+---
+layout: post
+published: true
+category: commentary
+title: covid and stories on museums
+author: Livia
+tags:
+  - Week 2
+---
+There were several things that stuck me while reading the “What is a Museum?” excerpt. In the past, museums have been heavily focused on collections, and access was limited to the general public. It talked about how people seem to have this fervor for collecting. One of the reasons as to why that might be (and personally) is that there are stories behind all of the objects collected- even if it just looks cool, “I found a shiny object at the side of the road” is great too. It feels like that story element was lost when the general public was introduced to museums. There was no guidance for interpretation on those who didn’t know “how” to appreciate the collections (here, “how” is very extremely subjective). 
+For me personally, I feel like I’ve found museums lacking when there is a lack of story. After a while, shiny things just become shiny things. I wonder if there’s a way for people to engage with what’s behind the objects without going out of the way to talk to museum staff in order to learn more? Additionally, is there a way to engage that takes into account new forms of media since people are becoming more reluctant to initiate learning about something through reading a long block of text? If there are collections of objects, is there someone who is welcoming enough talk to who can share their passion for it all? After all, at least personally, museum staff always feel a little standoff-ish to me (an introvert who has a hard time approaching people). 	
+At the end, the paragraph about measuring success is very interesting to me. I personally agree with the parts of the reading where I think museums themselves should decide what they want to focus on and what type of museum they want to be. But, I wonder if there’s better ways for museums to get feedback from their users rather than generally-ignored optional emails, and data on traffic from their website. Perhaps a lot of problems can be solved just by creating a feedback loop within the design of the museum’s experience. 
+Highlight on the museum’s experience, rather than just the museum experience. 
+
+On covid:
+So according to the Morning Consult article, consumers are getting more comfortable with museums throughout the pandemic.
+I think one of the major complaints of traditional museums (let’s say, art museums) before COVID is how quiet it is. That there’s a certain level of etiquette to be maintained- that the museum seems to be above you, as a human, in the sheer amount of space and the elegance. People needed to respect others space, and some didn’t understand how others can stare at something for hours on end, wondering if they should be doing that too. It’s interesting to see that people are more comfortable with museums now since covid. Part of it may be because museums are changing and have been rethinking their exhibits since covid, but also- from a psychological perspective, people are more receptive to staying away from others, being quiet, and respecting other people’s boundaries socially. Covid seems to have given people an excuse to be quiet, and others have been okay with that. The grand and spacious interiors are now comforting with the 6-foot rule, so it’s only natural that people feel more comfortable in them.
+The other articles are emphasizing a lot on museums moving virtual/digitally, and having hybrid options. I wonder how that’ll go in terms of new forms of story-telling, maintaining a genuine feeling of wonder while at the museum, rather than viewing from the comfort of our own homes, and creating genuine experiences for people? There’s so many directions to go in because of the digital age- infinitely more so than all the questions “What is a Museum?” posed.
+
