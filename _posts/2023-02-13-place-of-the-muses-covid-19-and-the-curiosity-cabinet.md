@@ -5,7 +5,7 @@ category: commentary
 title: 'Place of the muses, COVID-19 and the Curiosity Cabinet'
 author: Jack Liufu
 tags:
-  - Week 1
+  - Week 2
 ---
 I love etymology, and I think it's so interesting how this word "museum" derives from a place meaning "place of the muses'' (Alexander and Alexander, 2008) and this idea of connection between musing and amusement; personally I think this highlighting of play runs integral to how I perceive all learning experiences. The notion of museums as places of education and public enlightenment (Alexander and Alexander, 2008); I'm thinking back to last week and talking about the participatory museum and how, if it is the goal, to invite people in so that the space itself may not be the source of enlightenment but the people brought to the space and what they carry is a source. I am always thinking about assessment and measurement and how can we know if something is "working": "What's the appropriate criteria for measuring the impact of museums? How does a museum quantify its visitors' quiet, reflective inspiration" (Alexander and Alexander, 2008) posits a really interesting idea: measuring impact through silence. I think back to our sticky notes on things in museums we didn't like and how multiple notes were pointing out the idea of being uncomfortably or forcibly silent. Is this something that museums want to promote, especially if participatory engagement is the goal? And if not, what other methods can we use to assess engagement and impact? How does that interact with the social notion of "museums of science as schools... museums of art as temples'' (Alexander and Alexander, 2008)?
 
