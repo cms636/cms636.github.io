@@ -4,8 +4,6 @@ published: true
 category: commentary
 title: Assignment 2 Anugrah
 author: Anugrah Chemparathy
-tags:
-  - Week 2
 ---
 ## Reading Comments: What is a Museum?
 
