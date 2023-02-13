@@ -12,5 +12,5 @@ The article describes the different definitions and the evolving function of "th
 This article describes some of the architectural and interior design decisions to be made to museums to minimize the chances of spreading diseases. One of the negative impacts of this might be that it makes museums more alienating and impersonal than they already are –– a space with a more intimate feeling might be more attractive to the visitors. One examples the article mentions is a drive-through Van Gogh exhibit of projections of paintings on walls, which honestly just feels like a consumerist farce.
 
 
-
-
+# Why Museums Weathered the Pandemic Better Than Most — and Where They’re Headed Next
+I thought this article would be talking about how museums fare better in the pandemic financially because they aren't designed to be profitable institutions who rely on traffic for survival, but instead it mostly focuses on how the consumers are more comfortable with going back to museums. It would be interesting to see an article describing the financial structure of museums and why it is valuable for museums to stay as funded, non-for-profit institutions.
