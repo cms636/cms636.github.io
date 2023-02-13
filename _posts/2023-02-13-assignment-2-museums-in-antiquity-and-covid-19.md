@@ -7,7 +7,7 @@ author: razan baabdullah
 ---
 **On Museums in Antiqyity**
 
-**In Motion by Alexader and Alexander and Before Museums: The Curiosity Cabinet as Metamorphe by Stephanie Bowry**
+**Musems In Motion by Alexader and Alexander and Before Museums: The Curiosity Cabinet as Metamorphe by Stephanie Bowry**
 
 While most of the definitions mentioned in the "Museum in Motion" book contained a common denominator, namely that a museum is an educational space, the one that left me pondering was the writing of a German writer: "where every separate object kills every other and all of them together, the visitor."
 It was in this collection of words that I truly felt the intangible definition of a museum. It kills you without killing you. It forces you to revisit new experiences. One can’t relive new experiences without dying. It is as if all the objects compete with one another. Every object wants to outlive its rival, and in doing so, they embellish themselves to leave the viewer in awe. Their collectivity kills their viewers, only to make them realize new aspects of life. They metamorphose their viewers. They are thus inspirational.
