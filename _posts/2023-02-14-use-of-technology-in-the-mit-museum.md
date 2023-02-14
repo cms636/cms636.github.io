@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: 'Use of Technology in the MIT Museum '
 author: Rebecca Friedman and Lamees Rahman
