@@ -4,7 +4,6 @@ published: false
 category: updates
 title: 'Use of Technology in the MIT Museum '
 author: Rebecca Friedman and Lamees Rahman
-tags: ''
 ---
 
 **Findings**
@@ -23,4 +22,4 @@ tags: ''
 **What isn’t working**
 - Is there ever a thing as too much digital technology? Specifically on the second floor, almost all of the displays require active engagement and interaction with digital technologies for the most fruitful experience. The passive museum-goer who prefers a less interactive experience may feel left behind. 
 - The section where visitors could guess whether or not videos were deep fakes had multiple tv screens above the section, playing seemingly random videos. Though there was no audio on the videos, the multiple screens were still overwhelming and didn’t seem to contribute to the display. 
-- Some displays, such as the AI poetry creator, can be confusing and cause frustration. Patience is required from the visitor as they learn how to properly engage with these technologies. Visitors may think: Am I doing this right? Is there something else to this? I don’t think it’s working. 
+- Some displays, such as the AI poetry creator, can be confusing and cause frustration. Patience is required from the visitor as they learn how to properly engage with these technologies. Visitors may think: Am I doing this right? Is there something else to this? I don’t think it’s working.
