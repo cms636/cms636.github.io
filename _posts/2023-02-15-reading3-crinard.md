@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: updates
-title: reading3-crinard
+title: crinard-reading3
 author: crinard
 tags:
   - Week 3
