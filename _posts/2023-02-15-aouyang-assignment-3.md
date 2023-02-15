@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: aouyang-assignment-3
+author: Anne Ouyang
 ---
 ## Enhanced Critical Curation
 
