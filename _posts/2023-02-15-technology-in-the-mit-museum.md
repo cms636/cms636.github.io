@@ -2,11 +2,10 @@
 layout: post
 published: true
 category: ext-projects
-title: Technology in the MIT Museum
+title: Technology in AI exhibit at the MIT Museum
 author: 'Anugrah Chemparathy, Anirudh Rahul '
 ---
 
-## Technology
 One of the big problems we noticed when walking around was the difficulty of accurately explaining technical concepts in the museum format. One technological exhibit in particular demonstrated neural network inpainting with (what we presumed to be) epoch-by-epoch visualizations, but all of this would have been so unclear to someone without a background in machine learning. There was a diagram of the corresponding neural network architecture, but I have no idea how a casual observer would have any idea what it meant beyond being some aesthetically pleasing black and white boxes placed on top of each other.
 
 I personally felt that the AI exhibit devolved into showing people “impressive results” from the history of computing, but with little context for how they worked - style over substance.
