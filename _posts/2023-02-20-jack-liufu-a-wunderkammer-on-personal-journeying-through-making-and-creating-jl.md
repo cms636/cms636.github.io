@@ -2,9 +2,7 @@
 layout: post
 published: true
 category: updates
-title: >-
-  Jack Liufu | A Wunderkammer on Personal Journeying through Making and Creating
-  - JL
+title: A Wunderkammer on Personal Journeying through Making and Creating
 author: Jack Liufu
 ---
 Hi all,
