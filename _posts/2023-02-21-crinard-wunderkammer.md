@@ -8,7 +8,7 @@ tags: ''
 ---
 ## Wunderkammer: Travel
 
-Travel is a thing that I see as wonderful, that is to say that it is something that I personally enjoy greatly. Unfortunately, it's rather hard to do during the semester, so I've put together a set of items that remind me of it in my room. These are items/exhibits that represent travel in an intrinsic way to me, and I hope you enjoy them. 
+Travel is a thing that I see as wonderful, that is to say that it is something that I personally enjoy greatly. Unfortunately, it's rather hard to do during the semester, so I've put together a set of items that remind me of it in my room. These are items exhibits that represent travel in an intrinsic way to me, and I hope you enjoy them. 
 
 ### Item 1: Model Airport
 I put together a scale mock-up of what the sort of arport that you might be able t oget anywhere from might look like, and I've attached an image here. (I've been doing this since high school, so the exact layout may change). 
