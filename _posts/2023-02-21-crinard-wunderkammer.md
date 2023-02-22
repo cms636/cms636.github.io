@@ -19,5 +19,15 @@ I've taken my backpack with me pretty much every place that I've traveled, and t
 ![Screenshot 2023-02-21 at 22.32.02.png]({{site.baseurl}}/assets/Screenshot 2023-02-21 at 22.32.02.png)
 
 ### Item 3: Aviation Headsets
+Over the pandemic, I spent a fair amount of time flying around the U.S. in small aircraft. These are the headsets and kneeboard that I used. 
+![Screenshot 2023-02-21 at 22.33.36.png]({{site.baseurl}}/assets/Screenshot 2023-02-21 at 22.33.36.png)
 
+
+### Item 4: Watch
+I've always travelled with a watch, it's incredibly useful. 
 ![Screenshot 2023-02-21 at 22.32.05.png]({{site.baseurl}}/assets/Screenshot 2023-02-21 at 22.32.05.png)
+
+### Item 5: Duct Tape
+Whenever going to places that you haven't been before, things often go wrong. Sometimes it's the tent leaking, other times a piece of equipment doesn't work quite right, still others clothes rip. I used this roll (back when it was in it's prime) to patch all these and more.
+![Screenshot 2023-02-21 at 22.32.10.png]({{site.baseurl}}/assets/Screenshot 2023-02-21 at 22.32.10.png)
+
