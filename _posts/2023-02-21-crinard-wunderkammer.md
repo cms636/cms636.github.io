@@ -4,7 +4,6 @@ published: true
 category: updates
 title: crinard-wunderkammer
 author: crinard
-tags: ''
 ---
 ## Wunderkammer: Travel
 
@@ -30,4 +29,3 @@ I've always travelled with a watch, it's incredibly useful.
 ### Item 5: Duct Tape
 Whenever going to places that you haven't been before, things often go wrong. Sometimes it's the tent leaking, other times a piece of equipment doesn't work quite right, still others clothes rip. I used this roll (back when it was in it's prime) to patch all these and more.
 ![Screenshot 2023-02-21 at 22.32.10.png]({{site.baseurl}}/assets/Screenshot 2023-02-21 at 22.32.10.png)
-
