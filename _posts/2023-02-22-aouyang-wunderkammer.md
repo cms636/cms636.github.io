@@ -13,4 +13,4 @@ Despite the chaos and uncertainty of the pandemic, I discovered a sense of stabi
 
 Baudelaire's poem "Correspondences" depicted a synesthetic experience in which sensory perceptions –– colors, sounds, and scents –– become intertwined in the brain. Inspired by the poem's portrayal of synesthesia, I sought to capture a similar essence of interconnectedness between different art forms through a collection of color palettes named after and inspired by the various works I encountered during the COVID era.
 
-https://docs.google.com/presentation/d/1Oj29nw7NibuneqmE4kIX3PESKNjLuJNUlFDccct-z5E/edit?usp=sharing
+[https://docs.google.com/presentation/d/1Oj29nw7NibuneqmE4kIX3PESKNjLuJNUlFDccct-z5E/edit?usp=sharing](https://docs.google.com/presentation/d/1Oj29nw7NibuneqmE4kIX3PESKNjLuJNUlFDccct-z5E/edit?usp=sharing)
