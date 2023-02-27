@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: 'Reading around Experience '
 author: Feng(Aron) Qiu
 tags:
