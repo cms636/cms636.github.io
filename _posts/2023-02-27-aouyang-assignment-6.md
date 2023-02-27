@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: aouyang-assignment-6
+author: Anne Ouyang
+tags:
+  - Week 6
 ---
 ## aouyang-assignment-6
 
