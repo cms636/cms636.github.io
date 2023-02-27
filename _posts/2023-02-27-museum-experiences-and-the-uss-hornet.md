@@ -5,7 +5,7 @@ category: commentary
 title: Museum Experiences and the USS Hornet
 author: Andrew Stoddard
 tags:
-  - Week 3
+  - Week 4
 ---
 I thought these two articles were very insightful as I haven’t thought of museums as experiences before. As the economy becomes more and more experience based, it would make sense that museums become more like amusement parks or other forms of entertainment. I think one of the best museum-as-an-experience examples I can think of is the USS Hornet aircraft carrier. This is an aircraft carrier based in Alameda, CA. They have lots of exhibits, such as different airplanes, retrieval vehicles for the Apollo 11 mission, and stories about people who lived on the ship. They also have attractions, such as a flight simulator and other rides. The best experience I had on this ship was doing an after-hours ghost tour. This was a late at night tour with a guide, and all of the lights were off on the ship. We explored around with flashlights, and it was a much more memorable way to experience viewing the ship. I think making museums have unique, memorable experiences is the most important factor to move museums into the future.
 
