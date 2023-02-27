@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: aouyang-project-update
+author: Anne Ouyang
 ---
 # aouyang-project-update
 
