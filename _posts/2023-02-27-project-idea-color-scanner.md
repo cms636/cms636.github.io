@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Project Idea - Color Scanner
 author: Rebecca Friedman
@@ -19,5 +19,4 @@ author: Rebecca Friedman
 	The app will allow you to scan colors in works of art and then provide color palettes from those swatches or will let the user create their own color palette. The user can either find certain colors as part of a challenge or simply find colors they love. The user can then either create small works of art within the app using those colors or export those colors to a separate digital art platform. 
 
 ## Skill sets needed for your project
-	UI/UX design, knowledge of design and color theory, possibly coding 
-
+	UI/UX design, knowledge of design and color theory, possibly coding
