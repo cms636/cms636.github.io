@@ -12,3 +12,5 @@ Potential Implementation: We could implement something similar to whats shown [h
 
 Skills Needed: Someone who is interested in integrating sensors/cameras with an interactive exhibit, someone interested in computer vision models(I can cover this part), or just someone generally interested in creating immersive art exhibits
 
+Potential museum collaborators: Harvard art Museum, MIT Museum
+
