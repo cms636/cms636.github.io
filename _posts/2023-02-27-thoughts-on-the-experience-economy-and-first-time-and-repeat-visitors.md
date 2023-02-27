@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Thoughts on The Experience Economy and First Time and Repeat Visitors
 author: Rebecca Friedman
