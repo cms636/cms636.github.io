@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: 'Museum of Fine Arts: Contextualization'
 author: 'Razan Baabdullah, Tiffany Louie, Amy Ni'
