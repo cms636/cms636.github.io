@@ -3,6 +3,7 @@ layout: post
 published: false
 category: updates
 title: 'Museum of Fine Arts: Contextualization'
+author: 'Razan Baabdullah, Tiffany Louie, Amy Ni'
 ---
 Exhibit: SMFA @ Tufts Archive & Autobiography
 
@@ -25,12 +26,12 @@ Contextualization Thoughts
 	- The biography of the artists were hidden from view at first since it is on the wall right next to the entrance we went through 
 
 Development of a new concept: 
-The labels feature a good-sized font and an acceptable length. 
-Include short sections in the label text to feature the artists’ own voices to initiate a deeper conversation with the visitors
-Technology is not employed. This isn't necessarily a bad thing, but narrating a story is one effective use of technology in this area. 
-Audio from the artists themselves would be a nice addition
-Perhaps the addition of audio will create an emotional experience as the audio will narrate the background of the artwork, its creation process, and the artist's inspiration. It will bring humanness to the artwork. 
-Would still keep the color coding as it carries an emotional depth and content 
++ The labels feature a good-sized font and an acceptable length. 
++ Include short sections in the label text to feature the artists’ own voices to initiate a deeper conversation with the visitors
++ Technology is not employed. This isn't necessarily a bad thing, but narrating a story is one effective use of technology in this area. 
+	- Audio from the artists themselves would be a nice addition
++ Perhaps the addition of audio will create an emotional experience as the audio will narrate the background of the artwork, its creation process, and the artist's inspiration. It will bring humanness to the artwork. 
++ Would still keep the color coding as it carries an emotional depth and content 
 
 Contextualization of Pieces
 ![piece.PNG]({{site.baseurl}}/assets/piece.PNG)
