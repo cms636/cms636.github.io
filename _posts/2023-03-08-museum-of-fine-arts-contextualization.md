@@ -7,15 +7,15 @@ author: 'Razan Baabdullah, Tiffany Louie, Amy Ni'
 ---
 Exhibit: SMFA @ Tufts Archive & Autobiography
 
-#Exhibit
+## Exhibit
 
 ![exhibit.PNG]({{site.baseurl}}/assets/exhibit.PNG)
 
-#Context of Exhibit
+## Context of Exhibit
 
 ![context.PNG]({{site.baseurl}}/assets/context.PNG)
 
-#Contextualization Thoughts
+## Contextualization Thoughts
 + Thought that the exhibit was rather well contextualized, it consisted of 5 pieces that were unique to the artist’s background and they had interesting backstory in the description of the pieces
 	- Each artist had their own “Color that corresponded with their piece”
 + The exhibit itself was also well described (See description below)
@@ -27,7 +27,7 @@ Exhibit: SMFA @ Tufts Archive & Autobiography
 	- may have also had to do with the idea that the exhibit had multiple (~¾) entrances
 	- The biography of the artists were hidden from view at first since it is on the wall right next to the entrance we went through 
 
-#Development of a new concept: 
+## Development of a new concept: 
 + The labels feature a good-sized font and an acceptable length. 
 + Include short sections in the label text to feature the artists’ own voices to initiate a deeper conversation with the visitors
 + Technology is not employed. This isn't necessarily a bad thing, but narrating a story is one effective use of technology in this area. 
@@ -35,7 +35,7 @@ Exhibit: SMFA @ Tufts Archive & Autobiography
 + Perhaps the addition of audio will create an emotional experience as the audio will narrate the background of the artwork, its creation process, and the artist's inspiration. It will bring humanness to the artwork. 
 + Would still keep the color coding as it carries an emotional depth and content 
 
-#Contextualization of Pieces
+## Contextualization of Pieces
 
 ![piece.PNG]({{site.baseurl}}/assets/piece.PNG)
 ![piece2.PNG]({{site.baseurl}}/assets/piece2.PNG)
