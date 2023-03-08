@@ -8,6 +8,7 @@ author: 'Razan Baabdullah, Tiffany Louie, Amy Ni'
 Exhibit: SMFA @ Tufts Archive & Autobiography
 
 #Exhibit
+
 ![exhibit.PNG]({{site.baseurl}}/assets/exhibit.PNG)
 
 #Context of Exhibit
