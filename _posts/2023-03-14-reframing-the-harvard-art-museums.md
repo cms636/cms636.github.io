@@ -4,11 +4,15 @@ published: true
 category: updates
 title: Reframing the Harvard Art Museums
 author: Rachel Sawdy
+tags: ''
 ---
 ## Existing ReFrames: a Sphinx and a Falcon
 Two existing ReFrames that I appreciate can be found on the third floor: “Whose Tomb is This Sphinx Guarding?” and “Horus falcon wearing crown of Upper and Lower Egypt with uraeus.” 
 
-![]({{site.baseurl}}/assets/Screen%20Shot%202023-03-14%20at%204.44.00%20PM.png)![Screen Shot 2023-03-14 at 4.44.00 PM.png]({{site.baseurl}}/assets/Screen Shot 2023-03-14 at 4.44.00 PM.png)![]({{site.baseurl}}/assets/Screen%20Shot%202023-03-14%20at%204.44.00%20PM.png)
+<img width="400" height=auto
+![]({{site.baseurl}}/assets/Screen%20Shot%202023-03-14%20at%204.44.00%20PM.png)![Screen Shot 2023-03-14 at 4.44.00 PM.png]({{site.baseurl}}/assets/Screen Shot 2023-03-14 at 4.44.00 PM.png) />
+<img width="400" height=auto
+![]({{site.baseurl}}/assets/Screen%20Shot%202023-03-14%20at%204.44.00%20PM.png) />
  Something that has come up in a few conversations with one of my colleagues is that of provenance, especially in regard to ancient Egyptian work: the Sphinx points toward those conversations. The Sphinx’s ReFrame asks us to consider the meaning of this piece of art in the context of Cambridge versus that of its original intention. There are a number of objects at H/AM and at museums around the world that were originally from tombs, meant to guard a body in its afterlife. What I appreciate about this ReFrame is that it asks us to reckon with this: “Can it guard someone in the afterlife from here in Cambridge?” The label further invites viewers to share what they think regarding funerary objects and ethical display via QR code. In terms of improvement, I wonder how the experience of this conversation would change if visitors were able to see what others think as well–if the QR code led to more of a blog-format than a single response survey on Qualtrics. 
 
 ![Screen Shot 2023-03-14 at 4.43.23 PM.png]({{site.baseurl}}/assets/Screen Shot 2023-03-14 at 4.43.23 PM.png)
