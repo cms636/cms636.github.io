@@ -5,10 +5,10 @@ category: updates
 title: Alluvial Data Visualization
 author: Amy Ni
 ---
-## Using Alluvial Graph to visualize overlapping tags between men and women pictures
+## Using Alluvial Graph to visualize overlapping tags
 
 Taking inspiration from Max's example, I decided to use alluvial graph to chart the top-occuring tags between "man" and "woman" pictures as a different visualization method.
 
-![graph](https://drive.google.com/file/d/1Z40hsalc7Gs4lWzLyyclgP4FeBFH5W78/view?usp=share_link)
+![graph](https://imgur.com/a/D5YBzw2)
 
 Here's the link to the Observable notebook: https://observablehq.com/d/245e9fed46b31fc7
