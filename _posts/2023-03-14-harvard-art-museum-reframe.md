@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: ext-projects
+category: updates
 title: Harvard Art Museum Reframe
 author: Yuxin (Candy) +Aron +Betsy
 ---
