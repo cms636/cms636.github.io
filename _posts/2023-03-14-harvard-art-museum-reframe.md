@@ -1,13 +1,13 @@
 ---
 layout: post
 published: true
-category: updates
+category: ext-projects
 title: Harvard Art Museum Reframe
 author: Yuxin (Candy) +Aron +Betsy
 ---
 ## Nude in a landscape
 
-![]({{site.baseurl}}/assets/545601678857350_.pic.jpg)![545601678857350_.pic.jpg]({{site.baseurl}}/assets/545601678857350_.pic.jpg)
+![]({{site.baseurl}}/assets/545601678857350_.pic.jpg)![545601678857350_.pic.jpg]
 
 While at first sight, without having read the Reframe narratives, this painting looks bizarre with a naked woman standing amongst trees. Yet it is interesting how the narrative provides clueless viewers with so much useful information using limited number of words. The narrative mentions many different aspects, including the intentional choice of the natural setting, the common European stereotypical views of women, the influence on the painter through his travels, and the specific choice of painting material. This narrative triggers my interest in exploring other relevant works, such as other paintings with nudity theme by Otto Miller and also other contemporary paintings that reflect Europeans’ depictions of women. It also encourages me to think critically. For instance, the narrative mentions that this motif “relies on the European stereotype” of women’s body as objects of erotization, so I’m wondering whether this painting intended to support this stereotypical view or challenge it from the perspective of the painter. 
 
