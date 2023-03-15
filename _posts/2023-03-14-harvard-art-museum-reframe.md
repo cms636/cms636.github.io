@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: ext-projects
+category: updates
 title: Harvard Art Museum Reframe
 author: Yuxin (Candy) +Aron +Betsy
 ---
@@ -40,4 +40,3 @@ https://harvardartmuseums.org/collections/object/222835?position=7
 In these works of art, death was depicted leading people from all walks of life in a macabre dance to their ultimate demise, emphasizing the idea of death as the great equalizer. The sculpture of "Death with Left Hand Raised" continued this tradition by reminding viewers of their own mortality and the fleeting nature of life.
 The raised left arm of the skeletal figure serves as a warning to viewers, urging them to live each day to the fullest and to prepare for the inevitable end. Some examples of this sculpture, such as the woodcut by Hans Holbein the Younger, also incorporate other allegorical figures to emphasize the idea that death comes for all people, regardless of their status in life.
 Overall, the "Death with Left Hand Raised" sculpture serves as a powerful symbol of the transience of life and the need to live a virtuous life in preparation for the inevitable end. Its message has resonated throughout history and continues to inspire contemplation and reflection on the nature of mortality.
-
