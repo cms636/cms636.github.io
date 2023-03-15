@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Alluvial Data Visualization
 author: Amy Ni
