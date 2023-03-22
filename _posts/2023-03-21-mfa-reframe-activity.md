@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: ext-projects
+category: updates
 title: 'MFA Reframe Activity '
 author: 'Candy, Aron, Betsy '
 ---
