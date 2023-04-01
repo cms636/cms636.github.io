@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: The Future of Museum Storytelling and Transmedia Storytelling
 author: Rebecca Friedman
