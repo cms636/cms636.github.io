@@ -22,9 +22,4 @@ Small museums may be even better suited to telling stories. They are often alrea
 
 ## Transmedia Storytelling
 
-The article emphasizes that museums don’t need to create new stories, but tell existing ones, and tell them in an engaging way. Such engagement is best created through transmedia storytelling in which mini components of the larger story are told through different mediums. In terms of designing an exhibit to present inFORM, multiple means of communication would definitely be effective in telling the larger story of how inFORM was created, how it is used, and its significance. A large portion of the story we are telling about inFORm will be understood through experiencing it - going through the motions of interacting with the machine, interacting with others, and watching the machine itself. However, text and video explanations and interactions will be implemented to augment the experience of learning about inFORM, how it works, and its impact. 
-
-
-
-
-
+The article emphasizes that museums don’t need to create new stories, but tell existing ones, and tell them in an engaging way. Such engagement is best created through transmedia storytelling in which mini components of the larger story are told through different mediums. In terms of designing an exhibit to present inFORM, multiple means of communication would definitely be effective in telling the larger story of how inFORM was created, how it is used, and its significance. A large portion of the story we are telling about inFORm will be understood through experiencing it - going through the motions of interacting with the machine, interacting with others, and watching the machine itself. However, text and video explanations and interactions will be implemented to augment the experience of learning about inFORM, how it works, and its impact.
