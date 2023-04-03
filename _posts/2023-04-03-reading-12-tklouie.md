@@ -5,7 +5,7 @@ category: commentary
 title: reading 12 tklouie
 author: tiffany louie
 tags:
-  - Week 5
+  - Week 8
 ---
 # Question 6: How can a small museum with limited staff and budget implement such grand efforts?
 This question drew me in because it also covers the core of accessibility, essentially what are the bare minimum resources you need to make a museum experience connect with the community. Digital media has been crowned in such a manner for all types of innovation- software, digital creation, all these things that don’t require physical resources to make. I believe that this kind of focus on low resource connections doesn’t have to always be digital, however, and people bond much more in a physical space than via social media accounts. One of the museum’s key assets is the space that it provides and the people who work there, and think more about ways to capitalize on that, maybe with lates or community events that don’t need all the flashy themes and showcasing that take up a lot of resources, time, and planning. Why is opening up a discussion that expensive?
