@@ -1,0 +1,11 @@
+---
+layout: post
+published: true
+category: commentary
+title: The future of AI in museums
+author: Andrew Stoddard
+---
+I thought that both of these articles are very interesting, but seemed a bit out of date. This use of AI described by both articles has been in use for a long time (some of which I forgot are technically classified as AI). This gives me the sense that museums are quite far behind in using this technology. For the first article, I was interested in the robot art critic. I did not think this was a good use of AI, as first, people do not do a good job of physically showing their sentiment towards objects at museums, and second, I do not know what value this adds for the visitors. I think what is important at a museum is that visitors get to form their own opinions about the objects, and get to decide for themselves what is their favorite. This sentiment analysis can be useful for the museum, but I do not see how this technology in the form of a roaming robot helps enhance the guest experience. For the second article, I also felt that this was a very limited use of AI (and again, this is very old technology). I am shocked it took that long to create a portal for metadata generation. I really like the idea of creating new ways to explore the collection, but I think there are much better ways to implement this and promote exploration rather than explicit search.
+
+I think that Generative AI has the potential to revolutionize the museum experience, both at the museum and online. In the future, AI could be used to create personalized virtual tours, suggesting exhibits and collections based on users' interests and preferences. Additionally, AI could enhance storytelling and interpretation by generating contextually relevant content, such as visuals or narratives, to accompany the existing exhibits. This could lead to more immersive and engaging visitor experiences. As talked about in the second article, using AI to generate data about the collections can make API access much more complete and useful. I think the question that remains is what to do with works that are created by AI. I am personally of the opinion that these do belong in museums, and that the role of a “creator” is going to shift radically.
+
