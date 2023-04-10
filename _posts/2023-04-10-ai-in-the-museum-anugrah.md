@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: AI in the Museum (Anugrah)
+author: Anugrah Chemparathy
 ---
 The first article talks about AI from three different perspectives: creating moving exhibits (robots) powered by AI, as a tool to add engaging features to museums (like the selfie finder), and in the background to help power data analytics. I really like the second  idea personally - it feels like a really engaging application of AI that can be explained very easily at a high level to a general audience while also increasing the depth of your engagement with the museum. It’s also really easily extendable as generative AI becomes more powerful! One idea I was toying with was trying to use generative AI to create an artwork that summarizes all the art that you saw while walking around a modern art exhibit (just to see what it would look like).
 
