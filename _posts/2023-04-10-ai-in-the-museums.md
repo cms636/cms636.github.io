@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: AI in the Museums
 author: Rachel Sawdy
