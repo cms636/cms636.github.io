@@ -1,0 +1,13 @@
+---
+layout: post
+published: false
+category: updates
+title: AI in the Museum (Anugrah)
+---
+The first article talks about AI from three different perspectives: creating moving exhibits (robots) powered by AI, as a tool to add engaging features to museums (like the selfie finder), and in the background to help power data analytics. I really like the second  idea personally - it feels like a really engaging application of AI that can be explained very easily at a high level to a general audience while also increasing the depth of your engagement with the museum. It’s also really easily extendable as generative AI becomes more powerful! One idea I was toying with was trying to use generative AI to create an artwork that summarizes all the art that you saw while walking around a modern art exhibit (just to see what it would look like).
+
+The third idea is interesting - and something that my group is working on for our final project, so I suppose I’ll have a more experienced opinion about how AI will affect museums this way by the end of the semester. The first idea is the most gimmicky, but it could be interesting - maybe I’d change my mind if I actually saw the robot zooming around the museum.
+
+The second article was a little confusing to me - I wasn’t completely sure what the project that the CHM had undergone was really aiming to do. My current understanding is that the museum was trying to create a online system to review all the text, video, and image data they had collected about the history of AI over the course of their existence, as well as to use AI tools to create tagged metadata about each piece of the large online “exhibit”. I think the idea is somewhat interesting, but ultimately not that useful - many of the users had a “lukewarm” reception to it as well. 
+
+Part of my issue with the idea is that I just don’t know if the way information is presented in this way is actually that helpful to someone trying to learn about AI. If you’re going to sift through a huge online corpus, I imagine you’d be interested in just taking a real course about AI or reading a few wikipedia articles at which point I presume you’d get the same information but much faster and with less of a time/information bottleneck of having to watch several videos in the museum-video format. Also I suspect that most of the interesting pieces of artificial intelligence happened either 80 or 2 years ago. Almost all the information in between is obsolete or just plain uninteresting. This online collection doesn’t inform the general public about the two big leaps in AI, and is also more clunky than just being able to walk through well-organized educational exhibits.
