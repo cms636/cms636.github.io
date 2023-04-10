@@ -5,6 +5,7 @@ category: commentary
 title: AI in Museums
 tags:
   - Week 9
+author: Amy Ni
 ---
 In the article “How are museums using artificial intelligence, and is AI the future of museums,” the author highlights the potential use of AI in museums and notes that we are still in the learning stage when it comes to using and training AI. They mention how AI can not only provide engagement for the visitors but also help with the museum’s own operations, an aspect I have not seen as much. While having AI in the museum space and interacting with the visitors is an interesting way to showcase AI potential and attract visitors, they can be a lot more helpful if used by the staff themselves. A previous reading mentioned that the modern-day curation process can be complex given how much digital data exists everywhere, and AI could become a more efficient way to help curators and exhibit designers pick and find the right piece of information. AI’s ability to sort through data paired with the decision-making of the human staff could vastly improve and rationalize the choices museums have to make regarding their collections.
 
