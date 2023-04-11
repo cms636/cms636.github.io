@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: ext-projects
+category: updates
 title: inFORM Project Pitch
 author: 'Andrew Stoddard, Betsy Tian, and Rebecca Friedman'
 ---
