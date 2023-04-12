@@ -10,16 +10,16 @@ author: 'Andrew Stoddard, Rebecca Friedman, Rachel Sawdy, Jack Liufu'
 **Model:** GPT-4
 
 **Response:**
-How has generative AI influenced the conceptual direction and design of exhibitions at the MIT Museum?
-In what ways does the MIT Museum utilize generative AI to enhance visitors' experiences and engagement with technology?
-How does the "Turn MIT inside out" mission statement relate to the implementation and showcasing of generative AI in the museum?
-Can you provide examples of specific generative AI projects or installations currently on display at the MIT Museum?
-How do you envision the future of generative AI in the context of the MIT Museum, and how do you plan to incorporate upcoming advancements in AI technology?
-What challenges have you faced in integrating generative AI into the museum's exhibitions, and how have you addressed them?
-How do you ensure that the AI exhibit remains accessible and comprehensible to a diverse audience with varying levels of technical expertise?
-What role do collaborations with AI researchers, students, and industry professionals play in the development and presentation of the AI exhibit?
-How has the inclusion of generative AI in the MIT Museum impacted the museum's educational and outreach efforts?
-What ethical considerations do you take into account when incorporating AI technologies, particularly generative AI, into the MIT Museum's exhibitions?
+1. How has generative AI influenced the conceptual direction and design of exhibitions at the MIT Museum?
+2. In what ways does the MIT Museum utilize generative AI to enhance visitors' experiences and engagement with technology?
+3. How does the "Turn MIT inside out" mission statement relate to the implementation and showcasing of generative AI in the museum?
+4. Can you provide examples of specific generative AI projects or installations currently on display at the MIT Museum?
+5. How do you envision the future of generative AI in the context of the MIT Museum, and how do you plan to incorporate upcoming advancements in AI technology?
+6. What challenges have you faced in integrating generative AI into the museum's exhibitions, and how have you addressed them?
+7. How do you ensure that the AI exhibit remains accessible and comprehensible to a diverse audience with varying levels of technical expertise?
+8. What role do collaborations with AI researchers, students, and industry professionals play in the development and presentation of the AI exhibit?
+9. How has the inclusion of generative AI in the MIT Museum impacted the museum's educational and outreach efforts?
+10. What ethical considerations do you take into account when incorporating AI technologies, particularly generative AI, into the MIT Museum's exhibitions?
 
 **Evaluation:**
 I was very impressed with the questions that ChatGPT came up with. The prompt took a bit of refining to get the response that I was looking for. It originally thought the MIT was an art museum, so I needed to include a short description of what the MIT Museum is, and I also decided to include the mission statement for further context. I also included a short bio on who Ann is so that ChatGPT has the context on who we are asking the questions to. Finally, I included a section about what Ann will be doing with us in class and that we would like to ask her questions. After developing this prompt, I started to receive satisfactory questions. 
