@@ -5,6 +5,7 @@ category: updates
 title: inFORM Project Updates
 author: 'Andrew Stoddard, Betsy Tian, and Rebecca Friedman'
 ---
+### Updates
 - Initial designs and mock-ups
 	- See slides!
 - A detailed description of your updated technical approach (if applicable)
@@ -23,4 +24,7 @@ author: 'Andrew Stoddard, Betsy Tian, and Rebecca Friedman'
 	- in contact with Debbie on what an exhibit with inFORM might look like at the MIT Museum, we’re trying to get in touch with members of the Tangible Media Lab to understand the engineering aspects underneath the machine
 - Questions or issues that you are struggling with
 	- N/A
+    
+### Link to Presentation:
+[https://docs.google.com/presentation/d/1IReLXlz2TLvcmTHZT61fu2vJe1ODd5LH-cP84j7WWrM/edit?usp=sharing](https://docs.google.com/presentation/d/1IReLXlz2TLvcmTHZT61fu2vJe1ODd5LH-cP84j7WWrM/edit?usp=sharing)
 
