@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: inFORM Project Update
 author: 'Andrew Stoddard, Betsy Tian, and Rebecca Friedman'
